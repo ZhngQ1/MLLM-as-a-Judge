@@ -1,0 +1,1 @@
+Create a flat vector graphic of a cute animal using a limited color palette.
