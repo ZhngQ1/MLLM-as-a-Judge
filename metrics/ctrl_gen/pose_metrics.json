@@ -1,0 +1,402 @@
+[
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000239857.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000239857.png",
+        "metrics": {
+            "pose_iou": 0.2164344171404076,
+            "pose_ssim": 0.9637772673518796
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000250282.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000250282.png",
+        "metrics": {
+            "pose_iou": 0.011733917724154701,
+            "pose_ssim": 0.5771686413962892
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000267169.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000267169.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.0
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000284743.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000284743.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.0
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000301135.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000301135.png",
+        "metrics": {
+            "pose_iou": 0.08530062706701395,
+            "pose_ssim": 0.9498867571516063
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000320696.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000320696.png",
+        "metrics": {
+            "pose_iou": 0.21087648246877688,
+            "pose_ssim": 0.9699214076221545
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000342295.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000342295.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.0
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000352760.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000352760.png",
+        "metrics": {
+            "pose_iou": 0.06275767291997736,
+            "pose_ssim": 0.9419465181882912
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000371529.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000371529.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.0
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000404678.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000404678.png",
+        "metrics": {
+            "pose_iou": 0.09146341462975498,
+            "pose_ssim": 0.9058855637254806
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000413689.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000413689.png",
+        "metrics": {
+            "pose_iou": 0.17342527787428721,
+            "pose_ssim": 0.9573938339961686
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000417911.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000417911.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.0
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000439994.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000439994.png",
+        "metrics": {
+            "pose_iou": 0.1086956521554525,
+            "pose_ssim": 0.9737557561648643
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000440336.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000440336.png",
+        "metrics": {
+            "pose_iou": 0.07874784606095647,
+            "pose_ssim": 0.9183665732143264
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000441442.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000441442.png",
+        "metrics": {
+            "pose_iou": 0.15845382116281295,
+            "pose_ssim": 0.972509739135067
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000463918.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000463918.png",
+        "metrics": {
+            "pose_iou": 0.12866737362267777,
+            "pose_ssim": 0.9183621365323613
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000464144.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000464144.png",
+        "metrics": {
+            "pose_iou": 0.14755596161507872,
+            "pose_ssim": 0.9407039249419817
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000474039.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000474039.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.0
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000488251.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000488251.png",
+        "metrics": {
+            "pose_iou": 0.08506213542556114,
+            "pose_ssim": 0.9244086151215091
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000491366.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000491366.png",
+        "metrics": {
+            "pose_iou": 0.10056685898873535,
+            "pose_ssim": 0.9009014448213096
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000492282.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000492282.png",
+        "metrics": {
+            "pose_iou": 0.05321184509765723,
+            "pose_ssim": 0.9462872562727156
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000494759.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000494759.png",
+        "metrics": {
+            "pose_iou": 0.19606038287995942,
+            "pose_ssim": 0.9746235794841298
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000494869.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000494869.png",
+        "metrics": {
+            "pose_iou": 0.14764859273917375,
+            "pose_ssim": 0.9493825408569843
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000551215.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000551215.png",
+        "metrics": {
+            "pose_iou": 0.1115623506839017,
+            "pose_ssim": 0.9381274545266547
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000552842.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000552842.png",
+        "metrics": {
+            "pose_iou": 0.15630190069084665,
+            "pose_ssim": 0.976781651689134
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000569976.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000569976.png",
+        "metrics": {
+            "pose_iou": 0.019045420440985433,
+            "pose_ssim": 0.908153136590502
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000571718.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000571718.png",
+        "metrics": {
+            "pose_iou": 0.06049049518537371,
+            "pose_ssim": 0.9194789610928139
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000573258.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000573258.png",
+        "metrics": {
+            "pose_iou": 0.149680843423246,
+            "pose_ssim": 0.9346720359728447
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000001000.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000001000.png",
+        "metrics": {
+            "pose_iou": 0.03989289280112796,
+            "pose_ssim": 0.7707400269476765
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000005060.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000005060.png",
+        "metrics": {
+            "pose_iou": 0.17233745045766283,
+            "pose_ssim": 0.9609185676729115
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000009590.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000009590.png",
+        "metrics": {
+            "pose_iou": 0.07002564913144213,
+            "pose_ssim": 0.871369110843888
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000013291.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000013291.png",
+        "metrics": {
+            "pose_iou": 0.06713265227486241,
+            "pose_ssim": 0.8763632764970698
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000021903.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000021903.png",
+        "metrics": {
+            "pose_iou": 0.05330853865592615,
+            "pose_ssim": 0.9674811708704945
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000023126.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000023126.png",
+        "metrics": {
+            "pose_iou": 0.14050834660343023,
+            "pose_ssim": 0.9494167049194837
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000041990.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000041990.png",
+        "metrics": {
+            "pose_iou": 0.07991250826186924,
+            "pose_ssim": 0.8981460925667737
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000073946.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000073946.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.0
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000089648.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000089648.png",
+        "metrics": {
+            "pose_iou": 0.05325673687860415,
+            "pose_ssim": 0.8336553333901205
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000098287.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000098287.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.9924629786229509
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000104424.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000104424.png",
+        "metrics": {
+            "pose_iou": 0.11565945282608621,
+            "pose_ssim": 0.9548724415345529
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000109900.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000109900.png",
+        "metrics": {
+            "pose_iou": 0.09313598198795672,
+            "pose_ssim": 0.9453212401561422
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000123633.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000123633.png",
+        "metrics": {
+            "pose_iou": 0.03675547496035864,
+            "pose_ssim": 0.8484475833515607
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000129756.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000129756.png",
+        "metrics": {
+            "pose_iou": 0.284143222433723,
+            "pose_ssim": 0.9842099331570316
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000138639.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000138639.png",
+        "metrics": {
+            "pose_iou": 0.2040087010248588,
+            "pose_ssim": 0.9698277141577748
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000153011.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000153011.png",
+        "metrics": {
+            "pose_iou": 0.00410677618025432,
+            "pose_ssim": 0.9527676407828162
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000160728.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000160728.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.0
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000179898.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000179898.png",
+        "metrics": {
+            "pose_iou": 0.04448561132709522,
+            "pose_ssim": 0.7971640373939307
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000183709.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000183709.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.0
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000187243.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000187243.png",
+        "metrics": {
+            "pose_iou": 0.0,
+            "pose_ssim": 0.0
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000227491.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000227491.png",
+        "metrics": {
+            "pose_iou": 0.23789898279218705,
+            "pose_ssim": 0.949297649147587
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/pose/conditions/000000230993.jpg",
+        "generated_image": "../Model/ctrl_gen/results/pose/sd15/000000230993.png",
+        "metrics": {
+            "pose_iou": 0.024299736651645934,
+            "pose_ssim": 0.9281351898210922
+        }
+    }
+]

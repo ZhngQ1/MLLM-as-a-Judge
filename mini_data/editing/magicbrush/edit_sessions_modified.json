@@ -1,0 +1,1336 @@
+{
+    "258155": [
+        {
+            "input": "258155-input.png",
+            "mask": "258155-mask1.png",
+            "output": "258155-output1.png",
+            "instruction": "Edit only the blanket on the bed. Do not change the bed, pose, or background. Extend the blanket to make it longer and hang over the edge of the bed."
+        }
+    ],
+    "296012": [
+        {
+            "input": "296012-input.png",
+            "mask": "296012-mask1.png",
+            "output": "296012-output1.png",
+            "instruction": "Edit only the car in the center of the image. Do not change the background, pose, or scene. Transform it into a sleek red sports car."
+        }
+    ],
+    "519688": [
+        {
+            "input": "519688-input.png",
+            "mask": "519688-mask1.png",
+            "output": "519688-output1.png",
+            "instruction": "Edit only the face of the woman in the image. Do not change her body, pose, or background. Add realistic scars to her cheeks and forehead."
+        }
+    ],
+    "495312": [
+        {
+            "input": "495312-input.png",
+            "mask": "495312-mask1.png",
+            "output": "495312-output1.png",
+            "instruction": "Edit only the hands of the person in the specified region. Do not change their body, pose, or background. Replace their hands to hold a laptop."
+        },
+        {
+            "input": "495312-output1.png",
+            "mask": "495312-mask2.png",
+            "output": "495312-output2.png",
+            "instruction": "What if he has glasses?"
+        }
+    ],
+    "331816": [
+        {
+            "input": "331816-input.png",
+            "mask": "331816-mask1.png",
+            "output": "331816-output1.png",
+            "instruction": "Edit only the trees in the background of the image. Do not change the foreground, pose, or scene. Remove all visible trees completely."
+        }
+    ],
+    "393403": [
+        {
+            "input": "393403-input.png",
+            "mask": "393403-mask1.png",
+            "output": "393403-output1.png",
+            "instruction": "Edit only the bus in the center of the image. Do not change the background, pose, or scene. Replace the bus with a realistic train."
+        }
+    ],
+    "246924": [
+        {
+            "input": "246924-input.png",
+            "mask": "246924-mask1.png",
+            "output": "246924-output1.png",
+            "instruction": "Edit only the hand hairs on the specified region. Do not change the hand, body, pose, or background. Remove all visible hair from the hand."
+        },
+        {
+            "input": "246924-output1.png",
+            "mask": "246924-mask2.png",
+            "output": "246924-output2.png",
+            "instruction": "Get rid of the green peppers."
+        }
+    ],
+    "482545": [
+        {
+            "input": "482545-input.png",
+            "mask": "482545-mask1.png",
+            "output": "482545-output1.png",
+            "instruction": "Edit only the cat in the specified region. Do not change the background, pose, or scene. Replace the cat with a realistic iguana."
+        }
+    ],
+    "348966": [
+        {
+            "input": "348966-input.png",
+            "mask": "348966-mask1.png",
+            "output": "348966-output1.png",
+            "instruction": "Edit only the drinks in the specified region. Do not change the background, pose, or body. Change the color of the drinks to a vibrant blue."
+        }
+    ],
+    "104081": [
+        {
+            "input": "104081-input.png",
+            "mask": "104081-mask1.png",
+            "output": "104081-output1.png",
+            "instruction": "Edit only the area where the tractor should be added. Do not change the background, pose, or scene. Insert a realistic tractor into the specified location."
+        },
+        {
+            "input": "104081-output1.png",
+            "mask": "104081-mask2.png",
+            "output": "104081-output2.png",
+            "instruction": "let there be a log cabin in the back"
+        }
+    ],
+    "376839": [
+        {
+            "input": "376839-input.png",
+            "mask": "376839-mask1.png",
+            "output": "376839-output1.png",
+            "instruction": "Edit only the area indicated by region 376839. Do not change the background, pose, or scene. Add a realistic dog to this specific location."
+        },
+        {
+            "input": "376839-output1.png",
+            "mask": "376839-mask2.png",
+            "output": "376839-output2.png",
+            "instruction": "What if the woman had a cowboy hat."
+        }
+    ],
+    "385190": [
+        {
+            "input": "385190-input.png",
+            "mask": "385190-mask1.png",
+            "output": "385190-output1.png",
+            "instruction": "Edit only the flowers in the painting. Do not change the background, pose, or scene. Transform the flowers into a vibrant bouquet of tulips."
+        }
+    ],
+    "125109": [
+        {
+            "input": "125109-input.png",
+            "mask": "125109-mask1.png",
+            "output": "125109-output1.png",
+            "instruction": "Edit only the wooden floor in the entire image. Do not change the background, pose, or body. Replace the wooden floor with a red tile floor."
+        },
+        {
+            "input": "125109-output1.png",
+            "mask": "125109-mask2.png",
+            "output": "125109-output2.png",
+            "instruction": "let the flowers in the vase be blue"
+        },
+        {
+            "input": "125109-output2.png",
+            "mask": "125109-mask3.png",
+            "output": "125109-output3.png",
+            "instruction": "let there be a big chimney over the stove"
+        }
+    ],
+    "248403": [
+        {
+            "input": "248403-input.png",
+            "mask": "248403-mask1.png",
+            "output": "248403-output1.png",
+            "instruction": "Edit only the mouth of the woman in the center of the image. Do not change her body, pose, or background. Open her mouth slightly to create a natural expression."
+        },
+        {
+            "input": "248403-output1.png",
+            "mask": "248403-mask2.png",
+            "output": "248403-output2.png",
+            "instruction": "Blindfold her."
+        }
+    ],
+    "89648": [
+        {
+            "input": "89648-input.png",
+            "mask": "89648-mask1.png",
+            "output": "89648-output1.png",
+            "instruction": "Edit only the woman using the laptop in the center of the image. Do not change the background, pose, or other bodies. Completely remove her from the scene."
+        }
+    ],
+    "328802": [
+        {
+            "input": "328802-input.png",
+            "mask": "328802-mask1.png",
+            "output": "328802-output1.png",
+            "instruction": "Edit only the zebra's mouth area. Do not change the zebra, pose, or background. Make the zebra appear to be drinking from a bucket."
+        },
+        {
+            "input": "328802-output1.png",
+            "mask": "328802-mask2.png",
+            "output": "328802-output2.png",
+            "instruction": "let the tree have dense green leaves"
+        },
+        {
+            "input": "328802-output2.png",
+            "mask": "328802-mask3.png",
+            "output": "328802-output3.png",
+            "instruction": "let the zebra be thin and lanky"
+        }
+    ],
+    "197658": [
+        {
+            "input": "197658-input.png",
+            "mask": "197658-mask1.png",
+            "output": "197658-output1.png",
+            "instruction": "Edit only the area in front of the player. Do not change the player, pose, or background. Add a realistic soccer ball approaching the player."
+        }
+    ],
+    "257558": [
+        {
+            "input": "257558-input.png",
+            "mask": "257558-mask1.png",
+            "output": "257558-output1.png",
+            "instruction": "Edit only the area near the stuffed bear. Do not change the stuffed bear, body, pose, or background. Add a realistic grizzly bear next to the stuffed bear."
+        },
+        {
+            "input": "257558-output1.png",
+            "mask": "257558-mask2.png",
+            "output": "257558-output2.png",
+            "instruction": "add a big star on the xmas tree"
+        },
+        {
+            "input": "257558-output2.png",
+            "mask": "257558-mask3.png",
+            "output": "257558-output3.png",
+            "instruction": "add gift boxes near the bears"
+        }
+    ],
+    "517548": [
+        {
+            "input": "517548-input.png",
+            "mask": "517548-mask1.png",
+            "output": "517548-output1.png",
+            "instruction": "Edit only the toilet lid in the image. Do not change the toilet, body, pose, or background. Open the lid to a fully upright position."
+        },
+        {
+            "input": "517548-output1.png",
+            "mask": "517548-mask2.png",
+            "output": "517548-output2.png",
+            "instruction": "add a mirror to the wall."
+        },
+        {
+            "input": "517548-output2.png",
+            "mask": "517548-mask3.png",
+            "output": "517548-output3.png",
+            "instruction": "the sink should be white."
+        }
+    ],
+    "134689": [
+        {
+            "input": "134689-input.png",
+            "mask": "134689-mask1.png",
+            "output": "134689-output1.png",
+            "instruction": "Edit only the area where the zebra should be added. Do not change the background, pose, or body of existing subjects. Insert a realistic zebra in that specified area."
+        }
+    ],
+    "232025": [
+        {
+            "input": "232025-input.png",
+            "mask": "232025-mask1.png",
+            "output": "232025-output1.png",
+            "instruction": "Edit only the pitcher\u2019s position in the center of the image. Do not change his body, pose, or background. Adjust his stance to depict him jumping mid-air."
+        },
+        {
+            "input": "232025-output1.png",
+            "mask": "232025-mask2.png",
+            "output": "232025-output2.png",
+            "instruction": "put a motorcycle behind the pitcher"
+        },
+        {
+            "input": "232025-output2.png",
+            "mask": "232025-mask3.png",
+            "output": "232025-output3.png",
+            "instruction": "put a car in the background"
+        }
+    ],
+    "67373": [
+        {
+            "input": "67373-input.png",
+            "mask": "67373-mask1.png",
+            "output": "67373-output1.png",
+            "instruction": "Edit only the city view in the background of the image. Do not change the foreground elements, pose, or body. Replace the cityscape with a serene sea view."
+        },
+        {
+            "input": "67373-output1.png",
+            "mask": "67373-mask2.png",
+            "output": "67373-output2.png",
+            "instruction": "replace the cup of coffee with a bottle of wine"
+        }
+    ],
+    "360535": [
+        {
+            "input": "360535-input.png",
+            "mask": "360535-mask1.png",
+            "output": "360535-output1.png",
+            "instruction": "Edit only the flowers in the specified area. Do not change the background, pose, or scene. Replace the flowers with a realistic television."
+        },
+        {
+            "input": "360535-output1.png",
+            "mask": "360535-mask2.png",
+            "output": "360535-output2.png",
+            "instruction": "add a clock on the wall"
+        },
+        {
+            "input": "360535-output2.png",
+            "mask": "360535-mask3.png",
+            "output": "360535-output3.png",
+            "instruction": "add a ceiling fan"
+        }
+    ],
+    "174896": [
+        {
+            "input": "174896-input.png",
+            "mask": "174896-mask1.png",
+            "output": "174896-output1.png",
+            "instruction": "Edit only the laptop on the table in the center of the image. Do not change the background, pose, or scene. Replace it with a realistic microwave."
+        },
+        {
+            "input": "174896-output1.png",
+            "mask": "174896-mask2.png",
+            "output": "174896-output2.png",
+            "instruction": "add a bowl of tomato soup"
+        },
+        {
+            "input": "174896-output2.png",
+            "mask": "174896-mask3.png",
+            "output": "174896-output3.png",
+            "instruction": "add an orchid"
+        }
+    ],
+    "292991": [
+        {
+            "input": "292991-input.png",
+            "mask": "292991-mask1.png",
+            "output": "292991-output1.png",
+            "instruction": "Edit only the wall in the background of the image. Do not change the body, pose, or scene. Add a colorful drawing on the wall."
+        }
+    ],
+    "274629": [
+        {
+            "input": "274629-input.png",
+            "mask": "274629-mask1.png",
+            "output": "274629-output1.png",
+            "instruction": "Edit only the stop sign in the foreground of the image. Do not change the background, pose, or scene. Replace the stop sign with a parking sign."
+        },
+        {
+            "input": "274629-output1.png",
+            "mask": "274629-mask2.png",
+            "output": "274629-output2.png",
+            "instruction": "change the Time magazine to a Vogue magazine"
+        },
+        {
+            "input": "274629-output2.png",
+            "mask": "274629-mask3.png",
+            "output": "274629-output3.png",
+            "instruction": "add a tank on the street"
+        }
+    ],
+    "534555": [
+        {
+            "input": "534555-input.png",
+            "mask": "534555-mask1.png",
+            "output": "534555-output1.png",
+            "instruction": "Edit only the number on the batter's back. Do not change his body, pose, or background. Replace the current number with 15."
+        },
+        {
+            "input": "534555-output1.png",
+            "mask": "534555-mask2.png",
+            "output": "534555-output2.png",
+            "instruction": "Change the batter's helmet to be red"
+        },
+        {
+            "input": "534555-output2.png",
+            "mask": "534555-mask3.png",
+            "output": "534555-output3.png",
+            "instruction": "Have there be stripes on the batter's pants"
+        }
+    ],
+    "376269": [
+        {
+            "input": "376269-input.png",
+            "mask": "376269-mask1.png",
+            "output": "376269-output1.png",
+            "instruction": "Edit only the ears of the person in the image. Do not change their body, pose, or background. Increase the size of the ears to be more prominent."
+        },
+        {
+            "input": "376269-output1.png",
+            "mask": "376269-mask2.png",
+            "output": "376269-output2.png",
+            "instruction": "give the giraffe big googly eyes"
+        }
+    ],
+    "354306": [
+        {
+            "input": "354306-input.png",
+            "mask": "354306-mask1.png",
+            "output": "354306-output1.png",
+            "instruction": "Edit only the shelf in the specified region. Do not change the background, pose, or scene. Add a bottle of poison on the shelf."
+        }
+    ],
+    "47916": [
+        {
+            "input": "47916-input.png",
+            "mask": "47916-mask1.png",
+            "output": "47916-output1.png",
+            "instruction": "Edit only the area next to the dogs. Do not change the dogs, their pose, or the background. Add a realistic forest scene beside them."
+        },
+        {
+            "input": "47916-output1.png",
+            "mask": "47916-mask2.png",
+            "output": "47916-output2.png",
+            "instruction": "The dog should have a bone with him."
+        },
+        {
+            "input": "47916-output2.png",
+            "mask": "47916-mask3.png",
+            "output": "47916-output3.png",
+            "instruction": "Could we have a pond next to the forest?"
+        }
+    ],
+    "104669": [
+        {
+            "input": "104669-input.png",
+            "mask": "104669-mask1.png",
+            "output": "104669-output1.png",
+            "instruction": "Edit only the glass on the table in the foreground. Do not change the meal, background, or scene. Add a realistic glass of juice next to the existing meal."
+        }
+    ],
+    "163431": [
+        {
+            "input": "163431-input.png",
+            "mask": "163431-mask1.png",
+            "output": "163431-output1.png",
+            "instruction": "Edit only the shoes on the person in the specified region. Do not change their body, pose, or background. Replace the current shoes with elegant stilettos."
+        },
+        {
+            "input": "163431-output1.png",
+            "mask": "163431-mask2.png",
+            "output": "163431-output2.png",
+            "instruction": "let the bed contain pillows"
+        },
+        {
+            "input": "163431-output2.png",
+            "mask": "163431-mask3.png",
+            "output": "163431-output3.png",
+            "instruction": "let the bag contain a loaf of bread"
+        }
+    ],
+    "113857": [
+        {
+            "input": "113857-input.png",
+            "mask": "113857-mask1.png",
+            "output": "113857-output1.png",
+            "instruction": "Edit only the hands of the women in the center of the image. Do not change their bodies, poses, or background. Replace their handshake with them holding a trophy together."
+        },
+        {
+            "input": "113857-output1.png",
+            "mask": "113857-mask2.png",
+            "output": "113857-output2.png",
+            "instruction": "let the women have red and blonde hair"
+        },
+        {
+            "input": "113857-output2.png",
+            "mask": "113857-mask3.png",
+            "output": "113857-output3.png",
+            "instruction": "add a coach watching them"
+        }
+    ],
+    "377368": [
+        {
+            "input": "377368-input.png",
+            "mask": "377368-mask1.png",
+            "output": "377368-output1.png",
+            "instruction": "Edit only the cake in the center of the image. Do not change the background, pose, or scene. Transform the cake design to reflect a 4th birthday theme."
+        },
+        {
+            "input": "377368-output1.png",
+            "mask": "377368-mask2.png",
+            "output": "377368-output2.png",
+            "instruction": "Remove the candles from the cake."
+        },
+        {
+            "input": "377368-output2.png",
+            "mask": "377368-mask3.png",
+            "output": "377368-output3.png",
+            "instruction": "Make the frosting on the bear's nose red."
+        }
+    ],
+    "357941": [
+        {
+            "input": "357941-input.png",
+            "mask": "357941-mask1.png",
+            "output": "357941-output1.png",
+            "instruction": "Edit only the cat's position in the top left corner of the image. Do not change the background, pose, or scene. Adjust the cat to appear as if it is hanging from the TV."
+        },
+        {
+            "input": "357941-output1.png",
+            "mask": "357941-mask2.png",
+            "output": "357941-output2.png",
+            "instruction": "Let a mouse sit on the tv set by the cat."
+        },
+        {
+            "input": "357941-output2.png",
+            "mask": "357941-mask3.png",
+            "output": "357941-output3.png",
+            "instruction": "Make a bird fly by the window in front of the cat."
+        }
+    ],
+    "384346": [
+        {
+            "input": "384346-input.png",
+            "mask": "384346-mask1.png",
+            "output": "384346-output1.png",
+            "instruction": "Edit only the hat of the person in the specified region. Do not change their body, pose, or background. Change the hat color to blue."
+        }
+    ],
+    "221190": [
+        {
+            "input": "221190-input.png",
+            "mask": "221190-mask1.png",
+            "output": "221190-output1.png",
+            "instruction": "Edit only the sign in the center of the image. Do not change the background, pose, or body. Change the sign's color to yellow."
+        }
+    ],
+    "200003": [
+        {
+            "input": "200003-input.png",
+            "mask": "200003-mask1.png",
+            "output": "200003-output1.png",
+            "instruction": "Edit only the hands of the person in the center of the image. Do not change their body, pose, or background. Add a realistic log being carried in their hands."
+        }
+    ],
+    "322829": [
+        {
+            "input": "322829-input.png",
+            "mask": "322829-mask1.png",
+            "output": "322829-output1.png",
+            "instruction": "Edit only the area under the bench. Do not change the bench, background, or scene. Add a realistic dog sitting under the bench."
+        },
+        {
+            "input": "322829-output1.png",
+            "mask": "322829-mask2.png",
+            "output": "322829-output2.png",
+            "instruction": "put a flower vase on the bench"
+        }
+    ],
+    "448177": [
+        {
+            "input": "448177-input.png",
+            "mask": "448177-mask1.png",
+            "output": "448177-output1.png",
+            "instruction": "Edit only the water tank's top section. Do not change the tank's body, pose, or background. Add a realistic lid to the water tank."
+        }
+    ],
+    "195715": [
+        {
+            "input": "195715-input.png",
+            "mask": "195715-mask1.png",
+            "output": "195715-output1.png",
+            "instruction": "Edit only the glove in the image. Do not change the background, pose, or body. Add a realistic tennis ball inside the glove."
+        }
+    ],
+    "196878": [
+        {
+            "input": "196878-input.png",
+            "mask": "196878-mask1.png",
+            "output": "196878-output1.png",
+            "instruction": "Edit only the flower in the foreground of the image. Do not change the background, pose, or body. Replace the flower with another glass of wine."
+        },
+        {
+            "input": "196878-output1.png",
+            "mask": "196878-mask2.png",
+            "output": "196878-output2.png",
+            "instruction": "remove the candle stick"
+        }
+    ],
+    "536798": [
+        {
+            "input": "536798-input.png",
+            "mask": "536798-mask1.png",
+            "output": "536798-output1.png",
+            "instruction": "Edit only the facial expression of the boy in the specified region. Do not change his body, pose, or background. Make his face show tears and a sad expression."
+        }
+    ],
+    "554364": [
+        {
+            "input": "554364-input.png",
+            "mask": "554364-mask1.png",
+            "output": "554364-output1.png",
+            "instruction": "Edit only the area indicated by region 554364. Do not change the background, pose, or body. Add a ninja character seamlessly into that specific area."
+        }
+    ],
+    "191193": [
+        {
+            "input": "191193-input.png",
+            "mask": "191193-mask1.png",
+            "output": "191193-output1.png",
+            "instruction": "Edit only the dog's fur color in the specified region. Do not change the dog's body, pose, or background. Change the dog's fur to a realistic brown shade."
+        }
+    ],
+    "442414": [
+        {
+            "input": "442414-input.png",
+            "mask": "442414-mask1.png",
+            "output": "442414-output1.png",
+            "instruction": "Edit only the horse in the center of the image. Do not change the background, pose, or scene. Replace the horse with a realistic lion."
+        },
+        {
+            "input": "442414-output1.png",
+            "mask": "442414-mask2.png",
+            "output": "442414-output2.png",
+            "instruction": "change the woman to a little boy"
+        },
+        {
+            "input": "442414-output2.png",
+            "mask": "442414-mask3.png",
+            "output": "442414-output3.png",
+            "instruction": "add a train"
+        }
+    ],
+    "62398": [
+        {
+            "input": "62398-input.png",
+            "mask": "62398-mask1.png",
+            "output": "62398-output1.png",
+            "instruction": "Edit only the cat's position in the center of the image. Do not change the background, pose, or body. Adjust the cat to a standing posture."
+        },
+        {
+            "input": "62398-output1.png",
+            "mask": "62398-mask2.png",
+            "output": "62398-output2.png",
+            "instruction": "leave only the white cat"
+        }
+    ],
+    "500207": [
+        {
+            "input": "500207-input.png",
+            "mask": "500207-mask1.png",
+            "output": "500207-output1.png",
+            "instruction": "Edit only the plane in the center of the image. Do not change the background, pose, or scene. Change the plane's color to white with colorful accents."
+        }
+    ],
+    "499730": [
+        {
+            "input": "499730-input.png",
+            "mask": "499730-mask1.png",
+            "output": "499730-output1.png",
+            "instruction": "Edit only the stop sign located at the center of the image. Do not change the background, pose, or scene. Replace the stop sign with a go sign."
+        },
+        {
+            "input": "499730-output1.png",
+            "mask": "499730-mask2.png",
+            "output": "499730-output2.png",
+            "instruction": "Make the bottom sign a clock."
+        },
+        {
+            "input": "499730-output2.png",
+            "mask": "499730-mask3.png",
+            "output": "499730-output3.png",
+            "instruction": "Put a parrot on top of the go sign."
+        }
+    ],
+    "433605": [
+        {
+            "input": "433605-input.png",
+            "mask": "433605-mask1.png",
+            "output": "433605-output1.png",
+            "instruction": "Edit only the bananas in the image. Do not change the background, pose, or body. Darken the bananas to a deep brown color."
+        },
+        {
+            "input": "433605-output1.png",
+            "mask": "433605-mask2.png",
+            "output": "433605-output2.png",
+            "instruction": "the laptop is now showing some fruits"
+        },
+        {
+            "input": "433605-output2.png",
+            "mask": "433605-mask3.png",
+            "output": "433605-output3.png",
+            "instruction": "get rid of the mouse"
+        }
+    ],
+    "524311": [
+        {
+            "input": "524311-input.png",
+            "mask": "524311-mask1.png",
+            "output": "524311-output1.png",
+            "instruction": "Edit only the outfit of the man in the center of the image. Do not change his body, pose, or background. Replace his current outfit with a classic black tuxedo."
+        },
+        {
+            "input": "524311-output1.png",
+            "mask": "524311-mask2.png",
+            "output": "524311-output2.png",
+            "instruction": "change his hair to blonde"
+        },
+        {
+            "input": "524311-output2.png",
+            "mask": "524311-mask3.png",
+            "output": "524311-output3.png",
+            "instruction": "change the Wii remote to carrot"
+        }
+    ],
+    "168784": [
+        {
+            "input": "168784-input.png",
+            "mask": "168784-mask1.png",
+            "output": "168784-output1.png",
+            "instruction": "Edit only the neck area of the person in the image. Do not change their body, pose, or background. Replace the current neckwear with a classic bow tie."
+        }
+    ],
+    "50306": [
+        {
+            "input": "50306-input.png",
+            "mask": "50306-mask1.png",
+            "output": "50306-output1.png",
+            "instruction": "Edit only the pizza in the center of the image. Do not change the background, pose, or scene. Replace the pizza with a crystal ball."
+        },
+        {
+            "input": "50306-output1.png",
+            "mask": "50306-mask2.png",
+            "output": "50306-output2.png",
+            "instruction": "put a chessboard in place of the utensils and drinks"
+        }
+    ],
+    "319494": [
+        {
+            "input": "319494-input.png",
+            "mask": "319494-mask1.png",
+            "output": "319494-output1.png",
+            "instruction": "Edit only the area above the boat. Do not change the boat, pose, or background. Add a large whale jumping out of the water."
+        }
+    ],
+    "140021": [
+        {
+            "input": "140021-input.png",
+            "mask": "140021-mask1.png",
+            "output": "140021-output1.png",
+            "instruction": "Edit only the scissors in the image. Do not change the background, pose, or any other objects. Change the color of the scissors to blue."
+        }
+    ],
+    "57377": [
+        {
+            "input": "57377-input.png",
+            "mask": "57377-mask1.png",
+            "output": "57377-output1.png",
+            "instruction": "Edit only the stream area in the center of the image. Do not change the background, pose, or body. Add a realistic black bear interacting with the water."
+        }
+    ],
+    "189017": [
+        {
+            "input": "189017-input.png",
+            "mask": "189017-mask1.png",
+            "output": "189017-output1.png",
+            "instruction": "Edit only the street area in the image. Do not change the background, pose, or scene. Add several baby ducklings scattered throughout the street."
+        }
+    ],
+    "434222": [
+        {
+            "input": "434222-input.png",
+            "mask": "434222-mask1.png",
+            "output": "434222-output1.png",
+            "instruction": "Edit only the computer screen in the image. Do not change the background, pose, or body. Replace the current display with various cat pictures."
+        },
+        {
+            "input": "434222-output1.png",
+            "mask": "434222-mask2.png",
+            "output": "434222-output2.png",
+            "instruction": "Have the cat be eating a donut"
+        },
+        {
+            "input": "434222-output2.png",
+            "mask": "434222-mask3.png",
+            "output": "434222-output3.png",
+            "instruction": "Add a glass of water next to the screen"
+        }
+    ],
+    "460460": [
+        {
+            "input": "460460-input.png",
+            "mask": "460460-mask1.png",
+            "output": "460460-output1.png",
+            "instruction": "Edit only the couch in the center of the image. Do not change the background, pose, or scene. Add a realistic pillow resting on the couch."
+        }
+    ],
+    "231682": [
+        {
+            "input": "231682-input.png",
+            "mask": "231682-mask1.png",
+            "output": "231682-output1.png",
+            "instruction": "Edit only the motorcycle in the center of the image. Do not change the background, pose, or scene. Replace it with a realistic bicycle."
+        },
+        {
+            "input": "231682-output1.png",
+            "mask": "231682-mask2.png",
+            "output": "231682-output2.png",
+            "instruction": "make the officer look at the camera"
+        }
+    ],
+    "147471": [
+        {
+            "input": "147471-input.png",
+            "mask": "147471-mask1.png",
+            "output": "147471-output1.png",
+            "instruction": "Edit only the man's head in the center of the image. Do not change his body, pose, or background. Make his head completely bald."
+        },
+        {
+            "input": "147471-output1.png",
+            "mask": "147471-mask2.png",
+            "output": "147471-output2.png",
+            "instruction": "What if the woman was blonde?"
+        },
+        {
+            "input": "147471-output2.png",
+            "mask": "147471-mask3.png",
+            "output": "147471-output3.png",
+            "instruction": "What if the dog had a hat?"
+        }
+    ],
+    "419974": [
+        {
+            "input": "419974-input.png",
+            "mask": "419974-mask1.png",
+            "output": "419974-output1.png",
+            "instruction": "Edit only the man's hands and the pineapple he is holding. Do not change his body, pose, or background. Show the man actively cutting the pineapple with a knife."
+        },
+        {
+            "input": "419974-output1.png",
+            "mask": "419974-mask2.png",
+            "output": "419974-output2.png",
+            "instruction": "make the dog howl"
+        },
+        {
+            "input": "419974-output2.png",
+            "mask": "419974-mask3.png",
+            "output": "419974-output3.png",
+            "instruction": "let there be an assortment of dog food and treats"
+        }
+    ],
+    "205069": [
+        {
+            "input": "205069-input.png",
+            "mask": "205069-mask1.png",
+            "output": "205069-output1.png",
+            "instruction": "Edit only the pink hat on the person in the image. Do not change their body, pose, or background. Replace the pink hat with a red hat."
+        },
+        {
+            "input": "205069-output1.png",
+            "mask": "205069-mask2.png",
+            "output": "205069-output2.png",
+            "instruction": "let the woman wear a red skirt"
+        },
+        {
+            "input": "205069-output2.png",
+            "mask": "205069-mask3.png",
+            "output": "205069-output3.png",
+            "instruction": "let the woman have blonde hair"
+        }
+    ],
+    "391509": [
+        {
+            "input": "391509-input.png",
+            "mask": "391509-mask1.png",
+            "output": "391509-output1.png",
+            "instruction": "Edit only the area where the Ducati superbike should be parked. Do not change the background, pose, or scene. Add a realistic Ducati superbike in that specific location."
+        },
+        {
+            "input": "391509-output1.png",
+            "mask": "391509-mask2.png",
+            "output": "391509-output2.png",
+            "instruction": "let the woman be dressed in a military uniform"
+        },
+        {
+            "input": "391509-output2.png",
+            "mask": "391509-mask3.png",
+            "output": "391509-output3.png",
+            "instruction": "let it be a train station"
+        }
+    ],
+    "276124": [
+        {
+            "input": "276124-input.png",
+            "mask": "276124-mask1.png",
+            "output": "276124-output1.png",
+            "instruction": "Edit only the baby's facial expression. Do not change the baby's body, pose, or background. Make the baby smile."
+        },
+        {
+            "input": "276124-output1.png",
+            "mask": "276124-mask2.png",
+            "output": "276124-output2.png",
+            "instruction": "let the baby look at the camera"
+        },
+        {
+            "input": "276124-output2.png",
+            "mask": "276124-mask3.png",
+            "output": "276124-output3.png",
+            "instruction": "let the baby have curly ginger hair"
+        }
+    ],
+    "231822": [
+        {
+            "input": "231822-input.png",
+            "mask": "231822-mask1.png",
+            "output": "231822-output1.png",
+            "instruction": "Edit only the glasses on the person in the specified region. Do not change their body, pose, or background. Replace the glasses with two cans of beer."
+        },
+        {
+            "input": "231822-output1.png",
+            "mask": "231822-mask2.png",
+            "output": "231822-output2.png",
+            "instruction": "Replace the fruits with soup."
+        },
+        {
+            "input": "231822-output2.png",
+            "mask": "231822-mask3.png",
+            "output": "231822-output3.png",
+            "instruction": "Put more mac and cheese in place of the veggies."
+        }
+    ],
+    "396338": [
+        {
+            "input": "396338-input.png",
+            "mask": "396338-mask1.png",
+            "output": "396338-output1.png",
+            "instruction": "Edit only the buildings in the specified region. Do not change the background, pose, or scene. Add realistic fire effects to the rooftops of the buildings."
+        }
+    ],
+    "136699": [
+        {
+            "input": "136699-input.png",
+            "mask": "136699-mask1.png",
+            "output": "136699-output1.png",
+            "instruction": "Edit only the purse in the specified region. Do not change the background, pose, or body. Add a gold brand label to the purse."
+        }
+    ],
+    "92187": [
+        {
+            "input": "92187-input.png",
+            "mask": "92187-mask1.png",
+            "output": "92187-output1.png",
+            "instruction": "Edit only the wooden figure in the center of the image. Do not change the background, pose, or scene. Replace the wooden figure with a realistic Barbie doll."
+        }
+    ],
+    "81930": [
+        {
+            "input": "81930-input.png",
+            "mask": "81930-mask1.png",
+            "output": "81930-output1.png",
+            "instruction": "Edit only the fire hydrant in the image. Do not change the background, pose, or any other objects. Change its color from red to yellow."
+        }
+    ],
+    "318924": [
+        {
+            "input": "318924-input.png",
+            "mask": "318924-mask1.png",
+            "output": "318924-output1.png",
+            "instruction": "Edit only the statue of the zebra in the image. Do not change the background, pose, or scene. Transform the zebra statue into a realistic zebra."
+        },
+        {
+            "input": "318924-output1.png",
+            "mask": "318924-mask2.png",
+            "output": "318924-output2.png",
+            "instruction": "add a water bowl"
+        }
+    ],
+    "360540": [
+        {
+            "input": "360540-input.png",
+            "mask": "360540-mask1.png",
+            "output": "360540-output1.png",
+            "instruction": "Edit only the scooter in the center of the image. Do not change the background, pose, or scene. Replace the scooter with a realistic penguin."
+        }
+    ],
+    "434496": [
+        {
+            "input": "434496-input.png",
+            "mask": "434496-mask1.png",
+            "output": "434496-output1.png",
+            "instruction": "Edit only the area around the table in the center of the image. Do not change the background, pose, or scene. Add a variety of realistic fruits, such as apples and bananas, on the table."
+        },
+        {
+            "input": "434496-output1.png",
+            "mask": "434496-mask2.png",
+            "output": "434496-output2.png",
+            "instruction": "swap the food for donuts"
+        }
+    ],
+    "108244": [
+        {
+            "input": "108244-input.png",
+            "mask": "108244-mask1.png",
+            "output": "108244-output1.png",
+            "instruction": "Edit only the area near the cat. Do not change the cat, its pose, or the background. Add a realistic mouse next to the cat."
+        }
+    ],
+    "518182": [
+        {
+            "input": "518182-input.png",
+            "mask": "518182-mask1.png",
+            "output": "518182-output1.png",
+            "instruction": "Edit only the frisbee in the hands of the person in the center of the image. Do not change their body, pose, or background. Replace the frisbee with a realistic soccer ball."
+        },
+        {
+            "input": "518182-output1.png",
+            "mask": "518182-mask2.png",
+            "output": "518182-output2.png",
+            "instruction": "let the shoes be brown"
+        },
+        {
+            "input": "518182-output2.png",
+            "mask": "518182-mask3.png",
+            "output": "518182-output3.png",
+            "instruction": "add a boat in the water"
+        }
+    ],
+    "508582": [
+        {
+            "input": "508582-input.png",
+            "mask": "508582-mask1.png",
+            "output": "508582-output1.png",
+            "instruction": "Edit only the pizzas in the center of the image. Do not change the background, pose, or scene. Change both pizzas to have a pepperoni topping."
+        }
+    ],
+    "498988": [
+        {
+            "input": "498988-input.png",
+            "mask": "498988-mask1.png",
+            "output": "498988-output1.png",
+            "instruction": "Edit only the screen in the specified region (498988). Do not change the background, pose, or body. Change the screen color to blue."
+        },
+        {
+            "input": "498988-output1.png",
+            "mask": "498988-mask2.png",
+            "output": "498988-output2.png",
+            "instruction": "Remove the bottle."
+        }
+    ],
+    "513200": [
+        {
+            "input": "513200-input.png",
+            "mask": "513200-mask1.png",
+            "output": "513200-output1.png",
+            "instruction": "Edit only the position of the baby giraffe in the lower center of the image. Do not change the mother giraffe, pose, or background. Move the baby giraffe directly under its mother."
+        }
+    ],
+    "396330": [
+        {
+            "input": "396330-input.png",
+            "mask": "396330-mask1.png",
+            "output": "396330-output1.png",
+            "instruction": "Edit only the hands of the guys in the specified region. Do not change their body, pose, or background. Raise their hands to a higher position."
+        },
+        {
+            "input": "396330-output1.png",
+            "mask": "396330-mask2.png",
+            "output": "396330-output2.png",
+            "instruction": "remove the basketball hoop"
+        },
+        {
+            "input": "396330-output2.png",
+            "mask": "396330-mask3.png",
+            "output": "396330-output3.png",
+            "instruction": "let there be an indoor swimming pool"
+        }
+    ],
+    "172686": [
+        {
+            "input": "172686-input.png",
+            "mask": "172686-mask1.png",
+            "output": "172686-output1.png",
+            "instruction": "Edit only the area where the dessert bowl should appear. Do not change the background, pose, or scene. Add a realistic bowl of dessert in that specific location."
+        },
+        {
+            "input": "172686-output1.png",
+            "mask": "172686-mask2.png",
+            "output": "172686-output2.png",
+            "instruction": "let there be water melons on the table"
+        },
+        {
+            "input": "172686-output2.png",
+            "mask": "172686-mask3.png",
+            "output": "172686-output3.png",
+            "instruction": "let a rat sniff the bowl"
+        }
+    ],
+    "510955": [
+        {
+            "input": "510955-input.png",
+            "mask": "510955-mask1.png",
+            "output": "510955-output1.png",
+            "instruction": "Edit only the woman's face in the center of the image. Do not change her body, pose, or background. Add a pair of stylish glasses to her face."
+        }
+    ],
+    "280490": [
+        {
+            "input": "280490-input.png",
+            "mask": "280490-mask1.png",
+            "output": "280490-output1.png",
+            "instruction": "Edit only the tray in the image. Do not change the background, pose, or scene. Add a realistic pancake on the tray."
+        },
+        {
+            "input": "280490-output1.png",
+            "mask": "280490-mask2.png",
+            "output": "280490-output2.png",
+            "instruction": "Put some fries next to the pancakes."
+        }
+    ],
+    "139653": [
+        {
+            "input": "139653-input.png",
+            "mask": "139653-mask1.png",
+            "output": "139653-output1.png",
+            "instruction": "Edit only the sky area in the upper part of the image. Do not change the background, body, or scene. Add a flock of birds flying across the sky."
+        }
+    ],
+    "539143": [
+        {
+            "input": "539143-input.png",
+            "mask": "539143-mask1.png",
+            "output": "539143-output1.png",
+            "instruction": "Edit only the face of the train in the specified region. Do not change the body, pose, or background. Add a smiling mouth and expressive eyes to the train."
+        },
+        {
+            "input": "539143-output1.png",
+            "mask": "539143-mask2.png",
+            "output": "539143-output2.png",
+            "instruction": "Have the train stopped in front of a train station building."
+        }
+    ],
+    "391388": [
+        {
+            "input": "391388-input.png",
+            "mask": "391388-mask1.png",
+            "output": "391388-output1.png",
+            "instruction": "Edit only the area containing the broccoli and onions. Do not change the background or surrounding objects. Remove the broccoli and onions, and add a realistic apple in their place."
+        }
+    ],
+    "158702": [
+        {
+            "input": "158702-input.png",
+            "mask": "158702-mask1.png",
+            "output": "158702-output1.png",
+            "instruction": "Edit only the toilet lid in the bathroom scene. Do not change the background, pose, or any other elements. Adjust the lid to be in the open position."
+        },
+        {
+            "input": "158702-output1.png",
+            "mask": "158702-mask2.png",
+            "output": "158702-output2.png",
+            "instruction": "let the plant have blue flowers"
+        },
+        {
+            "input": "158702-output2.png",
+            "mask": "158702-mask3.png",
+            "output": "158702-output3.png",
+            "instruction": "open the shower curtains"
+        }
+    ],
+    "228435": [
+        {
+            "input": "228435-input.png",
+            "mask": "228435-mask1.png",
+            "output": "228435-output1.png",
+            "instruction": "Edit only the towel in the specified region. Do not change the body, pose, or background. Remove the towel completely."
+        }
+    ],
+    "360762": [
+        {
+            "input": "360762-input.png",
+            "mask": "360762-mask1.png",
+            "output": "360762-output1.png",
+            "instruction": "Edit only the contents of the basket. Do not change the background, pose, or scene. Replace the bear with a realistic rabbit."
+        },
+        {
+            "input": "360762-output1.png",
+            "mask": "360762-mask2.png",
+            "output": "360762-output2.png",
+            "instruction": "add an egg to the photo"
+        }
+    ],
+    "466945": [
+        {
+            "input": "466945-input.png",
+            "mask": "466945-mask1.png",
+            "output": "466945-output1.png",
+            "instruction": "Edit only the sky area of the image. Do not change the background, body, or pose. Add a detailed spaceship flying in the sky."
+        },
+        {
+            "input": "466945-output1.png",
+            "mask": "466945-mask2.png",
+            "output": "466945-output2.png",
+            "instruction": "Have there be an alien walking on the sidewalk"
+        }
+    ],
+    "297426": [
+        {
+            "input": "297426-input.png",
+            "mask": "297426-mask1.png",
+            "output": "297426-output1.png",
+            "instruction": "Edit only the area next to the mouse. Do not change the mouse, its pose, or the background. Add a realistic lizard next to the mouse."
+        },
+        {
+            "input": "297426-output1.png",
+            "mask": "297426-mask2.png",
+            "output": "297426-output2.png",
+            "instruction": "remove the black panels"
+        },
+        {
+            "input": "297426-output2.png",
+            "mask": "297426-mask3.png",
+            "output": "297426-output3.png",
+            "instruction": "add a cellphone"
+        }
+    ],
+    "92212": [
+        {
+            "input": "92212-input.png",
+            "mask": "92212-mask1.png",
+            "output": "92212-output1.png",
+            "instruction": "Edit only the area where the limousines are parked. Do not change the background, pose, or scene. Add several realistic limousines parked in that specific area."
+        },
+        {
+            "input": "92212-output1.png",
+            "mask": "92212-mask2.png",
+            "output": "92212-output2.png",
+            "instruction": "Change the Pay Here sign to Stop Sign"
+        },
+        {
+            "input": "92212-output2.png",
+            "mask": "92212-mask3.png",
+            "output": "92212-output3.png",
+            "instruction": "add pedestrians walking on the side"
+        }
+    ],
+    "551701": [
+        {
+            "input": "551701-input.png",
+            "mask": "551701-mask1.png",
+            "output": "551701-output1.png",
+            "instruction": "Edit only the stone in the foreground near her feet. Do not change her body, pose, or background. Remove the stone to make it appear she is standing solely on the grass."
+        },
+        {
+            "input": "551701-output1.png",
+            "mask": "551701-mask2.png",
+            "output": "551701-output2.png",
+            "instruction": "Make her fatter."
+        },
+        {
+            "input": "551701-output2.png",
+            "mask": "551701-mask3.png",
+            "output": "551701-output3.png",
+            "instruction": "Remove the frisbee."
+        }
+    ],
+    "500270": [
+        {
+            "input": "500270-input.png",
+            "mask": "500270-mask1.png",
+            "output": "500270-output1.png",
+            "instruction": "Edit only the sky region at the top of the image. Do not change the scene, lighting, colors, or background elements. Add a realistic UFO in the upper sky."
+        },
+        {
+            "input": "500270-output1.png",
+            "mask": "500270-mask2.png",
+            "output": "500270-output2.png",
+            "instruction": "Remove the palm trees."
+        }
+    ],
+    "572765": [
+        {
+            "input": "572765-input.png",
+            "mask": "572765-mask1.png",
+            "output": "572765-output1.png",
+            "instruction": "Edit only the water area in the image. Do not change the background, pose, or scene. Add a realistic submarine floating in the water."
+        }
+    ],
+    "434485": [
+        {
+            "input": "434485-input.png",
+            "mask": "434485-mask1.png",
+            "output": "434485-output1.png",
+            "instruction": "Edit only the watermelon in the center of the image. Do not change the background, pose, or scene. Slice the watermelon into even wedges."
+        }
+    ],
+    "364549": [
+        {
+            "input": "364549-input.png",
+            "mask": "364549-mask1.png",
+            "output": "364549-output1.png",
+            "instruction": "Edit only the clothing on the woman in the center of the image. Do not change her body, pose, or background. Replace her current outfit with a designer gown."
+        },
+        {
+            "input": "364549-output1.png",
+            "mask": "364549-mask2.png",
+            "output": "364549-output2.png",
+            "instruction": "remove the shrubs"
+        },
+        {
+            "input": "364549-output2.png",
+            "mask": "364549-mask3.png",
+            "output": "364549-output3.png",
+            "instruction": "let the woman be next to a park"
+        }
+    ],
+    "416125": [
+        {
+            "input": "416125-input.png",
+            "mask": "416125-mask1.png",
+            "output": "416125-output1.png",
+            "instruction": "Edit only the sign in the center of the image. Do not change the background, pose, or scene. Transform the sign into a yield sign."
+        }
+    ],
+    "169763": [
+        {
+            "input": "169763-input.png",
+            "mask": "169763-mask1.png",
+            "output": "169763-output1.png",
+            "instruction": "Edit only the area above the bike. Do not change the bike, background, or scene. Add a realistic monkey sitting on top of the bike."
+        }
+    ],
+    "47074": [
+        {
+            "input": "47074-input.png",
+            "mask": "47074-mask1.png",
+            "output": "47074-output1.png",
+            "instruction": "Edit only the clothing on the woman in the specified region. Do not change her body, pose, or background. Replace her current outfit with a realistic party gown."
+        },
+        {
+            "input": "47074-output1.png",
+            "mask": "47074-mask2.png",
+            "output": "47074-output2.png",
+            "instruction": "let there be a bowl with roast chicken"
+        },
+        {
+            "input": "47074-output2.png",
+            "mask": "47074-mask3.png",
+            "output": "47074-output3.png",
+            "instruction": "let the woman paint on the wall"
+        }
+    ],
+    "147545": [
+        {
+            "input": "147545-input.png",
+            "mask": "147545-mask1.png",
+            "output": "147545-output1.png",
+            "instruction": "Edit only the area in the kitchen. Do not change the background, pose, or scene. Add a realistic baby sitting on the kitchen floor."
+        },
+        {
+            "input": "147545-output1.png",
+            "mask": "147545-mask2.png",
+            "output": "147545-output2.png",
+            "instruction": "Put a hat on the baby."
+        }
+    ]
+}

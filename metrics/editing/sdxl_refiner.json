@@ -1,0 +1,902 @@
+{
+    "258155": {
+        "input": "258155-input.png",
+        "output": "258155-output1.png",
+        "instruction": "Let the blanket be longer and hang over the bed.",
+        "metrics": {
+            "ssim": 0.7394144176096406,
+            "lpips": 0.33336153626441956
+        }
+    },
+    "296012": {
+        "input": "296012-input.png",
+        "output": "296012-output1.png",
+        "instruction": "transform the car into a red sports car",
+        "metrics": {
+            "ssim": 0.44983960854616817,
+            "lpips": 0.44140273332595825
+        }
+    },
+    "519688": {
+        "input": "519688-input.png",
+        "output": "519688-output1.png",
+        "instruction": "Give the women scars on her face.",
+        "metrics": {
+            "ssim": 0.6766738536657911,
+            "lpips": 0.43079015612602234
+        }
+    },
+    "495312": {
+        "input": "495312-input.png",
+        "output": "495312-output1.png",
+        "instruction": "What if he was holding a laptop?",
+        "metrics": {
+            "ssim": 0.6938633645134442,
+            "lpips": 0.3896852135658264
+        }
+    },
+    "331816": {
+        "input": "331816-input.png",
+        "output": "331816-output1.png",
+        "instruction": "Take away the trees.",
+        "metrics": {
+            "ssim": 0.32983417574155743,
+            "lpips": 0.5340453386306763
+        }
+    },
+    "393403": {
+        "input": "393403-input.png",
+        "output": "393403-output1.png",
+        "instruction": "change the bus into a train",
+        "metrics": {
+            "ssim": 0.5139925697057015,
+            "lpips": 0.3850460946559906
+        }
+    },
+    "246924": {
+        "input": "246924-input.png",
+        "output": "246924-output1.png",
+        "instruction": "Remove the hand hairs.",
+        "metrics": {
+            "ssim": 0.37158046706957404,
+            "lpips": 0.5718777775764465
+        }
+    },
+    "482545": {
+        "input": "482545-input.png",
+        "output": "482545-output1.png",
+        "instruction": "Change the cat to an iguana",
+        "metrics": {
+            "ssim": 0.4962196171073225,
+            "lpips": 0.49177464842796326
+        }
+    },
+    "348966": {
+        "input": "348966-input.png",
+        "output": "348966-output1.png",
+        "instruction": "Make the drinks blue.",
+        "metrics": {
+            "ssim": 0.5670662284798244,
+            "lpips": 0.4419569969177246
+        }
+    },
+    "104081": {
+        "input": "104081-input.png",
+        "output": "104081-output1.png",
+        "instruction": "let there be a tractor",
+        "metrics": {
+            "ssim": 0.10957842014381612,
+            "lpips": 0.6451449394226074
+        }
+    },
+    "376839": {
+        "input": "376839-input.png",
+        "output": "376839-output1.png",
+        "instruction": "Let's add a dog to it.",
+        "metrics": {
+            "ssim": 0.48967699665452774,
+            "lpips": 0.5257261395454407
+        }
+    },
+    "385190": {
+        "input": "385190-input.png",
+        "output": "385190-output1.png",
+        "instruction": "The painting should be of flowers.",
+        "metrics": {
+            "ssim": 0.36739127248616804,
+            "lpips": 0.5124930143356323
+        }
+    },
+    "125109": {
+        "input": "125109-input.png",
+        "output": "125109-output1.png",
+        "instruction": "change the wooden floor into a red tile floor",
+        "metrics": {
+            "ssim": 0.7252327241344237,
+            "lpips": 0.2911651134490967
+        }
+    },
+    "248403": {
+        "input": "248403-input.png",
+        "output": "248403-output1.png",
+        "instruction": "Open her mouth.",
+        "metrics": {
+            "ssim": 0.44871075218693257,
+            "lpips": 0.4458945691585541
+        }
+    },
+    "89648": {
+        "input": "89648-input.png",
+        "output": "89648-output1.png",
+        "instruction": "Remove the woman using the laptop.",
+        "metrics": {
+            "ssim": 0.517137711688416,
+            "lpips": 0.43171149492263794
+        }
+    },
+    "328802": {
+        "input": "328802-input.png",
+        "output": "328802-output1.png",
+        "instruction": "make the zebra drink from a bucket",
+        "metrics": {
+            "ssim": 0.1850363539229638,
+            "lpips": 0.5899943113327026
+        }
+    },
+    "197658": {
+        "input": "197658-input.png",
+        "output": "197658-output1.png",
+        "instruction": "Add a ball coming towards the player.",
+        "metrics": {
+            "ssim": 0.5854039737818038,
+            "lpips": 0.3784347474575043
+        }
+    },
+    "257558": {
+        "input": "257558-input.png",
+        "output": "257558-output1.png",
+        "instruction": "add a grizzly bear near the stuffed bear",
+        "metrics": {
+            "ssim": 0.28011377127971415,
+            "lpips": 0.5702854990959167
+        }
+    },
+    "517548": {
+        "input": "517548-input.png",
+        "output": "517548-output1.png",
+        "instruction": "Can we open the lid of the toilet?",
+        "metrics": {
+            "ssim": 0.615996424444344,
+            "lpips": 0.38675522804260254
+        }
+    },
+    "134689": {
+        "input": "134689-input.png",
+        "output": "134689-output1.png",
+        "instruction": "Add a zebra.",
+        "metrics": {
+            "ssim": 0.20734524394502776,
+            "lpips": 0.5991494059562683
+        }
+    },
+    "232025": {
+        "input": "232025-input.png",
+        "output": "232025-output1.png",
+        "instruction": "make the pitcher jump",
+        "metrics": {
+            "ssim": 0.3743028005937269,
+            "lpips": 0.43884891271591187
+        }
+    },
+    "67373": {
+        "input": "67373-input.png",
+        "output": "67373-output1.png",
+        "instruction": "change city view to sea view",
+        "metrics": {
+            "ssim": 0.5832472546068092,
+            "lpips": 0.4642801880836487
+        }
+    },
+    "360535": {
+        "input": "360535-input.png",
+        "output": "360535-output1.png",
+        "instruction": "change flowers to television",
+        "metrics": {
+            "ssim": 0.6131667275663901,
+            "lpips": 0.36698198318481445
+        }
+    },
+    "174896": {
+        "input": "174896-input.png",
+        "output": "174896-output1.png",
+        "instruction": "replace the laptop with a microwave",
+        "metrics": {
+            "ssim": 0.3731144782211557,
+            "lpips": 0.4721888303756714
+        }
+    },
+    "292991": {
+        "input": "292991-input.png",
+        "output": "292991-output1.png",
+        "instruction": "What if the there is a drawing on the wall?",
+        "metrics": {
+            "ssim": 0.5254551816633055,
+            "lpips": 0.4874561131000519
+        }
+    },
+    "274629": {
+        "input": "274629-input.png",
+        "output": "274629-output1.png",
+        "instruction": "change the stop sign to a parking sign",
+        "metrics": {
+            "ssim": 0.7326729133895153,
+            "lpips": 0.3117995858192444
+        }
+    },
+    "534555": {
+        "input": "534555-input.png",
+        "output": "534555-output1.png",
+        "instruction": "Change the number on the batter's back to 15",
+        "metrics": {
+            "ssim": 0.3563931685657267,
+            "lpips": 0.5331329107284546
+        }
+    },
+    "376269": {
+        "input": "376269-input.png",
+        "output": "376269-output1.png",
+        "instruction": "make the ears bigger",
+        "metrics": {
+            "ssim": 0.5860116533093561,
+            "lpips": 0.4515862762928009
+        }
+    },
+    "354306": {
+        "input": "354306-input.png",
+        "output": "354306-output1.png",
+        "instruction": "put a bottle of poison on the shelf",
+        "metrics": {
+            "ssim": 0.671759227891551,
+            "lpips": 0.4106195867061615
+        }
+    },
+    "47916": {
+        "input": "47916-input.png",
+        "output": "47916-output1.png",
+        "instruction": "Put a forest next to the dogs.",
+        "metrics": {
+            "ssim": 0.2054830570951398,
+            "lpips": 0.5900448560714722
+        }
+    },
+    "104669": {
+        "input": "104669-input.png",
+        "output": "104669-output1.png",
+        "instruction": "A glass of juice would complete the meal.",
+        "metrics": {
+            "ssim": 0.4286961863063332,
+            "lpips": 0.48326557874679565
+        }
+    },
+    "163431": {
+        "input": "163431-input.png",
+        "output": "163431-output1.png",
+        "instruction": "change the shoes into stilettos",
+        "metrics": {
+            "ssim": 0.22778800904000873,
+            "lpips": 0.5907014012336731
+        }
+    },
+    "113857": {
+        "input": "113857-input.png",
+        "output": "113857-output1.png",
+        "instruction": "make the women hold a trophy instead of shaking hands",
+        "metrics": {
+            "ssim": 0.5514657973476913,
+            "lpips": 0.3749534487724304
+        }
+    },
+    "377368": {
+        "input": "377368-input.png",
+        "output": "377368-output1.png",
+        "instruction": "Make the cake for a 4th birthday instead of 30th.",
+        "metrics": {
+            "ssim": 0.37452282519707353,
+            "lpips": 0.5058552622795105
+        }
+    },
+    "357941": {
+        "input": "357941-input.png",
+        "output": "357941-output1.png",
+        "instruction": "Make the cat hang from the TV",
+        "metrics": {
+            "ssim": 0.6295262168493038,
+            "lpips": 0.47420018911361694
+        }
+    },
+    "384346": {
+        "input": "384346-input.png",
+        "output": "384346-output1.png",
+        "instruction": "change hat color to blue",
+        "metrics": {
+            "ssim": 0.5312813770884377,
+            "lpips": 0.4132964611053467
+        }
+    },
+    "221190": {
+        "input": "221190-input.png",
+        "output": "221190-output1.png",
+        "instruction": "Let the sign turn yellow.",
+        "metrics": {
+            "ssim": 0.5232839218708655,
+            "lpips": 0.3998483717441559
+        }
+    },
+    "200003": {
+        "input": "200003-input.png",
+        "output": "200003-output1.png",
+        "instruction": "What if they are carrying a log?",
+        "metrics": {
+            "ssim": 0.45848540796074344,
+            "lpips": 0.5252947807312012
+        }
+    },
+    "322829": {
+        "input": "322829-input.png",
+        "output": "322829-output1.png",
+        "instruction": "put a dog under the bench",
+        "metrics": {
+            "ssim": 0.25724518925968876,
+            "lpips": 0.5235087275505066
+        }
+    },
+    "448177": {
+        "input": "448177-input.png",
+        "output": "448177-output1.png",
+        "instruction": "Let the water tank have a lid.",
+        "metrics": {
+            "ssim": 0.3360245753597472,
+            "lpips": 0.5273134708404541
+        }
+    },
+    "195715": {
+        "input": "195715-input.png",
+        "output": "195715-output1.png",
+        "instruction": "What if there was a tennis ball in the glove?",
+        "metrics": {
+            "ssim": 0.5035537898020536,
+            "lpips": 0.41273629665374756
+        }
+    },
+    "196878": {
+        "input": "196878-input.png",
+        "output": "196878-output1.png",
+        "instruction": "change the flower for another glass of wine",
+        "metrics": {
+            "ssim": 0.5134942492081642,
+            "lpips": 0.4230154752731323
+        }
+    },
+    "536798": {
+        "input": "536798-input.png",
+        "output": "536798-output1.png",
+        "instruction": "Let the boy cry.",
+        "metrics": {
+            "ssim": 0.6074822294097401,
+            "lpips": 0.4701272249221802
+        }
+    },
+    "554364": {
+        "input": "554364-input.png",
+        "output": "554364-output1.png",
+        "instruction": "Add a ninja.",
+        "metrics": {
+            "ssim": 0.49376792736782343,
+            "lpips": 0.48477447032928467
+        }
+    },
+    "191193": {
+        "input": "191193-input.png",
+        "output": "191193-output1.png",
+        "instruction": "Let the dog be brown.",
+        "metrics": {
+            "ssim": 0.5494459130847337,
+            "lpips": 0.3994689881801605
+        }
+    },
+    "442414": {
+        "input": "442414-input.png",
+        "output": "442414-output1.png",
+        "instruction": "change the horse to a lion",
+        "metrics": {
+            "ssim": 0.3448566403502914,
+            "lpips": 0.5321378707885742
+        }
+    },
+    "62398": {
+        "input": "62398-input.png",
+        "output": "62398-output1.png",
+        "instruction": "make the cat stand",
+        "metrics": {
+            "ssim": 0.5951553424021727,
+            "lpips": 0.44512486457824707
+        }
+    },
+    "500207": {
+        "input": "500207-input.png",
+        "output": "500207-output1.png",
+        "instruction": "make the plane white and colored",
+        "metrics": {
+            "ssim": 0.6477709617585168,
+            "lpips": 0.4375498592853546
+        }
+    },
+    "499730": {
+        "input": "499730-input.png",
+        "output": "499730-output1.png",
+        "instruction": "Make the stop sign a go sign.",
+        "metrics": {
+            "ssim": 0.6031503217913406,
+            "lpips": 0.28699976205825806
+        }
+    },
+    "433605": {
+        "input": "433605-input.png",
+        "output": "433605-output1.png",
+        "instruction": "make the bananas dark",
+        "metrics": {
+            "ssim": 0.4090024587690107,
+            "lpips": 0.5157683491706848
+        }
+    },
+    "524311": {
+        "input": "524311-input.png",
+        "output": "524311-output1.png",
+        "instruction": "change his outfit into a tuxedo",
+        "metrics": {
+            "ssim": 0.7275429792095502,
+            "lpips": 0.2991865575313568
+        }
+    },
+    "168784": {
+        "input": "168784-input.png",
+        "output": "168784-output1.png",
+        "instruction": "Make it a bow tie.",
+        "metrics": {
+            "ssim": 0.6208657927090961,
+            "lpips": 0.5236848592758179
+        }
+    },
+    "50306": {
+        "input": "50306-input.png",
+        "output": "50306-output1.png",
+        "instruction": "remove the pizza a put a crystal ball in it's place",
+        "metrics": {
+            "ssim": 0.33832640443902895,
+            "lpips": 0.5430916547775269
+        }
+    },
+    "319494": {
+        "input": "319494-input.png",
+        "output": "319494-output1.png",
+        "instruction": "Make a big whale jump over the boat.",
+        "metrics": {
+            "ssim": 0.6826874216093918,
+            "lpips": 0.49672311544418335
+        }
+    },
+    "140021": {
+        "input": "140021-input.png",
+        "output": "140021-output1.png",
+        "instruction": "make the scissor blue",
+        "metrics": {
+            "ssim": 0.7081653252336357,
+            "lpips": 0.37482577562332153
+        }
+    },
+    "57377": {
+        "input": "57377-input.png",
+        "output": "57377-output1.png",
+        "instruction": "Let's add a black bear to the stream.",
+        "metrics": {
+            "ssim": 0.17058838803456844,
+            "lpips": 0.6374412775039673
+        }
+    },
+    "189017": {
+        "input": "189017-input.png",
+        "output": "189017-output1.png",
+        "instruction": "There should be lots of baby ducklings in the street.",
+        "metrics": {
+            "ssim": 0.36736155810826565,
+            "lpips": 0.5638637542724609
+        }
+    },
+    "434222": {
+        "input": "434222-input.png",
+        "output": "434222-output1.png",
+        "instruction": "Have the computer screen be showing cat pictures",
+        "metrics": {
+            "ssim": 0.6625181363339065,
+            "lpips": 0.3591259717941284
+        }
+    },
+    "460460": {
+        "input": "460460-input.png",
+        "output": "460460-output1.png",
+        "instruction": "throw a pillow on that couch",
+        "metrics": {
+            "ssim": 0.3450960823055516,
+            "lpips": 0.547019362449646
+        }
+    },
+    "231682": {
+        "input": "231682-input.png",
+        "output": "231682-output1.png",
+        "instruction": "change the motorcycle into a bicycle",
+        "metrics": {
+            "ssim": 0.30507556375729944,
+            "lpips": 0.5193265676498413
+        }
+    },
+    "147471": {
+        "input": "147471-input.png",
+        "output": "147471-output1.png",
+        "instruction": "What if the man was bald?",
+        "metrics": {
+            "ssim": 0.21282874330406784,
+            "lpips": 0.6180405020713806
+        }
+    },
+    "419974": {
+        "input": "419974-input.png",
+        "output": "419974-output1.png",
+        "instruction": "let the man cut a pineapple",
+        "metrics": {
+            "ssim": 0.3814042847808591,
+            "lpips": 0.5558464527130127
+        }
+    },
+    "205069": {
+        "input": "205069-input.png",
+        "output": "205069-output1.png",
+        "instruction": "change the pink hat to a red hat",
+        "metrics": {
+            "ssim": 0.40550290442151343,
+            "lpips": 0.4940263032913208
+        }
+    },
+    "391509": {
+        "input": "391509-input.png",
+        "output": "391509-output1.png",
+        "instruction": "let there be a ducati superbike parked",
+        "metrics": {
+            "ssim": 0.3693882298780605,
+            "lpips": 0.45264676213264465
+        }
+    },
+    "276124": {
+        "input": "276124-input.png",
+        "output": "276124-output1.png",
+        "instruction": "make the baby smile",
+        "metrics": {
+            "ssim": 0.6839930059219587,
+            "lpips": 0.4616050720214844
+        }
+    },
+    "231822": {
+        "input": "231822-input.png",
+        "output": "231822-output1.png",
+        "instruction": "Replace the glasses with cans of beer.",
+        "metrics": {
+            "ssim": 0.4729222110632548,
+            "lpips": 0.46432867646217346
+        }
+    },
+    "396338": {
+        "input": "396338-input.png",
+        "output": "396338-output1.png",
+        "instruction": "Add fire to the buildings.",
+        "metrics": {
+            "ssim": 0.3627371004939088,
+            "lpips": 0.5251470804214478
+        }
+    },
+    "136699": {
+        "input": "136699-input.png",
+        "output": "136699-output1.png",
+        "instruction": "Have there be a gold brand label on the purse",
+        "metrics": {
+            "ssim": 0.3441177080660968,
+            "lpips": 0.5313648581504822
+        }
+    },
+    "92187": {
+        "input": "92187-input.png",
+        "output": "92187-output1.png",
+        "instruction": "Replace the wooden figure with a barbie doll.",
+        "metrics": {
+            "ssim": 0.40495025151734204,
+            "lpips": 0.5121551752090454
+        }
+    },
+    "81930": {
+        "input": "81930-input.png",
+        "output": "81930-output1.png",
+        "instruction": "Change the fire hydrant from red to yellow",
+        "metrics": {
+            "ssim": 0.2402586277380841,
+            "lpips": 0.5768922567367554
+        }
+    },
+    "318924": {
+        "input": "318924-input.png",
+        "output": "318924-output1.png",
+        "instruction": "let the statue of zebra be real",
+        "metrics": {
+            "ssim": 0.34381134704804034,
+            "lpips": 0.5065633058547974
+        }
+    },
+    "360540": {
+        "input": "360540-input.png",
+        "output": "360540-output1.png",
+        "instruction": "change the scooter for a penguin",
+        "metrics": {
+            "ssim": 0.3849853363485879,
+            "lpips": 0.49480509757995605
+        }
+    },
+    "434496": {
+        "input": "434496-input.png",
+        "output": "434496-output1.png",
+        "instruction": "put some fruits",
+        "metrics": {
+            "ssim": 0.2914862683278271,
+            "lpips": 0.5937944650650024
+        }
+    },
+    "108244": {
+        "input": "108244-input.png",
+        "output": "108244-output1.png",
+        "instruction": "Put a mouse near the cat.",
+        "metrics": {
+            "ssim": 0.5576873085600997,
+            "lpips": 0.4490189254283905
+        }
+    },
+    "518182": {
+        "input": "518182-input.png",
+        "output": "518182-output1.png",
+        "instruction": "replace the frisbee with a ball",
+        "metrics": {
+            "ssim": 0.4639761825611257,
+            "lpips": 0.5384773015975952
+        }
+    },
+    "508582": {
+        "input": "508582-input.png",
+        "output": "508582-output1.png",
+        "instruction": "Make both the pizzas pepperoni.",
+        "metrics": {
+            "ssim": 0.2252397682203965,
+            "lpips": 0.6461498737335205
+        }
+    },
+    "498988": {
+        "input": "498988-input.png",
+        "output": "498988-output1.png",
+        "instruction": "Change the screen to blue.",
+        "metrics": {
+            "ssim": 0.6075912529673316,
+            "lpips": 0.4524972438812256
+        }
+    },
+    "513200": {
+        "input": "513200-input.png",
+        "output": "513200-output1.png",
+        "instruction": "put the baby giraffe under its mother",
+        "metrics": {
+            "ssim": 0.38156030437386457,
+            "lpips": 0.4980776607990265
+        }
+    },
+    "396330": {
+        "input": "396330-input.png",
+        "output": "396330-output1.png",
+        "instruction": "let the guys raise their hands",
+        "metrics": {
+            "ssim": 0.5323695891542084,
+            "lpips": 0.5240781307220459
+        }
+    },
+    "172686": {
+        "input": "172686-input.png",
+        "output": "172686-output1.png",
+        "instruction": "let there be a bowl of dessert",
+        "metrics": {
+            "ssim": 0.7122864669526464,
+            "lpips": 0.4570671021938324
+        }
+    },
+    "510955": {
+        "input": "510955-input.png",
+        "output": "510955-output1.png",
+        "instruction": "Let the woman wear glasses.",
+        "metrics": {
+            "ssim": 0.38608923595414385,
+            "lpips": 0.5064564943313599
+        }
+    },
+    "280490": {
+        "input": "280490-input.png",
+        "output": "280490-output1.png",
+        "instruction": "Can we have a pancake on the tray?",
+        "metrics": {
+            "ssim": 0.636988683799828,
+            "lpips": 0.4294493496417999
+        }
+    },
+    "139653": {
+        "input": "139653-input.png",
+        "output": "139653-output1.png",
+        "instruction": "Have there be a flock of birds flying by",
+        "metrics": {
+            "ssim": 0.5348971383437545,
+            "lpips": 0.3612269163131714
+        }
+    },
+    "539143": {
+        "input": "539143-input.png",
+        "output": "539143-output1.png",
+        "instruction": "Make the train smile with eyes and a mouth.",
+        "metrics": {
+            "ssim": 0.5130948750078922,
+            "lpips": 0.3722410798072815
+        }
+    },
+    "391388": {
+        "input": "391388-input.png",
+        "output": "391388-output1.png",
+        "instruction": "remove the broccoli and onions and add an apple",
+        "metrics": {
+            "ssim": 0.30435596397264586,
+            "lpips": 0.6152923703193665
+        }
+    },
+    "158702": {
+        "input": "158702-input.png",
+        "output": "158702-output1.png",
+        "instruction": "let the toilet be open",
+        "metrics": {
+            "ssim": 0.6569512582893043,
+            "lpips": 0.3938887119293213
+        }
+    },
+    "228435": {
+        "input": "228435-input.png",
+        "output": "228435-output1.png",
+        "instruction": "get rid of the towel",
+        "metrics": {
+            "ssim": 0.5497152126282028,
+            "lpips": 0.4250918924808502
+        }
+    },
+    "360762": {
+        "input": "360762-input.png",
+        "output": "360762-output1.png",
+        "instruction": "put a rabbit in the basket instead of the bear",
+        "metrics": {
+            "ssim": 0.39192048053836703,
+            "lpips": 0.49728912115097046
+        }
+    },
+    "466945": {
+        "input": "466945-input.png",
+        "output": "466945-output1.png",
+        "instruction": "Have there be a spaceship in the sky",
+        "metrics": {
+            "ssim": 0.708154899147577,
+            "lpips": 0.29631611704826355
+        }
+    },
+    "297426": {
+        "input": "297426-input.png",
+        "output": "297426-output1.png",
+        "instruction": "add a lizard next to the mouse",
+        "metrics": {
+            "ssim": 0.743587813345998,
+            "lpips": 0.22310477495193481
+        }
+    },
+    "92212": {
+        "input": "92212-input.png",
+        "output": "92212-output1.png",
+        "instruction": "let limousines be parked",
+        "metrics": {
+            "ssim": 0.487294610012523,
+            "lpips": 0.4721793532371521
+        }
+    },
+    "551701": {
+        "input": "551701-input.png",
+        "output": "551701-output1.png",
+        "instruction": "Get rid of the stone so it looks like she's just on the grass.",
+        "metrics": {
+            "ssim": 0.25759331242183864,
+            "lpips": 0.5555208921432495
+        }
+    },
+    "500270": {
+        "input": "500270-input.png",
+        "output": "500270-output1.png",
+        "instruction": "Add a UFO to the sky.",
+        "metrics": {
+            "ssim": 0.6916094514108792,
+            "lpips": 0.34043729305267334
+        }
+    },
+    "572765": {
+        "input": "572765-input.png",
+        "output": "572765-output1.png",
+        "instruction": "Have there be a submarine in the water",
+        "metrics": {
+            "ssim": 0.5646972491299763,
+            "lpips": 0.41182613372802734
+        }
+    },
+    "434485": {
+        "input": "434485-input.png",
+        "output": "434485-output1.png",
+        "instruction": "slice the watermelon",
+        "metrics": {
+            "ssim": 0.27094462645411727,
+            "lpips": 0.5927064418792725
+        }
+    },
+    "364549": {
+        "input": "364549-input.png",
+        "output": "364549-output1.png",
+        "instruction": "let the woman wear a designer gown",
+        "metrics": {
+            "ssim": 0.26834519985034433,
+            "lpips": 0.5559121370315552
+        }
+    },
+    "416125": {
+        "input": "416125-input.png",
+        "output": "416125-output1.png",
+        "instruction": "Let the sign become a yield sign.",
+        "metrics": {
+            "ssim": 0.2746480961541628,
+            "lpips": 0.4935126304626465
+        }
+    },
+    "169763": {
+        "input": "169763-input.png",
+        "output": "169763-output1.png",
+        "instruction": "put a monkey on top of the bike",
+        "metrics": {
+            "ssim": 0.3691847456287703,
+            "lpips": 0.4558117091655731
+        }
+    },
+    "47074": {
+        "input": "47074-input.png",
+        "output": "47074-output1.png",
+        "instruction": "let the woman wear a party gown",
+        "metrics": {
+            "ssim": 0.6665854813116822,
+            "lpips": 0.4145466685295105
+        }
+    },
+    "147545": {
+        "input": "147545-input.png",
+        "output": "147545-output1.png",
+        "instruction": "Put a baby in the kitchen.",
+        "metrics": {
+            "ssim": 0.4991396682054491,
+            "lpips": 0.49085167050361633
+        }
+    }
+}

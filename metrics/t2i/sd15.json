@@ -1,0 +1,602 @@
+{
+    "3608663656_9192a21eeb.png": {
+        "prompt": "A man rock climbing at the ocean .",
+        "clipscore": 0.267822265625,
+        "aesthetic_score": 0.6751098036766052,
+        "lpips_vs_blank": 0.7255585193634033
+    },
+    "3361210233_962d630ec5.png": {
+        "prompt": "A large brown and white dog is carrying a stick through a white and snowy area .",
+        "clipscore": 0.357177734375,
+        "aesthetic_score": 0.9657265543937683,
+        "lpips_vs_blank": 0.7430864572525024
+    },
+    "2954584849_3c2899f319.png": {
+        "prompt": "Three men jump up for the ball in a sporting event as a crowd watches .",
+        "clipscore": 0.357177734375,
+        "aesthetic_score": 0.5417878031730652,
+        "lpips_vs_blank": 0.6635475158691406
+    },
+    "2453318633_550228acd4.png": {
+        "prompt": "A tan and black dog leaps through a burning hoop on a field .",
+        "clipscore": 0.3984375,
+        "aesthetic_score": 0.6860212683677673,
+        "lpips_vs_blank": 0.7400931119918823
+    },
+    "509200598_171a1ab6c8.png": {
+        "prompt": "two black dogs play together on a lawn",
+        "clipscore": 0.332275390625,
+        "aesthetic_score": 0.850089967250824,
+        "lpips_vs_blank": 0.7973390817642212
+    },
+    "2822148499_eaa46c99d4.png": {
+        "prompt": "A dog looking at a tennis ball floating in a pool .",
+        "clipscore": 0.34326171875,
+        "aesthetic_score": 0.4424050748348236,
+        "lpips_vs_blank": 0.8095381855964661
+    },
+    "2602085456_d1beebcb29.png": {
+        "prompt": "\"Topless woman smeared with brown substance , blurry crowd in background .\"",
+        "clipscore": 0.317138671875,
+        "aesthetic_score": 0.9340922236442566,
+        "lpips_vs_blank": 0.7090453505516052
+    },
+    "944374205_fd3e69bfca.png": {
+        "prompt": "Similarly dressed children are playing soccer in a rocky field in front of a building .",
+        "clipscore": 0.351806640625,
+        "aesthetic_score": 0.7130541801452637,
+        "lpips_vs_blank": 0.7166673541069031
+    },
+    "2774362575_7543b8bf19.png": {
+        "prompt": "The rottweiller is laying with its head and paws on the first step of the green carpeted stair .",
+        "clipscore": 0.3779296875,
+        "aesthetic_score": 0.8892310261726379,
+        "lpips_vs_blank": 0.810653805732727
+    },
+    "2920305300_a5b1b2329a.png": {
+        "prompt": "Man riding a bicycle with the number five thousand six hundred thirty three on the handlebars he has on a black helmet .",
+        "clipscore": 0.28515625,
+        "aesthetic_score": 0.8667085766792297,
+        "lpips_vs_blank": 0.705547571182251
+    },
+    "3231237864_8cb1c6d863.png": {
+        "prompt": "Man running and almost falling .",
+        "clipscore": 0.27392578125,
+        "aesthetic_score": 0.6800063252449036,
+        "lpips_vs_blank": 0.6988478899002075
+    },
+    "3223709894_97824ba76f.png": {
+        "prompt": "A small dog runs through the grass .",
+        "clipscore": 0.337890625,
+        "aesthetic_score": 0.7365860939025879,
+        "lpips_vs_blank": 0.8006596565246582
+    },
+    "2286823363_7d554ea740.png": {
+        "prompt": "A young boy leaps from chair to chair .",
+        "clipscore": 0.32861328125,
+        "aesthetic_score": 0.9745537638664246,
+        "lpips_vs_blank": 0.6661112904548645
+    },
+    "3648081498_76ec091495.png": {
+        "prompt": "The skateboarder rides the pipe wall at a skater park .",
+        "clipscore": 0.318603515625,
+        "aesthetic_score": 0.6843475699424744,
+        "lpips_vs_blank": 0.6989140510559082
+    },
+    "3108197858_441ff38565.png": {
+        "prompt": "Some children are raising their hands and clapping .",
+        "clipscore": 0.3037109375,
+        "aesthetic_score": 0.9696094393730164,
+        "lpips_vs_blank": 0.7366786003112793
+    },
+    "2768248810_06d543c080.png": {
+        "prompt": "A wakeboarder is leaping into the air whilst holding onto a pink rope .",
+        "clipscore": 0.365234375,
+        "aesthetic_score": 0.6103101372718811,
+        "lpips_vs_blank": 0.7528454065322876
+    },
+    "3245070961_8977fdd548.png": {
+        "prompt": "A young boy in dark clothing with a smile sprints .",
+        "clipscore": 0.335693359375,
+        "aesthetic_score": 0.9940506815910339,
+        "lpips_vs_blank": 0.7446390390396118
+    },
+    "1685463722_55843b6d3c.png": {
+        "prompt": "Woman and small black dog walking across pavement",
+        "clipscore": 0.32177734375,
+        "aesthetic_score": 0.674564003944397,
+        "lpips_vs_blank": 0.7693393230438232
+    },
+    "2394919002_ed7527ff93.png": {
+        "prompt": "Reflections in water of people on bridge and child walking to the water 's edge",
+        "clipscore": 0.322021484375,
+        "aesthetic_score": 0.7949332594871521,
+        "lpips_vs_blank": 0.7665719389915466
+    },
+    "2934379210_4e399e3cac.png": {
+        "prompt": "A boy jumps off a swing with his legs apart .",
+        "clipscore": 0.326416015625,
+        "aesthetic_score": 0.5840368270874023,
+        "lpips_vs_blank": 0.7761999368667603
+    },
+    "3263395801_5e4cee2b9e.png": {
+        "prompt": "A person rides a motorbike on a dirt path surrounded by trees .",
+        "clipscore": 0.33935546875,
+        "aesthetic_score": 0.32958489656448364,
+        "lpips_vs_blank": 0.7510713934898376
+    },
+    "3565654691_22b97d3994.png": {
+        "prompt": "A scuba diver stands on top of rocks after emerging from the water .",
+        "clipscore": 0.330810546875,
+        "aesthetic_score": 0.9546932578086853,
+        "lpips_vs_blank": 0.7207530736923218
+    },
+    "3268175963_113d90d178.png": {
+        "prompt": "two musicians singing and playing",
+        "clipscore": 0.29248046875,
+        "aesthetic_score": 0.903449296951294,
+        "lpips_vs_blank": 0.7054348587989807
+    },
+    "3239021459_a6b71bb400.png": {
+        "prompt": "The young man is flying through the air on his green snowboard .",
+        "clipscore": 0.36669921875,
+        "aesthetic_score": 0.5070372223854065,
+        "lpips_vs_blank": 0.7137032747268677
+    },
+    "3461437556_cc5e97f3ac.png": {
+        "prompt": "Three dogs run together in the grass .",
+        "clipscore": 0.30908203125,
+        "aesthetic_score": 0.8400756120681763,
+        "lpips_vs_blank": 0.7565722465515137
+    },
+    "3625957413_e475943aa3.png": {
+        "prompt": "Two dogs run through a field .",
+        "clipscore": 0.304931640625,
+        "aesthetic_score": 0.8442932963371277,
+        "lpips_vs_blank": 0.7417623996734619
+    },
+    "3278777548_290b881018.png": {
+        "prompt": "several people walking in a line acroos a distant bridge",
+        "clipscore": 0.28857421875,
+        "aesthetic_score": 0.9440259337425232,
+        "lpips_vs_blank": 0.7452161312103271
+    },
+    "2279496715_8ef3ee6edb.png": {
+        "prompt": "The girl is holding the wheelbarrow while the boy sits inside .",
+        "clipscore": 0.33447265625,
+        "aesthetic_score": 0.8736319541931152,
+        "lpips_vs_blank": 0.6251590251922607
+    },
+    "2711720095_0b98426d3c.png": {
+        "prompt": "A photographer is standing on a mountain with gear in hand .",
+        "clipscore": 0.304443359375,
+        "aesthetic_score": 0.9200043678283691,
+        "lpips_vs_blank": 0.6932976841926575
+    },
+    "3070031806_3d587c2a66.png": {
+        "prompt": "Man watching four dogs play on the beach",
+        "clipscore": 0.31201171875,
+        "aesthetic_score": 0.8530693650245667,
+        "lpips_vs_blank": 0.697620689868927
+    },
+    "3423509305_e399d005db.png": {
+        "prompt": "A jog is jumping in the air to catch a ball in a backyard .",
+        "clipscore": 0.33154296875,
+        "aesthetic_score": 0.9139519333839417,
+        "lpips_vs_blank": 0.8164762854576111
+    },
+    "160805827_5e6646b753.png": {
+        "prompt": "A man sitting on a boat with a flag and the sunset in the background .",
+        "clipscore": 0.32861328125,
+        "aesthetic_score": 0.8708776831626892,
+        "lpips_vs_blank": 0.693362832069397
+    },
+    "3468694409_a51571d621.png": {
+        "prompt": "Group of kids singing on a stage .",
+        "clipscore": 0.33154296875,
+        "aesthetic_score": 0.9388846158981323,
+        "lpips_vs_blank": 0.7705390453338623
+    },
+    "418667611_b9995000f4.png": {
+        "prompt": "Waist down picture of a surfer riding a small wave .",
+        "clipscore": 0.3125,
+        "aesthetic_score": 0.6916601657867432,
+        "lpips_vs_blank": 0.7974069118499756
+    },
+    "1620397000_3883e3ecd3.png": {
+        "prompt": "A white dog with black spots jumps over a stream .",
+        "clipscore": 0.35791015625,
+        "aesthetic_score": 0.9374709129333496,
+        "lpips_vs_blank": 0.6988834738731384
+    },
+    "3171250845_5ae0d2a8bc.png": {
+        "prompt": "The boy and a brown dog are standing in the snow .",
+        "clipscore": 0.2978515625,
+        "aesthetic_score": 0.9392781853675842,
+        "lpips_vs_blank": 0.7239111661911011
+    },
+    "223299137_b0e81ac145.png": {
+        "prompt": "Three people in a boat float on the water at sunset .",
+        "clipscore": 0.325439453125,
+        "aesthetic_score": 0.8391731977462769,
+        "lpips_vs_blank": 0.6858136653900146
+    },
+    "1295669416_21cabf594d.png": {
+        "prompt": "A woman in semi-formal attire is sitting on a concrete wall .",
+        "clipscore": 0.31298828125,
+        "aesthetic_score": 0.9880119562149048,
+        "lpips_vs_blank": 0.7484667301177979
+    },
+    "2258951972_92763fddab.png": {
+        "prompt": "Two large gray dogs running through a grassy field .",
+        "clipscore": 0.310791015625,
+        "aesthetic_score": 0.8205533623695374,
+        "lpips_vs_blank": 0.7650641202926636
+    },
+    "3417672954_46b75dea8d.png": {
+        "prompt": "Skateboarder in green shirt doing tricks in air .",
+        "clipscore": 0.302001953125,
+        "aesthetic_score": 0.7328964471817017,
+        "lpips_vs_blank": 0.7689490914344788
+    },
+    "2417623030_afdc1024b5.png": {
+        "prompt": "Two young couples posing for a picture in exercise clothing .",
+        "clipscore": 0.333984375,
+        "aesthetic_score": 0.9525009393692017,
+        "lpips_vs_blank": 0.727082371711731
+    },
+    "3387661249_33e5ba0bc5.png": {
+        "prompt": "A horse and dog look at each other in a field .",
+        "clipscore": 0.288330078125,
+        "aesthetic_score": 0.9656769633293152,
+        "lpips_vs_blank": 0.7509695291519165
+    },
+    "1262583859_653f1469a9.png": {
+        "prompt": "A man riding a bike wearing a green shirt with a drink in his hand .",
+        "clipscore": 0.31298828125,
+        "aesthetic_score": 0.8113799095153809,
+        "lpips_vs_blank": 0.6950091123580933
+    },
+    "2289068031_fe26990183.png": {
+        "prompt": "Man on a motorcycle performing a trick high in the air .",
+        "clipscore": 0.31640625,
+        "aesthetic_score": 0.8122208714485168,
+        "lpips_vs_blank": 0.7161337733268738
+    },
+    "3429956016_3c7e3096c2.png": {
+        "prompt": "\"A person in a red and black outfit climbing the side of an icy mountain ,\"",
+        "clipscore": 0.333251953125,
+        "aesthetic_score": 0.5914682745933533,
+        "lpips_vs_blank": 0.7026796936988831
+    },
+    "2970067128_8842ab3603.png": {
+        "prompt": "Jumping a bicycle onto a park bench .",
+        "clipscore": 0.31884765625,
+        "aesthetic_score": 0.911944568157196,
+        "lpips_vs_blank": 0.7242464423179626
+    },
+    "574274795_57e0834e7d.png": {
+        "prompt": "Animal running after Frisbee in field .",
+        "clipscore": 0.341552734375,
+        "aesthetic_score": 0.7996318340301514,
+        "lpips_vs_blank": 0.7578485608100891
+    },
+    "3315110972_1090d11728.png": {
+        "prompt": "A white heron flies into the sky .",
+        "clipscore": 0.3095703125,
+        "aesthetic_score": 0.8958095908164978,
+        "lpips_vs_blank": 0.6697930693626404
+    },
+    "1606988704_fe330878a3.png": {
+        "prompt": "Two young children are throwing hay .",
+        "clipscore": 0.35009765625,
+        "aesthetic_score": 0.9051095843315125,
+        "lpips_vs_blank": 0.8045681715011597
+    },
+    "3185662156_c877583c53.png": {
+        "prompt": "A young child is sledding down a snowy hill on a red sled .",
+        "clipscore": 0.32568359375,
+        "aesthetic_score": 0.6831329464912415,
+        "lpips_vs_blank": 0.695433497428894
+    },
+    "2815745115_c8479d560c.png": {
+        "prompt": "Woman with stuffed animal display .",
+        "clipscore": 0.313232421875,
+        "aesthetic_score": 0.9210957884788513,
+        "lpips_vs_blank": 0.7349382042884827
+    },
+    "1330645772_24f831ff8f.png": {
+        "prompt": "A large black and white dog is running through a grassy field .",
+        "clipscore": 0.359130859375,
+        "aesthetic_score": 0.749376654624939,
+        "lpips_vs_blank": 0.7004668116569519
+    },
+    "3477672764_7f07657a26.png": {
+        "prompt": "\"During a soccer game , a boy in blue attempts to kick the ball .\"",
+        "clipscore": 0.3017578125,
+        "aesthetic_score": 0.8219383955001831,
+        "lpips_vs_blank": 0.7702927589416504
+    },
+    "3364861247_d590fa170d.png": {
+        "prompt": "There are oriental people standing together .",
+        "clipscore": 0.258544921875,
+        "aesthetic_score": 0.5934321880340576,
+        "lpips_vs_blank": 0.7285070419311523
+    },
+    "3634785801_4b23184a06.png": {
+        "prompt": "Two dogs laying together in grass",
+        "clipscore": 0.291259765625,
+        "aesthetic_score": 0.8821905851364136,
+        "lpips_vs_blank": 0.722003698348999
+    },
+    "2557972410_6925fe695c.png": {
+        "prompt": "Two children play street hockey in front of a goal .",
+        "clipscore": 0.317626953125,
+        "aesthetic_score": 0.9003241062164307,
+        "lpips_vs_blank": 0.7598949074745178
+    },
+    "3431101934_99a6c55914.png": {
+        "prompt": "Two small girls are jumping on an outdoor trampoline in a backyard .",
+        "clipscore": 0.331298828125,
+        "aesthetic_score": 0.8404743671417236,
+        "lpips_vs_blank": 0.7462788820266724
+    },
+    "197142902_f05ff198c2.png": {
+        "prompt": "A woman and man are next to each other blowing bubbles .",
+        "clipscore": 0.325927734375,
+        "aesthetic_score": 0.930191695690155,
+        "lpips_vs_blank": 0.7813752889633179
+    },
+    "2752341621_54490b9b09.png": {
+        "prompt": "Three women dressed in colorful clothes and head coverings and a man and boy are walking in the snow .",
+        "clipscore": 0.377685546875,
+        "aesthetic_score": 0.8900364637374878,
+        "lpips_vs_blank": 0.7350770235061646
+    },
+    "3561433412_3985208d53.png": {
+        "prompt": "Wolf-like dog chasing white wiffle ball through a green field .",
+        "clipscore": 0.338134765625,
+        "aesthetic_score": 0.4838331937789917,
+        "lpips_vs_blank": 0.8338366746902466
+    },
+    "3354075558_3b67eaa502.png": {
+        "prompt": "Closeup image of a cat licking his front leg .",
+        "clipscore": 0.267333984375,
+        "aesthetic_score": 0.9279359579086304,
+        "lpips_vs_blank": 0.6770853996276855
+    },
+    "1178705300_c224d9a4f1.png": {
+        "prompt": "A tan colored dog leaps into the inground pool .",
+        "clipscore": 0.3515625,
+        "aesthetic_score": 0.6660837531089783,
+        "lpips_vs_blank": 0.7196235656738281
+    },
+    "2460134050_06de9f5c4a.png": {
+        "prompt": "The dog is running while looking up",
+        "clipscore": 0.281494140625,
+        "aesthetic_score": 0.8549522757530212,
+        "lpips_vs_blank": 0.6965636014938354
+    },
+    "1167908324_8caab45e15.png": {
+        "prompt": "A man stands next to three video machines .",
+        "clipscore": 0.301513671875,
+        "aesthetic_score": 0.37745627760887146,
+        "lpips_vs_blank": 0.6447845697402954
+    },
+    "2567812221_30fb64f5e9.png": {
+        "prompt": "Women walk dogs in a circular pattern over grassy terrain .",
+        "clipscore": 0.36083984375,
+        "aesthetic_score": 0.8015540838241577,
+        "lpips_vs_blank": 0.7999463081359863
+    },
+    "2621415349_ef1a7e73be.png": {
+        "prompt": "A man with sunglasses on puts a chip in his mouth .",
+        "clipscore": 0.32275390625,
+        "aesthetic_score": 0.9203789234161377,
+        "lpips_vs_blank": 0.770494818687439
+    },
+    "808245064_8a7971fc5b.png": {
+        "prompt": "A man with glasses smokes a cigarette .",
+        "clipscore": 0.35107421875,
+        "aesthetic_score": 0.9761715531349182,
+        "lpips_vs_blank": 0.7092617154121399
+    },
+    "3375549004_beee810e60.png": {
+        "prompt": "Three men in orange robes holding metal pots .",
+        "clipscore": 0.35107421875,
+        "aesthetic_score": 0.9380388855934143,
+        "lpips_vs_blank": 0.7490084171295166
+    },
+    "2677614492_792023b928.png": {
+        "prompt": "A small white and brown dog is jumping over a horizontal pole .",
+        "clipscore": 0.3603515625,
+        "aesthetic_score": 0.707892656326294,
+        "lpips_vs_blank": 0.6993157863616943
+    },
+    "3619416477_9d18580a14.png": {
+        "prompt": "A white dog jumps out of the water to catch a tennis ball .",
+        "clipscore": 0.383056640625,
+        "aesthetic_score": 0.8278418779373169,
+        "lpips_vs_blank": 0.756786584854126
+    },
+    "3120189281_1938460e85.png": {
+        "prompt": "Two people wearing camouflage clothing in the snow with two dogs .",
+        "clipscore": 0.411865234375,
+        "aesthetic_score": 0.9390909075737,
+        "lpips_vs_blank": 0.6833839416503906
+    },
+    "2839789830_89668775a4.png": {
+        "prompt": "The dog leaps to attempt to catch the Frisbee .",
+        "clipscore": 0.29296875,
+        "aesthetic_score": 0.9522419571876526,
+        "lpips_vs_blank": 0.7844997644424438
+    },
+    "2714878018_1593c38d69.png": {
+        "prompt": "Young boy with glasses playing in the sprinkler .",
+        "clipscore": 0.362548828125,
+        "aesthetic_score": 0.7765550017356873,
+        "lpips_vs_blank": 0.8004697561264038
+    },
+    "2872806249_00bea3c4e7.png": {
+        "prompt": "Woman in red overalls standing on the sidewalk .",
+        "clipscore": 0.36181640625,
+        "aesthetic_score": 0.9864652156829834,
+        "lpips_vs_blank": 0.7226784229278564
+    },
+    "3262075846_5695021d84.png": {
+        "prompt": "Men play rugby .",
+        "clipscore": 0.290771484375,
+        "aesthetic_score": 0.7592206597328186,
+        "lpips_vs_blank": 0.7525808811187744
+    },
+    "2600442766_e750ec9a56.png": {
+        "prompt": "Two dogs wearing collars stand outdoors in water up to their chests .",
+        "clipscore": 0.366455078125,
+        "aesthetic_score": 0.9576167464256287,
+        "lpips_vs_blank": 0.7954889535903931
+    },
+    "862177617_c2c0581075.png": {
+        "prompt": "\"One person in a crowd of people , wearing a blue wig\"",
+        "clipscore": 0.3564453125,
+        "aesthetic_score": 0.9044949412345886,
+        "lpips_vs_blank": 0.7380122542381287
+    },
+    "3527184455_1a9c074ff2.png": {
+        "prompt": "Two adults and two children sit on a park bench .",
+        "clipscore": 0.358642578125,
+        "aesthetic_score": 0.9717571139335632,
+        "lpips_vs_blank": 0.7986946702003479
+    },
+    "2274992140_bb9e868bb8.png": {
+        "prompt": "two young children playing in front of a couch",
+        "clipscore": 0.31982421875,
+        "aesthetic_score": 0.9746711850166321,
+        "lpips_vs_blank": 0.7342230081558228
+    },
+    "1472249944_d887c3aeda.png": {
+        "prompt": "Two women are on a rock wall while others walk along a path .",
+        "clipscore": 0.3642578125,
+        "aesthetic_score": 0.7036203145980835,
+        "lpips_vs_blank": 0.7323146462440491
+    },
+    "3057497487_57ecc60ff1.png": {
+        "prompt": "The plane is hanging from the ceiling in the museum .",
+        "clipscore": 0.302490234375,
+        "aesthetic_score": 0.7714001536369324,
+        "lpips_vs_blank": 0.6947610378265381
+    },
+    "405961988_fcfe97f31e.png": {
+        "prompt": "\"The man in the construction gear uses a large , red drill .\"",
+        "clipscore": 0.3095703125,
+        "aesthetic_score": 0.9783585667610168,
+        "lpips_vs_blank": 0.7366962432861328
+    },
+    "3258397351_1a70f1993d.png": {
+        "prompt": "The man is interviewing a teenage boy in front of an audience .",
+        "clipscore": 0.3291015625,
+        "aesthetic_score": 0.8452268838882446,
+        "lpips_vs_blank": 0.7716748118400574
+    },
+    "2635938723_11b85e6763.png": {
+        "prompt": "The wide eyed little boy is eating a red Popsicle .",
+        "clipscore": 0.338623046875,
+        "aesthetic_score": 0.8712087869644165,
+        "lpips_vs_blank": 0.766233503818512
+    },
+    "216172386_9ac5356dae.png": {
+        "prompt": "The motorcyclist has reached the summit .",
+        "clipscore": 0.28466796875,
+        "aesthetic_score": 0.8439173102378845,
+        "lpips_vs_blank": 0.7288851737976074
+    },
+    "3630102841_b4c3e00b2c.png": {
+        "prompt": "Men wearing hats walk on the street .",
+        "clipscore": 0.34228515625,
+        "aesthetic_score": 0.8099902868270874,
+        "lpips_vs_blank": 0.7063800096511841
+    },
+    "3120266797_47e7d91614.png": {
+        "prompt": "People and shrubs are silhouetted against an indigo sky .",
+        "clipscore": 0.306884765625,
+        "aesthetic_score": 0.43277648091316223,
+        "lpips_vs_blank": 0.7522717714309692
+    },
+    "2922222717_12195af92d.png": {
+        "prompt": "Small black dog biting the fingers of a woman .",
+        "clipscore": 0.293701171875,
+        "aesthetic_score": 0.7300225496292114,
+        "lpips_vs_blank": 0.6707606911659241
+    },
+    "2555638166_2f0847d57d.png": {
+        "prompt": "Two boys and a girl kick a ball in a sandy field .",
+        "clipscore": 0.322265625,
+        "aesthetic_score": 0.7872323989868164,
+        "lpips_vs_blank": 0.7466485500335693
+    },
+    "2631300484_be8621d17b.png": {
+        "prompt": "A young boy has a snake draped over his shoulders .",
+        "clipscore": 0.353759765625,
+        "aesthetic_score": 0.7123422026634216,
+        "lpips_vs_blank": 0.7616651058197021
+    },
+    "2986671935_0c60bbb3fa.png": {
+        "prompt": "Several cyclists wearing different colors riding bikes on pavement .",
+        "clipscore": 0.316162109375,
+        "aesthetic_score": 0.7759068012237549,
+        "lpips_vs_blank": 0.7539865374565125
+    },
+    "3017203816_5dc2a6b392.png": {
+        "prompt": "Woman in sunglasses accompanied by a man in a safari outfit .",
+        "clipscore": 0.300537109375,
+        "aesthetic_score": 0.9255704879760742,
+        "lpips_vs_blank": 0.7243130803108215
+    },
+    "2196050115_e236d91f52.png": {
+        "prompt": "Boy wearing jeans aiming bow and arrow toward target on a hay bale .",
+        "clipscore": 0.393798828125,
+        "aesthetic_score": 0.8154165148735046,
+        "lpips_vs_blank": 0.7575198411941528
+    },
+    "354642192_3b7666a2dd.png": {
+        "prompt": "A person swims in a pool by a waterfall .",
+        "clipscore": 0.29931640625,
+        "aesthetic_score": 0.9571810960769653,
+        "lpips_vs_blank": 0.7600646615028381
+    },
+    "217838128_1f0a84ddc1.png": {
+        "prompt": "The man in the brown cap is paddling a boat on calm river .",
+        "clipscore": 0.282958984375,
+        "aesthetic_score": 0.552618682384491,
+        "lpips_vs_blank": 0.7974970936775208
+    },
+    "2855667597_bf6ceaef8e.png": {
+        "prompt": "\"The four large , black dogs are running on the grass .\"",
+        "clipscore": 0.3310546875,
+        "aesthetic_score": 0.6840909719467163,
+        "lpips_vs_blank": 0.7378584146499634
+    },
+    "3413571342_b9855795e2.png": {
+        "prompt": "Man in multicolor trunks riding a surfboard on a wave .",
+        "clipscore": 0.316162109375,
+        "aesthetic_score": 0.9365862607955933,
+        "lpips_vs_blank": 0.773980438709259
+    },
+    "2774430374_fee1d793e7.png": {
+        "prompt": "A young boy gets ready to swing his baseball bat .",
+        "clipscore": 0.35693359375,
+        "aesthetic_score": 0.5560483932495117,
+        "lpips_vs_blank": 0.6935969591140747
+    },
+    "2223382277_9efa58ec45.png": {
+        "prompt": "Two young children skate across the ice holding hockey sticks .",
+        "clipscore": 0.33837890625,
+        "aesthetic_score": 0.7091666460037231,
+        "lpips_vs_blank": 0.688815712928772
+    },
+    "3599568766_9e96def0ef.png": {
+        "prompt": "The white dog ran down the dusty road .",
+        "clipscore": 0.314208984375,
+        "aesthetic_score": 0.6364350318908691,
+        "lpips_vs_blank": 0.6901719570159912
+    }
+}

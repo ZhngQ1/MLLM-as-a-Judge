@@ -1,0 +1,802 @@
+[
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/258089.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/258089.png",
+        "metrics": {
+            "canny_ssim": 0.10315297397680377,
+            "canny_lpips": 0.4501263201236725
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/335094.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/335094.png",
+        "metrics": {
+            "canny_ssim": 0.04231036376305767,
+            "canny_lpips": 0.5937008857727051
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/35028.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/35028.png",
+        "metrics": {
+            "canny_ssim": 0.03231070289084752,
+            "canny_lpips": 0.7433668375015259
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/372019.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/372019.png",
+        "metrics": {
+            "canny_ssim": 0.025451659486022498,
+            "canny_lpips": 0.6755417585372925
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/385022.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/385022.png",
+        "metrics": {
+            "canny_ssim": 0.030849397215420713,
+            "canny_lpips": 0.5936542749404907
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/43033.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/43033.png",
+        "metrics": {
+            "canny_ssim": 0.10418476228336962,
+            "canny_lpips": 0.5739198327064514
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/45000.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/45000.png",
+        "metrics": {
+            "canny_ssim": 0.07151086990080474,
+            "canny_lpips": 0.48465684056282043
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/48025.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/48025.png",
+        "metrics": {
+            "canny_ssim": 0.15588600100545533,
+            "canny_lpips": 0.6322313547134399
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/65084.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/65084.png",
+        "metrics": {
+            "canny_ssim": 0.04587539704063127,
+            "canny_lpips": 0.6837481260299683
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/69007.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/69007.png",
+        "metrics": {
+            "canny_ssim": 0.10116980268116214,
+            "canny_lpips": 0.6765928864479065
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/70011.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/70011.png",
+        "metrics": {
+            "canny_ssim": 0.8561226519840845,
+            "canny_lpips": 0.28345629572868347
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/70090.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/70090.png",
+        "metrics": {
+            "canny_ssim": 0.025677092756399636,
+            "canny_lpips": 0.7096478939056396
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/77062.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/77062.png",
+        "metrics": {
+            "canny_ssim": 0.04381208683479536,
+            "canny_lpips": 0.4759058356285095
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/87015.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/87015.png",
+        "metrics": {
+            "canny_ssim": 0.05652967435995038,
+            "canny_lpips": 0.4296781122684479
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/94095.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/94095.png",
+        "metrics": {
+            "canny_ssim": 0.10782060278846033,
+            "canny_lpips": 0.46213558316230774
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/101027.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/101027.png",
+        "metrics": {
+            "canny_ssim": 0.021688783193514385,
+            "canny_lpips": 0.620717465877533
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/103029.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/103029.png",
+        "metrics": {
+            "canny_ssim": 0.010544330090429523,
+            "canny_lpips": 0.8555700778961182
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/103078.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/103078.png",
+        "metrics": {
+            "canny_ssim": 0.06959871715786586,
+            "canny_lpips": 0.5601623058319092
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/104055.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/104055.png",
+        "metrics": {
+            "canny_ssim": 0.07649312287568072,
+            "canny_lpips": 0.763733983039856
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/105027.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/105027.png",
+        "metrics": {
+            "canny_ssim": 0.24138394253430628,
+            "canny_lpips": 0.47898852825164795
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/107014.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/107014.png",
+        "metrics": {
+            "canny_ssim": 0.21107213452358126,
+            "canny_lpips": 0.5880525708198547
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/107072.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/107072.png",
+        "metrics": {
+            "canny_ssim": 0.03359262102554637,
+            "canny_lpips": 0.5435312986373901
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/108069.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/108069.png",
+        "metrics": {
+            "canny_ssim": 0.028911737263685733,
+            "canny_lpips": 0.5518505573272705
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/117025.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/117025.png",
+        "metrics": {
+            "canny_ssim": 0.14528321792114787,
+            "canny_lpips": 0.4954245090484619
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/118031.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/118031.png",
+        "metrics": {
+            "canny_ssim": 0.0818284490310313,
+            "canny_lpips": 0.560300350189209
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/118072.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/118072.png",
+        "metrics": {
+            "canny_ssim": 0.182512461124756,
+            "canny_lpips": 0.4990745186805725
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/130014.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/130014.png",
+        "metrics": {
+            "canny_ssim": 0.0192066387601378,
+            "canny_lpips": 0.6857625246047974
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/14085.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/14085.png",
+        "metrics": {
+            "canny_ssim": 0.026289704554762962,
+            "canny_lpips": 0.5709635615348816
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/141048.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/141048.png",
+        "metrics": {
+            "canny_ssim": 0.09462249989726118,
+            "canny_lpips": 0.43192243576049805
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/146074.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/146074.png",
+        "metrics": {
+            "canny_ssim": 0.060631662457023464,
+            "canny_lpips": 0.6921157240867615
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/147077.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/147077.png",
+        "metrics": {
+            "canny_ssim": 0.04359520997576534,
+            "canny_lpips": 0.5458850860595703
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/15062.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/15062.png",
+        "metrics": {
+            "canny_ssim": 0.08304833176070472,
+            "canny_lpips": 0.5765303373336792
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/159002.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/159002.png",
+        "metrics": {
+            "canny_ssim": 0.06393248236451372,
+            "canny_lpips": 0.5926341414451599
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/159022.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/159022.png",
+        "metrics": {
+            "canny_ssim": 0.01630807309094477,
+            "canny_lpips": 0.730845034122467
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/163004.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/163004.png",
+        "metrics": {
+            "canny_ssim": 0.10246051576356613,
+            "canny_lpips": 0.569435715675354
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/175083.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/175083.png",
+        "metrics": {
+            "canny_ssim": 0.17570925024507905,
+            "canny_lpips": 0.4129302501678467
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/176051.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/176051.png",
+        "metrics": {
+            "canny_ssim": 0.019158143805499482,
+            "canny_lpips": 0.7646491527557373
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/179084.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/179084.png",
+        "metrics": {
+            "canny_ssim": 0.041498799940877885,
+            "canny_lpips": 0.7374492883682251
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/188025.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/188025.png",
+        "metrics": {
+            "canny_ssim": 0.05057288792896622,
+            "canny_lpips": 0.6612683534622192
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/189006.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/189006.png",
+        "metrics": {
+            "canny_ssim": 0.08955100823344217,
+            "canny_lpips": 0.6857390403747559
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/189029.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/189029.png",
+        "metrics": {
+            "canny_ssim": 0.07198173041273731,
+            "canny_lpips": 0.6344537138938904
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/196027.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/196027.png",
+        "metrics": {
+            "canny_ssim": 0.2688332242003232,
+            "canny_lpips": 0.6131821274757385
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/196040.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/196040.png",
+        "metrics": {
+            "canny_ssim": 0.06750033197324565,
+            "canny_lpips": 0.4719766080379486
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/196062.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/196062.png",
+        "metrics": {
+            "canny_ssim": 0.1826590859750131,
+            "canny_lpips": 0.5270645618438721
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/209021.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/209021.png",
+        "metrics": {
+            "canny_ssim": 0.12207666688397799,
+            "canny_lpips": 0.5070492625236511
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/228076.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/228076.png",
+        "metrics": {
+            "canny_ssim": 0.05944588600928657,
+            "canny_lpips": 0.6742393970489502
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/23050.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/23050.png",
+        "metrics": {
+            "canny_ssim": 0.020311656591202286,
+            "canny_lpips": 0.6773664951324463
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/238025.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/238025.png",
+        "metrics": {
+            "canny_ssim": 0.08515676157366475,
+            "canny_lpips": 0.6271860599517822
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/247012.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/247012.png",
+        "metrics": {
+            "canny_ssim": 0.12532848711453792,
+            "canny_lpips": 0.5679215788841248
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/253016.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sd15/253016.png",
+        "metrics": {
+            "canny_ssim": 0.04064436446636368,
+            "canny_lpips": 0.5174902677536011
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/101027.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/101027.png",
+        "metrics": {
+            "canny_ssim": 0.3223709838201418,
+            "canny_lpips": 0.45180773735046387
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/103029.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/103029.png",
+        "metrics": {
+            "canny_ssim": 0.447249062995514,
+            "canny_lpips": 0.4909021556377411
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/103078.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/103078.png",
+        "metrics": {
+            "canny_ssim": 0.4038337876099339,
+            "canny_lpips": 0.3814481198787689
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/104055.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/104055.png",
+        "metrics": {
+            "canny_ssim": 0.5508608718875614,
+            "canny_lpips": 0.38325920701026917
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/105027.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/105027.png",
+        "metrics": {
+            "canny_ssim": 0.3442296478307535,
+            "canny_lpips": 0.4263328015804291
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/107014.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/107014.png",
+        "metrics": {
+            "canny_ssim": 0.3032790241834685,
+            "canny_lpips": 0.4644133448600769
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/107072.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/107072.png",
+        "metrics": {
+            "canny_ssim": 0.23062834150993122,
+            "canny_lpips": 0.5028020739555359
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/108069.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/108069.png",
+        "metrics": {
+            "canny_ssim": 0.2663309051666114,
+            "canny_lpips": 0.4041355550289154
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/117025.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/117025.png",
+        "metrics": {
+            "canny_ssim": 0.29801378921045796,
+            "canny_lpips": 0.5046207904815674
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/118031.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/118031.png",
+        "metrics": {
+            "canny_ssim": 0.24509232659498284,
+            "canny_lpips": 0.4823266565799713
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/118072.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/118072.png",
+        "metrics": {
+            "canny_ssim": 0.3712194766613074,
+            "canny_lpips": 0.39633846282958984
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/130014.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/130014.png",
+        "metrics": {
+            "canny_ssim": 0.37566080636605853,
+            "canny_lpips": 0.5198371410369873
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/14085.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/14085.png",
+        "metrics": {
+            "canny_ssim": 0.35568260292094156,
+            "canny_lpips": 0.43116432428359985
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/141048.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/141048.png",
+        "metrics": {
+            "canny_ssim": 0.18671982616599225,
+            "canny_lpips": 0.4750840961933136
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/146074.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/146074.png",
+        "metrics": {
+            "canny_ssim": 0.5670559746915709,
+            "canny_lpips": 0.2681688964366913
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/147077.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/147077.png",
+        "metrics": {
+            "canny_ssim": 0.2519210993456261,
+            "canny_lpips": 0.42573365569114685
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/15062.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/15062.png",
+        "metrics": {
+            "canny_ssim": 0.23981186509871308,
+            "canny_lpips": 0.49234461784362793
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/159002.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/159002.png",
+        "metrics": {
+            "canny_ssim": 0.38135135388215113,
+            "canny_lpips": 0.4658781886100769
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/159022.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/159022.png",
+        "metrics": {
+            "canny_ssim": 0.4670717842444916,
+            "canny_lpips": 0.44002991914749146
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/163004.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/163004.png",
+        "metrics": {
+            "canny_ssim": 0.39444977104516443,
+            "canny_lpips": 0.41262832283973694
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/175083.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/175083.png",
+        "metrics": {
+            "canny_ssim": 0.21797206637865238,
+            "canny_lpips": 0.4669002294540405
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/176051.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/176051.png",
+        "metrics": {
+            "canny_ssim": 0.5129948856322076,
+            "canny_lpips": 0.3975914716720581
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/179084.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/179084.png",
+        "metrics": {
+            "canny_ssim": 0.4852137180312626,
+            "canny_lpips": 0.4500757157802582
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/188025.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/188025.png",
+        "metrics": {
+            "canny_ssim": 0.4427345652461474,
+            "canny_lpips": 0.3697546124458313
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/189006.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/189006.png",
+        "metrics": {
+            "canny_ssim": 0.43008674044511547,
+            "canny_lpips": 0.43481552600860596
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/189029.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/189029.png",
+        "metrics": {
+            "canny_ssim": 0.5383185128375214,
+            "canny_lpips": 0.3357608914375305
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/196027.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/196027.png",
+        "metrics": {
+            "canny_ssim": 0.5756775559508773,
+            "canny_lpips": 0.3918829560279846
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/196040.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/196040.png",
+        "metrics": {
+            "canny_ssim": 0.22462069897751655,
+            "canny_lpips": 0.5479184985160828
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/196062.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/196062.png",
+        "metrics": {
+            "canny_ssim": 0.34854558551724746,
+            "canny_lpips": 0.4714294672012329
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/209021.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/209021.png",
+        "metrics": {
+            "canny_ssim": 0.39540134705422486,
+            "canny_lpips": 0.41510075330734253
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/228076.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/228076.png",
+        "metrics": {
+            "canny_ssim": 0.45933027807578664,
+            "canny_lpips": 0.4231695532798767
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/23050.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/23050.png",
+        "metrics": {
+            "canny_ssim": 0.3695029538333311,
+            "canny_lpips": 0.3797188401222229
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/238025.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/238025.png",
+        "metrics": {
+            "canny_ssim": 0.2821811127506696,
+            "canny_lpips": 0.4988366365432739
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/247012.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/247012.png",
+        "metrics": {
+            "canny_ssim": 0.34748019683674297,
+            "canny_lpips": 0.4508332312107086
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/253016.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/253016.png",
+        "metrics": {
+            "canny_ssim": 0.23463038639400144,
+            "canny_lpips": 0.4454811215400696
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/258089.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/258089.png",
+        "metrics": {
+            "canny_ssim": 0.2732244969519976,
+            "canny_lpips": 0.4673468768596649
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/335094.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/335094.png",
+        "metrics": {
+            "canny_ssim": 0.3489912580637985,
+            "canny_lpips": 0.4323466122150421
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/35028.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/35028.png",
+        "metrics": {
+            "canny_ssim": 0.5081733407251507,
+            "canny_lpips": 0.40284305810928345
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/372019.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/372019.png",
+        "metrics": {
+            "canny_ssim": 0.3670244131019077,
+            "canny_lpips": 0.47623372077941895
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/385022.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/385022.png",
+        "metrics": {
+            "canny_ssim": 0.26492390886886535,
+            "canny_lpips": 0.42924150824546814
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/43033.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/43033.png",
+        "metrics": {
+            "canny_ssim": 0.2833610406847744,
+            "canny_lpips": 0.46597784757614136
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/45000.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/45000.png",
+        "metrics": {
+            "canny_ssim": 0.23995155054312342,
+            "canny_lpips": 0.47962287068367004
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/48025.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/48025.png",
+        "metrics": {
+            "canny_ssim": 0.40357027610502233,
+            "canny_lpips": 0.4687846004962921
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/65084.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/65084.png",
+        "metrics": {
+            "canny_ssim": 0.4665242924461631,
+            "canny_lpips": 0.4117053151130676
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/69007.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/69007.png",
+        "metrics": {
+            "canny_ssim": 0.44732446308627016,
+            "canny_lpips": 0.38495633006095886
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/70011.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/70011.png",
+        "metrics": {
+            "canny_ssim": 0.20088422951649557,
+            "canny_lpips": 0.6500142216682434
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/70090.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/70090.png",
+        "metrics": {
+            "canny_ssim": 0.2976898008193951,
+            "canny_lpips": 0.4561772346496582
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/77062.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/77062.png",
+        "metrics": {
+            "canny_ssim": 0.1922459928423343,
+            "canny_lpips": 0.5667589902877808
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/87015.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/87015.png",
+        "metrics": {
+            "canny_ssim": 0.1314825699528033,
+            "canny_lpips": 0.5489372611045837
+        }
+    },
+    {
+        "gt_control_image": "../mini_data/ctrl_gen/canny/conditions/94095.jpg",
+        "generated_image": "../Model/ctrl_gen/results/canny/sdxl/94095.png",
+        "metrics": {
+            "canny_ssim": 0.16443530578734655,
+            "canny_lpips": 0.5023131966590881
+        }
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00017_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00017_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00037_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00037_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00196_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00196_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00210_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00210_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00315_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00315_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00331_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00331_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00389_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00389_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00446_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00446_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00470_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00470_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00472_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00472_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00476_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00476_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00521_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00521_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00525_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00525_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00548_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00548_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00716_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00716_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00724_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00724_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00761_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00761_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00766_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00766_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00779_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00779_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00780_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00780_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00800_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00800_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00839_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00839_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00869_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00869_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00905_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00905_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00918_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00918_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00969_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00969_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00971_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00971_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00975_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00975_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/00994_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/00994_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01011_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01011_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01078_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01078_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01118_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01118_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01143_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01143_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01164_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01164_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01166_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01166_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01174_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01174_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01193_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01193_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01208_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01208_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01216_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01216_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01228_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01228_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01276_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01276_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01277_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01277_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01293_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01293_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01298_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01298_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01354_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01354_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01408_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01408_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01411_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01411_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01412_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01412_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01413_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01413_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    },
+    {
+        "task": "depth",
+        "condition": "../../../mini_data/ctrl_gen/depth/conditions/01422_depth.png",
+        "output": "../../../Model/ctrl_gen/results/depth/sd15/01422_rgb_sd15.png",
+        "prompt": "a high quality photograph, detailed, good lighting"
+    }
+]

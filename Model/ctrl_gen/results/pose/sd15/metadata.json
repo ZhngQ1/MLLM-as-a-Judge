@@ -1,0 +1,302 @@
+[
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000001000.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000001000_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000005060.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000005060_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000009590.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000009590_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000013291.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000013291_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000021903.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000021903_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000023126.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000023126_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000041990.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000041990_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000073946.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000073946_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000089648.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000089648_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000098287.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000098287_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000104424.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000104424_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000109900.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000109900_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000123633.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000123633_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000129756.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000129756_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000138639.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000138639_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000153011.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000153011_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000160728.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000160728_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000179898.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000179898_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000183709.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000183709_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000187243.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000187243_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000227491.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000227491_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000230993.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000230993_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000239857.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000239857_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000250282.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000250282_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000267169.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000267169_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000284743.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000284743_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000301135.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000301135_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000320696.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000320696_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000342295.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000342295_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000352760.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000352760_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000371529.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000371529_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000404678.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000404678_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000413689.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000413689_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000417911.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000417911_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000439994.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000439994_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000440336.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000440336_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000441442.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000441442_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000463918.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000463918_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000464144.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000464144_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000474039.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000474039_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000488251.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000488251_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000491366.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000491366_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000492282.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000492282_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000494759.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000494759_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000494869.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000494869_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000551215.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000551215_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000552842.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000552842_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000569976.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000569976_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000571718.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000571718_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    },
+    {
+        "task": "pose",
+        "condition": "../../../mini_data/ctrl_gen/pose/conditions/000000573258.jpg",
+        "output": "../../../Model/ctrl_gen/results/pose/sd15/000000573258_sd15.png",
+        "prompt": "a person standing, full body, detailed, photorealistic, 8k"
+    }
+]
