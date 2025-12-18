@@ -1,0 +1,3512 @@
+{
+    "1": {
+        "category": "BGReplacement",
+        "image_id": "7",
+        "image_name": "0007.jpg",
+        "metadata": {
+            "image": "0007.jpg",
+            "ori_exp": "Change the background of this photo to snow",
+            "Evaluation": "Is the background of this image snow? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "Scenery",
+            "div_exp": "Reimagine the background of this photo with a snowy vista"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0007.jpg",
+            "hive": "hive_0007.jpg",
+            "hqedit": "hqedit_0007.jpg",
+            "iedit": "iedit_0007.jpg",
+            "instruct-diffusion": "instruct-diffusion_0007.jpg",
+            "instructpix2pix": "instructpix2pix_0007.jpg",
+            "magicbrush": "magicbrush_0007.jpg",
+            "mgie": "mgie_0007.jpg"
+        }
+    },
+    "2": {
+        "category": "BGReplacement",
+        "image_id": "11",
+        "image_name": "0011.jpg",
+        "metadata": {
+            "image": "0011.jpg",
+            "ori_exp": "Change the background of this photo to snow",
+            "Evaluation": "Is the background of this image snow? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "Scenery",
+            "div_exp": "Customize the background of this image to show a snowy backdrop"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0011.jpg",
+            "hive": "hive_0011.jpg",
+            "hqedit": "hqedit_0011.jpg",
+            "iedit": "iedit_0011.jpg",
+            "instruct-diffusion": "instruct-diffusion_0011.jpg",
+            "instructpix2pix": "instructpix2pix_0011.jpg",
+            "magicbrush": "magicbrush_0011.jpg",
+            "mgie": "mgie_0011.jpg"
+        }
+    },
+    "3": {
+        "category": "BGReplacement",
+        "image_id": "54",
+        "image_name": "0054.jpg",
+        "metadata": {
+            "image": "0054.jpg",
+            "ori_exp": "Change the background of this photo to beach",
+            "Evaluation": "Is the background of this image glacier? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Scenery",
+            "div_exp": "Change the scenery in this photo to evoke a beach environment"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0054.jpg",
+            "hive": "hive_0054.jpg",
+            "hqedit": "hqedit_0054.jpg",
+            "iedit": "iedit_0054.jpg",
+            "instruct-diffusion": "instruct-diffusion_0054.jpg",
+            "instructpix2pix": "instructpix2pix_0054.jpg",
+            "magicbrush": "magicbrush_0054.jpg",
+            "mgie": "mgie_0054.jpg"
+        }
+    },
+    "4": {
+        "category": "BGReplacement",
+        "image_id": "8",
+        "image_name": "0008.jpg",
+        "metadata": {
+            "image": "0008.jpg",
+            "ori_exp": "Change the background of this photo to snow",
+            "Evaluation": "Is the background of this image desert? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Scenery",
+            "div_exp": "Refashion the backdrop of this image to convey a snowy setting"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0008.jpg",
+            "hive": "hive_0008.jpg",
+            "hqedit": "hqedit_0008.jpg",
+            "iedit": "iedit_0008.jpg",
+            "instruct-diffusion": "instruct-diffusion_0008.jpg",
+            "instructpix2pix": "instructpix2pix_0008.jpg",
+            "magicbrush": "magicbrush_0008.jpg",
+            "mgie": "mgie_0008.jpg"
+        }
+    },
+    "5": {
+        "category": "BGReplacement",
+        "image_id": "101",
+        "image_name": "0102.jpg",
+        "metadata": {
+            "image": "0102.jpg",
+            "ori_exp": "Change the background of this photo to meadow",
+            "Evaluation": "Is the background of this image jungle? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Scenery",
+            "div_exp": "Adapt the environment in this picture to convey a meadow scene"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0102.jpg",
+            "hive": "hive_0102.jpg",
+            "hqedit": "hqedit_0102.jpg",
+            "iedit": "iedit_0102.jpg",
+            "instruct-diffusion": "instruct-diffusion_0102.jpg",
+            "instructpix2pix": "instructpix2pix_0102.jpg",
+            "magicbrush": "magicbrush_0102.jpg",
+            "mgie": "mgie_0102.jpg"
+        }
+    },
+    "6": {
+        "category": "BGReplacement",
+        "image_id": "74",
+        "image_name": "0074.jpg",
+        "metadata": {
+            "image": "0074.jpg",
+            "ori_exp": "Change the background of this photo to jungle",
+            "Evaluation": "Is the background of this image beach? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Scenery",
+            "div_exp": "Rearrange the elements in this image to portray a jungle backdrop"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0074.jpg",
+            "hive": "hive_0074.jpg",
+            "hqedit": "hqedit_0074.jpg",
+            "iedit": "iedit_0074.jpg",
+            "instruct-diffusion": "instruct-diffusion_0074.jpg",
+            "instructpix2pix": "instructpix2pix_0074.jpg",
+            "magicbrush": "magicbrush_0074.jpg",
+            "mgie": "mgie_0074.jpg"
+        }
+    },
+    "7": {
+        "category": "BGReplacement",
+        "image_id": "64",
+        "image_name": "0064.jpg",
+        "metadata": {
+            "image": "0064.jpg",
+            "ori_exp": "Change the background of this photo to beach",
+            "Evaluation": "Is the background of this image glacier? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Scenery",
+            "div_exp": "Refashion the background of this photo to showcase a beach landscape"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0064.jpg",
+            "hive": "hive_0064.jpg",
+            "hqedit": "hqedit_0064.jpg",
+            "iedit": "iedit_0064.jpg",
+            "instruct-diffusion": "instruct-diffusion_0064.jpg",
+            "instructpix2pix": "instructpix2pix_0064.jpg",
+            "magicbrush": "magicbrush_0064.jpg",
+            "mgie": "mgie_0064.jpg"
+        }
+    },
+    "8": {
+        "category": "BGReplacement",
+        "image_id": "55",
+        "image_name": "0055.jpg",
+        "metadata": {
+            "image": "0055.jpg",
+            "ori_exp": "Change the background of this photo to beach",
+            "Evaluation": "Is the background of this image beach? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "Scenery",
+            "div_exp": "Alter the background of this image to illustrate a beach vista"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0055.jpg",
+            "hive": "hive_0055.jpg",
+            "hqedit": "hqedit_0055.jpg",
+            "iedit": "iedit_0055.jpg",
+            "instruct-diffusion": "instruct-diffusion_0055.jpg",
+            "instructpix2pix": "instructpix2pix_0055.jpg",
+            "magicbrush": "magicbrush_0055.jpg",
+            "mgie": "mgie_0055.jpg"
+        }
+    },
+    "9": {
+        "category": "BGReplacement",
+        "image_id": "1",
+        "image_name": "0001.jpg",
+        "metadata": {
+            "image": "0001.jpg",
+            "ori_exp": "Change the background of this photo to snow",
+            "Evaluation": "Is the background of this image snow? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "Scenery",
+            "div_exp": "Transform this image into a snowy scene"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0001.jpg",
+            "hive": "hive_0001.jpg",
+            "hqedit": "hqedit_0001.jpg",
+            "iedit": "iedit_0001.jpg",
+            "instruct-diffusion": "instruct-diffusion_0001.jpg",
+            "instructpix2pix": "instructpix2pix_0001.jpg",
+            "magicbrush": "magicbrush_0001.jpg",
+            "mgie": "mgie_0001.jpg"
+        }
+    },
+    "10": {
+        "category": "BGReplacement",
+        "image_id": "6",
+        "image_name": "0006.jpg",
+        "metadata": {
+            "image": "0006.jpg",
+            "ori_exp": "Change the background of this photo to snow",
+            "Evaluation": "Is the background of this image desert? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Scenery",
+            "div_exp": "Adapt the surroundings of this picture to illustrate a snowy ambiance"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0006.jpg",
+            "hive": "hive_0006.jpg",
+            "hqedit": "hqedit_0006.jpg",
+            "iedit": "iedit_0006.jpg",
+            "instruct-diffusion": "instruct-diffusion_0006.jpg",
+            "instructpix2pix": "instructpix2pix_0006.jpg",
+            "magicbrush": "magicbrush_0006.jpg",
+            "mgie": "mgie_0006.jpg"
+        }
+    },
+    "11": {
+        "category": "ColorAlteration",
+        "image_id": "123",
+        "image_name": "0124.jpg",
+        "metadata": {
+            "image": "0124.jpg",
+            "ori_exp": "Change the color of the woman's scarf to green",
+            "div_exp": "The woman's scarf should be green",
+            "Evaluation": "What color is the woman's scarf",
+            "Answer": "green",
+            "type": "human"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0124.jpg",
+            "hive": "hive_0124.jpg",
+            "hqedit": "hqedit_0124.jpg",
+            "iedit": "iedit_0124.jpg",
+            "instruct-diffusion": "instruct-diffusion_0124.jpg",
+            "instructpix2pix": "instructpix2pix_0124.jpg",
+            "magicbrush": "magicbrush_0124.jpg",
+            "mgie": "mgie_0124.jpg"
+        }
+    },
+    "12": {
+        "category": "ColorAlteration",
+        "image_id": "3",
+        "image_name": "0002.jpg",
+        "metadata": {
+            "image": "0002.jpg",
+            "ori_exp": "Change the color of the sky to black",
+            "div_exp": "Render the sky in a black hue",
+            "Evaluation": "What color is the sky",
+            "Answer": "black",
+            "type": "scenery"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0002.jpg",
+            "hive": "hive_0002.jpg",
+            "hqedit": "hqedit_0002.jpg",
+            "iedit": "iedit_0002.jpg",
+            "instruct-diffusion": "instruct-diffusion_0002.jpg",
+            "instructpix2pix": "instructpix2pix_0002.jpg",
+            "magicbrush": "magicbrush_0002.jpg",
+            "mgie": "mgie_0002.jpg"
+        }
+    },
+    "13": {
+        "category": "ColorAlteration",
+        "image_id": "31",
+        "image_name": "0030.jpg",
+        "metadata": {
+            "image": "0030.jpg",
+            "ori_exp": "Change the color of the cattle to black",
+            "div_exp": "The cattle's color ought to be black",
+            "Evaluation": "What color is the cattle",
+            "Answer": "black",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0030.jpg",
+            "hive": "hive_0030.jpg",
+            "hqedit": "hqedit_0030.jpg",
+            "iedit": "iedit_0030.jpg",
+            "instruct-diffusion": "instruct-diffusion_0030.jpg",
+            "instructpix2pix": "instructpix2pix_0030.jpg",
+            "magicbrush": "magicbrush_0030.jpg",
+            "mgie": "mgie_0030.jpg"
+        }
+    },
+    "14": {
+        "category": "ColorAlteration",
+        "image_id": "74",
+        "image_name": "0073.jpg",
+        "metadata": {
+            "image": "0073.jpg",
+            "ori_exp": "Change the color of the vegetable to blue",
+            "div_exp": "Dye the vegetable blue",
+            "Evaluation": "What color is the vegetable",
+            "Answer": "blue",
+            "type": "plant"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0073.jpg",
+            "hive": "hive_0073.jpg",
+            "hqedit": "hqedit_0073.jpg",
+            "iedit": "iedit_0073.jpg",
+            "instruct-diffusion": "instruct-diffusion_0073.jpg",
+            "instructpix2pix": "instructpix2pix_0073.jpg",
+            "magicbrush": "magicbrush_0073.jpg",
+            "mgie": "mgie_0073.jpg"
+        }
+    },
+    "15": {
+        "category": "ColorAlteration",
+        "image_id": "101",
+        "image_name": "0101.jpg",
+        "metadata": {
+            "image": "0101.jpg",
+            "ori_exp": "Change the color of the vegetable to orange",
+            "div_exp": "The vegetable should turn orange",
+            "Evaluation": "What color is the vegetable",
+            "Answer": "orange",
+            "type": "plant"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0101.jpg",
+            "hive": "hive_0101.jpg",
+            "hqedit": "hqedit_0101.jpg",
+            "iedit": "iedit_0101.jpg",
+            "instruct-diffusion": "instruct-diffusion_0101.jpg",
+            "instructpix2pix": "instructpix2pix_0101.jpg",
+            "magicbrush": "magicbrush_0101.jpg",
+            "mgie": "mgie_0101.jpg"
+        }
+    },
+    "16": {
+        "category": "ColorAlteration",
+        "image_id": "96",
+        "image_name": "0096.jpg",
+        "metadata": {
+            "image": "0096.jpg",
+            "ori_exp": "Change the color of the carrot to blue",
+            "div_exp": "The carrot should be dyed blue",
+            "Evaluation": "What color is the carrot",
+            "Answer": "blue",
+            "type": "plant"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0096.jpg",
+            "hive": "hive_0096.jpg",
+            "hqedit": "hqedit_0096.jpg",
+            "iedit": "iedit_0096.jpg",
+            "instruct-diffusion": "instruct-diffusion_0096.jpg",
+            "instructpix2pix": "instructpix2pix_0096.jpg",
+            "magicbrush": "magicbrush_0096.jpg",
+            "mgie": "mgie_0096.jpg"
+        }
+    },
+    "17": {
+        "category": "ColorAlteration",
+        "image_id": "67",
+        "image_name": "0066.jpg",
+        "metadata": {
+            "image": "0066.jpg",
+            "ori_exp": "Change the color of the sky to blue",
+            "div_exp": "Color the sky blue",
+            "Evaluation": "What color is the sky",
+            "Answer": "blue",
+            "type": "scenery"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0066.jpg",
+            "hive": "hive_0066.jpg",
+            "hqedit": "hqedit_0066.jpg",
+            "iedit": "iedit_0066.jpg",
+            "instruct-diffusion": "instruct-diffusion_0066.jpg",
+            "instructpix2pix": "instructpix2pix_0066.jpg",
+            "magicbrush": "magicbrush_0066.jpg",
+            "mgie": "mgie_0066.jpg"
+        }
+    },
+    "18": {
+        "category": "ColorAlteration",
+        "image_id": "39",
+        "image_name": "0038.jpg",
+        "metadata": {
+            "image": "0038.jpg",
+            "ori_exp": "Change the color of the broccoli to blue",
+            "div_exp": "Change the broccoli's color to blue",
+            "Evaluation": "What color is the broccoli",
+            "Answer": "blue",
+            "type": "plant"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0038.jpg",
+            "hive": "hive_0038.jpg",
+            "hqedit": "hqedit_0038.jpg",
+            "iedit": "iedit_0038.jpg",
+            "instruct-diffusion": "instruct-diffusion_0038.jpg",
+            "instructpix2pix": "instructpix2pix_0038.jpg",
+            "magicbrush": "magicbrush_0038.jpg",
+            "mgie": "mgie_0038.jpg"
+        }
+    },
+    "19": {
+        "category": "ColorAlteration",
+        "image_id": "51",
+        "image_name": "0050.jpg",
+        "metadata": {
+            "image": "0050.jpg",
+            "ori_exp": "Change the color of the dog to white",
+            "div_exp": "The dog's color shall turn white",
+            "Evaluation": "What color is the dog",
+            "Answer": "white",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0050.jpg",
+            "hive": "hive_0050.jpg",
+            "hqedit": "hqedit_0050.jpg",
+            "iedit": "iedit_0050.jpg",
+            "instruct-diffusion": "instruct-diffusion_0050.jpg",
+            "instructpix2pix": "instructpix2pix_0050.jpg",
+            "magicbrush": "magicbrush_0050.jpg",
+            "mgie": "mgie_0050.jpg"
+        }
+    },
+    "20": {
+        "category": "ColorAlteration",
+        "image_id": "83",
+        "image_name": "0082.jpg",
+        "metadata": {
+            "image": "0082.jpg",
+            "ori_exp": "Change the color of the lake surface to blue",
+            "div_exp": "The lake surface should turn blue",
+            "Evaluation": "What color is the lake surface",
+            "Answer": "blue",
+            "type": "scenery"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0082.jpg",
+            "hive": "hive_0082.jpg",
+            "hqedit": "hqedit_0082.jpg",
+            "iedit": "iedit_0082.jpg",
+            "instruct-diffusion": "instruct-diffusion_0082.jpg",
+            "instructpix2pix": "instructpix2pix_0082.jpg",
+            "magicbrush": "magicbrush_0082.jpg",
+            "mgie": "mgie_0082.jpg"
+        }
+    },
+    "21": {
+        "category": "Counting",
+        "image_id": "28",
+        "image_name": "COCO_val2014_000000003067.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000003067.jpg",
+            "ori_exp": "Add a cat to the image",
+            "div_exp": "Introduce a cat into the image's composition",
+            "Evaluation": "How many cats are on the image?",
+            "Answer": "Two",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000003067.jpg",
+            "hive": "hive_COCO_val2014_000000003067.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000003067.jpg",
+            "iedit": "iedit_COCO_val2014_000000003067.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000003067.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000003067.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000003067.jpg",
+            "mgie": "mgie_COCO_val2014_000000003067.jpg"
+        }
+    },
+    "22": {
+        "category": "Counting",
+        "image_id": "1",
+        "image_name": "COCO_val2014_000000000042.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000000042.jpg",
+            "ori_exp": "Add a cat to the shoe rack",
+            "div_exp": "Place a cat companion amidst the shoe collection",
+            "Evaluation": "How many cats are there on the shoe rack?",
+            "Answer": "One",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000000042.jpg",
+            "hive": "hive_COCO_val2014_000000000042.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000000042.jpg",
+            "iedit": "iedit_COCO_val2014_000000000042.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000000042.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000000042.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000000042.jpg",
+            "mgie": "mgie_COCO_val2014_000000000042.jpg"
+        }
+    },
+    "23": {
+        "category": "Counting",
+        "image_id": "108",
+        "image_name": "COCO_val2014_000000017379.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000017379.jpg",
+            "ori_exp": "Add three cherries to the image",
+            "div_exp": "Embed three cherries into the image",
+            "Evaluation": "How many cherries are on the image?",
+            "Answer": "Three",
+            "type": "plant"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000017379.jpg",
+            "hive": "hive_COCO_val2014_000000017379.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000017379.jpg",
+            "iedit": "iedit_COCO_val2014_000000017379.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000017379.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000017379.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000017379.jpg",
+            "mgie": "mgie_COCO_val2014_000000017379.jpg"
+        }
+    },
+    "24": {
+        "category": "Counting",
+        "image_id": "105",
+        "image_name": "COCO_val2014_000000016439.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000016439.jpg",
+            "ori_exp": "Add six strawberrys to the image",
+            "div_exp": "Arrange six strawberries in the image",
+            "Evaluation": "How many strawberrys are on the image?",
+            "Answer": "Six",
+            "type": "plant"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000016439.jpg",
+            "hive": "hive_COCO_val2014_000000016439.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000016439.jpg",
+            "iedit": "iedit_COCO_val2014_000000016439.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000016439.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000016439.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000016439.jpg",
+            "mgie": "mgie_COCO_val2014_000000016439.jpg"
+        }
+    },
+    "25": {
+        "category": "Counting",
+        "image_id": "72",
+        "image_name": "COCO_val2014_000000008721.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000008721.jpg",
+            "ori_exp": "Add a mouse to the desk",
+            "div_exp": "Place a mouse on the desk",
+            "Evaluation": "How many mouses are on the image?",
+            "Answer": "Two",
+            "type": "object"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000008721.jpg",
+            "hive": "hive_COCO_val2014_000000008721.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000008721.jpg",
+            "iedit": "iedit_COCO_val2014_000000008721.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000008721.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000008721.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000008721.jpg",
+            "mgie": "mgie_COCO_val2014_000000008721.jpg"
+        }
+    },
+    "26": {
+        "category": "Counting",
+        "image_id": "55",
+        "image_name": "COCO_val2014_000000005314.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000005314.jpg",
+            "ori_exp": "Add three boys to the image",
+            "div_exp": "Arrange the image with three boys",
+            "Evaluation": "How many people are on the image?",
+            "Answer": "Three",
+            "type": "human"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000005314.jpg",
+            "hive": "hive_COCO_val2014_000000005314.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000005314.jpg",
+            "iedit": "iedit_COCO_val2014_000000005314.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000005314.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000005314.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000005314.jpg",
+            "mgie": "mgie_COCO_val2014_000000005314.jpg"
+        }
+    },
+    "27": {
+        "category": "Counting",
+        "image_id": "95",
+        "image_name": "COCO_val2014_000000013597.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000013597.jpg",
+            "ori_exp": "Add a fork to the image",
+            "div_exp": "Place a fork in the image",
+            "Evaluation": "How many forks are on the image?",
+            "Answer": "One",
+            "type": "object"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000013597.jpg",
+            "hive": "hive_COCO_val2014_000000013597.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000013597.jpg",
+            "iedit": "iedit_COCO_val2014_000000013597.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000013597.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000013597.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000013597.jpg",
+            "mgie": "mgie_COCO_val2014_000000013597.jpg"
+        }
+    },
+    "28": {
+        "category": "Counting",
+        "image_id": "12",
+        "image_name": "COCO_val2014_000000001374.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000001374.jpg",
+            "ori_exp": "Add three birds to the image",
+            "div_exp": "Adorn the scene with three birds",
+            "Evaluation": "How many birds are on the image?",
+            "Answer": "Three",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000001374.jpg",
+            "hive": "hive_COCO_val2014_000000001374.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000001374.jpg",
+            "iedit": "iedit_COCO_val2014_000000001374.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000001374.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000001374.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000001374.jpg",
+            "mgie": "mgie_COCO_val2014_000000001374.jpg"
+        }
+    },
+    "29": {
+        "category": "Counting",
+        "image_id": "103",
+        "image_name": "COCO_val2014_000000015614.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000015614.jpg",
+            "ori_exp": "Add a pine tree to the image",
+            "div_exp": "Include a pine tree in the image",
+            "Evaluation": "How many pine trees are on the image?",
+            "Answer": "One",
+            "type": "plant"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000015614.jpg",
+            "hive": "hive_COCO_val2014_000000015614.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000015614.jpg",
+            "iedit": "iedit_COCO_val2014_000000015614.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000015614.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000015614.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000015614.jpg",
+            "mgie": "mgie_COCO_val2014_000000015614.jpg"
+        }
+    },
+    "30": {
+        "category": "Counting",
+        "image_id": "30",
+        "image_name": "COCO_val2014_000000012927.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000012927.jpg",
+            "ori_exp": "Add a bird to the image",
+            "div_exp": "Bring a bird into the image to add some liveliness",
+            "Evaluation": "How many birds are on the image?",
+            "Answer": "One",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000012927.jpg",
+            "hive": "hive_COCO_val2014_000000012927.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000012927.jpg",
+            "iedit": "iedit_COCO_val2014_000000012927.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000012927.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000012927.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000012927.jpg",
+            "mgie": "mgie_COCO_val2014_000000012927.jpg"
+        }
+    },
+    "31": {
+        "category": "Deblurring",
+        "image_id": "60",
+        "image_name": "0060.png",
+        "metadata": {
+            "image": "0060.png",
+            "ori_exp": "Remove the blurriness from the image.",
+            "div_exp": "Make the image more distinct by removing blur.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0060.png",
+            "hive": "hive_0060.png",
+            "hqedit": "hqedit_0060.png",
+            "iedit": "iedit_0060.png",
+            "instruct-diffusion": "instruct-diffusion_0060.png",
+            "instructpix2pix": "instructpix2pix_0060.png",
+            "magicbrush": "magicbrush_0060.png",
+            "mgie": "mgie_0060.png"
+        }
+    },
+    "32": {
+        "category": "Deblurring",
+        "image_id": "34",
+        "image_name": "0034.png",
+        "metadata": {
+            "image": "0034.png",
+            "ori_exp": "Remove the blurriness from the image.",
+            "div_exp": "Cleanse the image of any blurring effects.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0034.png",
+            "hive": "hive_0034.png",
+            "hqedit": "hqedit_0034.png",
+            "iedit": "iedit_0034.png",
+            "instruct-diffusion": "instruct-diffusion_0034.png",
+            "instructpix2pix": "instructpix2pix_0034.png",
+            "magicbrush": "magicbrush_0034.png",
+            "mgie": "mgie_0034.png"
+        }
+    },
+    "33": {
+        "category": "Deblurring",
+        "image_id": "128",
+        "image_name": "0128.png",
+        "metadata": {
+            "image": "0128.png",
+            "ori_exp": "Remove the blurriness from the image.",
+            "div_exp": "Correct any blurriness to bring out clear details.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0128.png",
+            "hive": "hive_0128.png",
+            "hqedit": "hqedit_0128.png",
+            "iedit": "iedit_0128.png",
+            "instruct-diffusion": "instruct-diffusion_0128.png",
+            "instructpix2pix": "instructpix2pix_0128.png",
+            "magicbrush": "magicbrush_0128.png",
+            "mgie": "mgie_0128.png"
+        }
+    },
+    "34": {
+        "category": "Deblurring",
+        "image_id": "131",
+        "image_name": "0131.png",
+        "metadata": {
+            "image": "0131.png",
+            "ori_exp": "Remove the blurriness from the image.",
+            "div_exp": "Clean up the image to reveal sharper details.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0131.png",
+            "hive": "hive_0131.png",
+            "hqedit": "hqedit_0131.png",
+            "iedit": "iedit_0131.png",
+            "instruct-diffusion": "instruct-diffusion_0131.png",
+            "instructpix2pix": "instructpix2pix_0131.png",
+            "magicbrush": "magicbrush_0131.png",
+            "mgie": "mgie_0131.png"
+        }
+    },
+    "35": {
+        "category": "Deblurring",
+        "image_id": "140",
+        "image_name": "0140.png",
+        "metadata": {
+            "image": "0140.png",
+            "ori_exp": "Remove the blurriness from the image.",
+            "div_exp": "Improve the sharpness and focus of the photograph.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0140.png",
+            "hive": "hive_0140.png",
+            "hqedit": "hqedit_0140.png",
+            "iedit": "iedit_0140.png",
+            "instruct-diffusion": "instruct-diffusion_0140.png",
+            "instructpix2pix": "instructpix2pix_0140.png",
+            "magicbrush": "magicbrush_0140.png",
+            "mgie": "mgie_0140.png"
+        }
+    },
+    "36": {
+        "category": "Deblurring",
+        "image_id": "59",
+        "image_name": "0059.png",
+        "metadata": {
+            "image": "0059.png",
+            "ori_exp": "Remove the blurriness from the image.",
+            "div_exp": "Improve the image's resolution by removing blur.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0059.png",
+            "hive": "hive_0059.png",
+            "hqedit": "hqedit_0059.png",
+            "iedit": "iedit_0059.png",
+            "instruct-diffusion": "instruct-diffusion_0059.png",
+            "instructpix2pix": "instructpix2pix_0059.png",
+            "magicbrush": "magicbrush_0059.png",
+            "mgie": "mgie_0059.png"
+        }
+    },
+    "37": {
+        "category": "Deblurring",
+        "image_id": "76",
+        "image_name": "0076.png",
+        "metadata": {
+            "image": "0076.png",
+            "ori_exp": "Remove the blurriness from the image.",
+            "div_exp": "Remove the foggy appearance from the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0076.png",
+            "hive": "hive_0076.png",
+            "hqedit": "hqedit_0076.png",
+            "iedit": "iedit_0076.png",
+            "instruct-diffusion": "instruct-diffusion_0076.png",
+            "instructpix2pix": "instructpix2pix_0076.png",
+            "magicbrush": "magicbrush_0076.png",
+            "mgie": "mgie_0076.png"
+        }
+    },
+    "38": {
+        "category": "Deblurring",
+        "image_id": "139",
+        "image_name": "0139.png",
+        "metadata": {
+            "image": "0139.png",
+            "ori_exp": "Remove the blurriness from the image.",
+            "div_exp": "Upgrade the image clarity for a better visual experience.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0139.png",
+            "hive": "hive_0139.png",
+            "hqedit": "hqedit_0139.png",
+            "iedit": "iedit_0139.png",
+            "instruct-diffusion": "instruct-diffusion_0139.png",
+            "instructpix2pix": "instructpix2pix_0139.png",
+            "magicbrush": "magicbrush_0139.png",
+            "mgie": "mgie_0139.png"
+        }
+    },
+    "39": {
+        "category": "Deblurring",
+        "image_id": "114",
+        "image_name": "0114.png",
+        "metadata": {
+            "image": "0114.png",
+            "ori_exp": "Remove the blurriness from the image.",
+            "div_exp": "Remove the softness and bring out sharper details.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0114.png",
+            "hive": "hive_0114.png",
+            "hqedit": "hqedit_0114.png",
+            "iedit": "iedit_0114.png",
+            "instruct-diffusion": "instruct-diffusion_0114.png",
+            "instructpix2pix": "instructpix2pix_0114.png",
+            "magicbrush": "magicbrush_0114.png",
+            "mgie": "mgie_0114.png"
+        }
+    },
+    "40": {
+        "category": "Deblurring",
+        "image_id": "22",
+        "image_name": "0022.png",
+        "metadata": {
+            "image": "0022.png",
+            "ori_exp": "Remove the blurriness from the image.",
+            "div_exp": "Fix the blurriness in the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0022.png",
+            "hive": "hive_0022.png",
+            "hqedit": "hqedit_0022.png",
+            "iedit": "iedit_0022.png",
+            "instruct-diffusion": "instruct-diffusion_0022.png",
+            "instructpix2pix": "instructpix2pix_0022.png",
+            "magicbrush": "magicbrush_0022.png",
+            "mgie": "mgie_0022.png"
+        }
+    },
+    "41": {
+        "category": "DirectionPerception",
+        "image_id": "93",
+        "image_name": "0097.jpg",
+        "metadata": {
+            "image": "0097.jpg",
+            "ori_exp": "Add an orange to the left of the cake",
+            "Evaluation": "Is the orange on the right of the cake? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Plant",
+            "div_exp": "Introduce a vibrant orange to the left of the cake"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0097.jpg",
+            "hive": "hive_0097.jpg",
+            "hqedit": "hqedit_0097.jpg",
+            "iedit": "iedit_0097.jpg",
+            "instruct-diffusion": "instruct-diffusion_0097.jpg",
+            "instructpix2pix": "instructpix2pix_0097.jpg",
+            "magicbrush": "magicbrush_0097.jpg",
+            "mgie": "mgie_0097.jpg"
+        }
+    },
+    "42": {
+        "category": "DirectionPerception",
+        "image_id": "132",
+        "image_name": "0136.jpg",
+        "metadata": {
+            "image": "0136.jpg",
+            "ori_exp": "Add a rocket to the right of the airplanes",
+            "Evaluation": "Is the rocket on the right of the airplanes? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "Object",
+            "div_exp": "A rocket has been added to the right of the airplanes"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0136.jpg",
+            "hive": "hive_0136.jpg",
+            "hqedit": "hqedit_0136.jpg",
+            "iedit": "iedit_0136.jpg",
+            "instruct-diffusion": "instruct-diffusion_0136.jpg",
+            "instructpix2pix": "instructpix2pix_0136.jpg",
+            "magicbrush": "magicbrush_0136.jpg",
+            "mgie": "mgie_0136.jpg"
+        }
+    },
+    "43": {
+        "category": "DirectionPerception",
+        "image_id": "42",
+        "image_name": "0043.jpg",
+        "metadata": {
+            "image": "0043.jpg",
+            "ori_exp": "Add a girl to the left of the boy",
+            "Evaluation": "Is the girl on the right of the boy? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Human",
+            "div_exp": "Introduce a girl to the left of the boy"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0043.jpg",
+            "hive": "hive_0043.jpg",
+            "hqedit": "hqedit_0043.jpg",
+            "iedit": "iedit_0043.jpg",
+            "instruct-diffusion": "instruct-diffusion_0043.jpg",
+            "instructpix2pix": "instructpix2pix_0043.jpg",
+            "magicbrush": "magicbrush_0043.jpg",
+            "mgie": "mgie_0043.jpg"
+        }
+    },
+    "44": {
+        "category": "DirectionPerception",
+        "image_id": "60",
+        "image_name": "0062.jpg",
+        "metadata": {
+            "image": "0062.jpg",
+            "ori_exp": "Add a flower on the floor",
+            "Evaluation": "Is the flower on the top of the table? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Plant",
+            "div_exp": "Add a vibrant flower onto the floor"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0062.jpg",
+            "hive": "hive_0062.jpg",
+            "hqedit": "hqedit_0062.jpg",
+            "iedit": "iedit_0062.jpg",
+            "instruct-diffusion": "instruct-diffusion_0062.jpg",
+            "instructpix2pix": "instructpix2pix_0062.jpg",
+            "magicbrush": "magicbrush_0062.jpg",
+            "mgie": "mgie_0062.jpg"
+        }
+    },
+    "45": {
+        "category": "DirectionPerception",
+        "image_id": "1",
+        "image_name": "0001.jpg",
+        "metadata": {
+            "image": "0001.jpg",
+            "ori_exp": "Add a cat to the bottom of the skateboard",
+            "Evaluation": "Is the cat at the bottom of the skateboard? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "Animal",
+            "div_exp": "Place a cat beneath the skateboard"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0001.jpg",
+            "hive": "hive_0001.jpg",
+            "hqedit": "hqedit_0001.jpg",
+            "iedit": "iedit_0001.jpg",
+            "instruct-diffusion": "instruct-diffusion_0001.jpg",
+            "instructpix2pix": "instructpix2pix_0001.jpg",
+            "magicbrush": "magicbrush_0001.jpg",
+            "mgie": "mgie_0001.jpg"
+        }
+    },
+    "46": {
+        "category": "DirectionPerception",
+        "image_id": "112",
+        "image_name": "0116.jpg",
+        "metadata": {
+            "image": "0116.jpg",
+            "ori_exp": "Add a banana to the top of the umbrella",
+            "Evaluation": "Is the banana on the top of the umbrella? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "Plant",
+            "div_exp": "Put a banana on top of the umbrella"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0116.jpg",
+            "hive": "hive_0116.jpg",
+            "hqedit": "hqedit_0116.jpg",
+            "iedit": "iedit_0116.jpg",
+            "instruct-diffusion": "instruct-diffusion_0116.jpg",
+            "instructpix2pix": "instructpix2pix_0116.jpg",
+            "magicbrush": "magicbrush_0116.jpg",
+            "mgie": "mgie_0116.jpg"
+        }
+    },
+    "47": {
+        "category": "DirectionPerception",
+        "image_id": "64",
+        "image_name": "0066.jpg",
+        "metadata": {
+            "image": "0066.jpg",
+            "ori_exp": "Add a rose to the left of the dog",
+            "Evaluation": "Is the rose on the right of the dog? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Plant",
+            "div_exp": "Set a delicate rose on the left side of the dog"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0066.jpg",
+            "hive": "hive_0066.jpg",
+            "hqedit": "hqedit_0066.jpg",
+            "iedit": "iedit_0066.jpg",
+            "instruct-diffusion": "instruct-diffusion_0066.jpg",
+            "instructpix2pix": "instructpix2pix_0066.jpg",
+            "magicbrush": "magicbrush_0066.jpg",
+            "mgie": "mgie_0066.jpg"
+        }
+    },
+    "48": {
+        "category": "DirectionPerception",
+        "image_id": "134",
+        "image_name": "0138.jpg",
+        "metadata": {
+            "image": "0138.jpg",
+            "ori_exp": "Add a plate to the left of the cake",
+            "Evaluation": "Is the plate on the left of the cake? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "Object",
+            "div_exp": "Introduce a plate to the left of the cake"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0138.jpg",
+            "hive": "hive_0138.jpg",
+            "hqedit": "hqedit_0138.jpg",
+            "iedit": "iedit_0138.jpg",
+            "instruct-diffusion": "instruct-diffusion_0138.jpg",
+            "instructpix2pix": "instructpix2pix_0138.jpg",
+            "magicbrush": "magicbrush_0138.jpg",
+            "mgie": "mgie_0138.jpg"
+        }
+    },
+    "49": {
+        "category": "DirectionPerception",
+        "image_id": "27",
+        "image_name": "0028.jpg",
+        "metadata": {
+            "image": "0028.jpg",
+            "ori_exp": "Add a cat to the top of the tower",
+            "Evaluation": "Is the cat on the left of the tower? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Animal",
+            "div_exp": "Atop the tower, place a cat"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0028.jpg",
+            "hive": "hive_0028.jpg",
+            "hqedit": "hqedit_0028.jpg",
+            "iedit": "iedit_0028.jpg",
+            "instruct-diffusion": "instruct-diffusion_0028.jpg",
+            "instructpix2pix": "instructpix2pix_0028.jpg",
+            "magicbrush": "magicbrush_0028.jpg",
+            "mgie": "mgie_0028.jpg"
+        }
+    },
+    "50": {
+        "category": "DirectionPerception",
+        "image_id": "118",
+        "image_name": "0122.jpg",
+        "metadata": {
+            "image": "0122.jpg",
+            "ori_exp": "Add a bird to the top of the traffic light",
+            "Evaluation": "Is the bird at the bottom of the traffic light? Answer Yes or No.",
+            "Answer": "No",
+            "type": "Animal",
+            "div_exp": "Place a bird to the top of the traffic light"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0122.jpg",
+            "hive": "hive_0122.jpg",
+            "hqedit": "hqedit_0122.jpg",
+            "iedit": "iedit_0122.jpg",
+            "instruct-diffusion": "instruct-diffusion_0122.jpg",
+            "instructpix2pix": "instructpix2pix_0122.jpg",
+            "magicbrush": "magicbrush_0122.jpg",
+            "mgie": "mgie_0122.jpg"
+        }
+    },
+    "51": {
+        "category": "HazeRemoval",
+        "image_id": "109",
+        "image_name": "0109.png",
+        "metadata": {
+            "image": "0109.png",
+            "ori_exp": "Remove the haze from the image.",
+            "div_exp": "Unveil hidden elements by dehazing.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0109.png",
+            "hive": "hive_0109.png",
+            "hqedit": "hqedit_0109.png",
+            "iedit": "iedit_0109.png",
+            "instruct-diffusion": "instruct-diffusion_0109.png",
+            "instructpix2pix": "instructpix2pix_0109.png",
+            "magicbrush": "magicbrush_0109.png",
+            "mgie": "mgie_0109.png"
+        }
+    },
+    "52": {
+        "category": "HazeRemoval",
+        "image_id": "149",
+        "image_name": "0149.png",
+        "metadata": {
+            "image": "0149.png",
+            "ori_exp": "Remove the haze from the image.",
+            "div_exp": "Dehaze to reveal hidden details.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0149.png",
+            "hive": "hive_0149.png",
+            "hqedit": "hqedit_0149.png",
+            "iedit": "iedit_0149.png",
+            "instruct-diffusion": "instruct-diffusion_0149.png",
+            "instructpix2pix": "instructpix2pix_0149.png",
+            "magicbrush": "magicbrush_0149.png",
+            "mgie": "mgie_0149.png"
+        }
+    },
+    "53": {
+        "category": "HazeRemoval",
+        "image_id": "12",
+        "image_name": "0012.png",
+        "metadata": {
+            "image": "0012.png",
+            "ori_exp": "Remove the haze from the image.",
+            "div_exp": "Unveil the obscured details.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0012.png",
+            "hive": "hive_0012.png",
+            "hqedit": "hqedit_0012.png",
+            "iedit": "iedit_0012.png",
+            "instruct-diffusion": "instruct-diffusion_0012.png",
+            "instructpix2pix": "instructpix2pix_0012.png",
+            "magicbrush": "magicbrush_0012.png",
+            "mgie": "mgie_0012.png"
+        }
+    },
+    "54": {
+        "category": "HazeRemoval",
+        "image_id": "55",
+        "image_name": "0055.png",
+        "metadata": {
+            "image": "0055.png",
+            "ori_exp": "Remove the haze from the image.",
+            "div_exp": "Eradicate the hazy overlay.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0055.png",
+            "hive": "hive_0055.png",
+            "hqedit": "hqedit_0055.png",
+            "iedit": "iedit_0055.png",
+            "instruct-diffusion": "instruct-diffusion_0055.png",
+            "instructpix2pix": "instructpix2pix_0055.png",
+            "magicbrush": "magicbrush_0055.png",
+            "mgie": "mgie_0055.png"
+        }
+    },
+    "55": {
+        "category": "HazeRemoval",
+        "image_id": "136",
+        "image_name": "0136.png",
+        "metadata": {
+            "image": "0136.png",
+            "ori_exp": "Remove the haze from the image.",
+            "div_exp": "Unfog the obscured details.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0136.png",
+            "hive": "hive_0136.png",
+            "hqedit": "hqedit_0136.png",
+            "iedit": "iedit_0136.png",
+            "instruct-diffusion": "instruct-diffusion_0136.png",
+            "instructpix2pix": "instructpix2pix_0136.png",
+            "magicbrush": "magicbrush_0136.png",
+            "mgie": "mgie_0136.png"
+        }
+    },
+    "56": {
+        "category": "HazeRemoval",
+        "image_id": "68",
+        "image_name": "0068.png",
+        "metadata": {
+            "image": "0068.png",
+            "ori_exp": "Remove the haze from the image.",
+            "div_exp": "Dispel the atmospheric interference.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0068.png",
+            "hive": "hive_0068.png",
+            "hqedit": "hqedit_0068.png",
+            "iedit": "iedit_0068.png",
+            "instruct-diffusion": "instruct-diffusion_0068.png",
+            "instructpix2pix": "instructpix2pix_0068.png",
+            "magicbrush": "magicbrush_0068.png",
+            "mgie": "mgie_0068.png"
+        }
+    },
+    "57": {
+        "category": "HazeRemoval",
+        "image_id": "98",
+        "image_name": "0098.png",
+        "metadata": {
+            "image": "0098.png",
+            "ori_exp": "Remove the haze from the image.",
+            "div_exp": "Unveil hidden details by removing haze.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0098.png",
+            "hive": "hive_0098.png",
+            "hqedit": "hqedit_0098.png",
+            "iedit": "iedit_0098.png",
+            "instruct-diffusion": "instruct-diffusion_0098.png",
+            "instructpix2pix": "instructpix2pix_0098.png",
+            "magicbrush": "magicbrush_0098.png",
+            "mgie": "mgie_0098.png"
+        }
+    },
+    "58": {
+        "category": "HazeRemoval",
+        "image_id": "89",
+        "image_name": "0089.png",
+        "metadata": {
+            "image": "0089.png",
+            "ori_exp": "Remove the haze from the image.",
+            "div_exp": "Unblur the photo by removing haze.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0089.png",
+            "hive": "hive_0089.png",
+            "hqedit": "hqedit_0089.png",
+            "iedit": "iedit_0089.png",
+            "instruct-diffusion": "instruct-diffusion_0089.png",
+            "instructpix2pix": "instructpix2pix_0089.png",
+            "magicbrush": "magicbrush_0089.png",
+            "mgie": "mgie_0089.png"
+        }
+    },
+    "59": {
+        "category": "HazeRemoval",
+        "image_id": "78",
+        "image_name": "0078.png",
+        "metadata": {
+            "image": "0078.png",
+            "ori_exp": "Remove the haze from the image.",
+            "div_exp": "Unveil hidden elements by dehazing.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0078.png",
+            "hive": "hive_0078.png",
+            "hqedit": "hqedit_0078.png",
+            "iedit": "iedit_0078.png",
+            "instruct-diffusion": "instruct-diffusion_0078.png",
+            "instructpix2pix": "instructpix2pix_0078.png",
+            "magicbrush": "magicbrush_0078.png",
+            "mgie": "mgie_0078.png"
+        }
+    },
+    "60": {
+        "category": "HazeRemoval",
+        "image_id": "9",
+        "image_name": "0009.png",
+        "metadata": {
+            "image": "0009.png",
+            "ori_exp": "Remove the haze from the image.",
+            "div_exp": "Banish the haze from the photo.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0009.png",
+            "hive": "hive_0009.png",
+            "hqedit": "hqedit_0009.png",
+            "iedit": "iedit_0009.png",
+            "instruct-diffusion": "instruct-diffusion_0009.png",
+            "instructpix2pix": "instructpix2pix_0009.png",
+            "magicbrush": "magicbrush_0009.png",
+            "mgie": "mgie_0009.png"
+        }
+    },
+    "61": {
+        "category": "Lowlight",
+        "image_id": "45",
+        "image_name": "0044.png",
+        "metadata": {
+            "image": "0044.png",
+            "ori_exp": "Enhance the brightness of an image.",
+            "div_exp": "Perfecting the brightness",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0044.png",
+            "hive": "hive_0044.png",
+            "hqedit": "hqedit_0044.png",
+            "iedit": "iedit_0044.png",
+            "instruct-diffusion": "instruct-diffusion_0044.png",
+            "instructpix2pix": "instructpix2pix_0044.png",
+            "magicbrush": "magicbrush_0044.png",
+            "mgie": "mgie_0044.png"
+        }
+    },
+    "62": {
+        "category": "Lowlight",
+        "image_id": "109",
+        "image_name": "0108.png",
+        "metadata": {
+            "image": "0108.png",
+            "ori_exp": "Enhance the brightness of an image.",
+            "div_exp": "Augmenting the radiance",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0108.png",
+            "hive": "hive_0108.png",
+            "hqedit": "hqedit_0108.png",
+            "iedit": "iedit_0108.png",
+            "instruct-diffusion": "instruct-diffusion_0108.png",
+            "instructpix2pix": "instructpix2pix_0108.png",
+            "magicbrush": "magicbrush_0108.png",
+            "mgie": "mgie_0108.png"
+        }
+    },
+    "63": {
+        "category": "Lowlight",
+        "image_id": "71",
+        "image_name": "0070.png",
+        "metadata": {
+            "image": "0070.png",
+            "ori_exp": "Enhance the brightness of an image.",
+            "div_exp": "Polishing the radiance",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0070.png",
+            "hive": "hive_0070.png",
+            "hqedit": "hqedit_0070.png",
+            "iedit": "iedit_0070.png",
+            "instruct-diffusion": "instruct-diffusion_0070.png",
+            "instructpix2pix": "instructpix2pix_0070.png",
+            "magicbrush": "magicbrush_0070.png",
+            "mgie": "mgie_0070.png"
+        }
+    },
+    "64": {
+        "category": "Lowlight",
+        "image_id": "110",
+        "image_name": "0109.png",
+        "metadata": {
+            "image": "0109.png",
+            "ori_exp": "Enhance the brightness of an image.",
+            "div_exp": "Enhancing the brightness",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0109.png",
+            "hive": "hive_0109.png",
+            "hqedit": "hqedit_0109.png",
+            "iedit": "iedit_0109.png",
+            "instruct-diffusion": "instruct-diffusion_0109.png",
+            "instructpix2pix": "instructpix2pix_0109.png",
+            "magicbrush": "magicbrush_0109.png",
+            "mgie": "mgie_0109.png"
+        }
+    },
+    "65": {
+        "category": "Lowlight",
+        "image_id": "63",
+        "image_name": "0062.png",
+        "metadata": {
+            "image": "0062.png",
+            "ori_exp": "Enhance the brightness of an image.",
+            "div_exp": "Improving the luminosity",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0062.png",
+            "hive": "hive_0062.png",
+            "hqedit": "hqedit_0062.png",
+            "iedit": "iedit_0062.png",
+            "instruct-diffusion": "instruct-diffusion_0062.png",
+            "instructpix2pix": "instructpix2pix_0062.png",
+            "magicbrush": "magicbrush_0062.png",
+            "mgie": "mgie_0062.png"
+        }
+    },
+    "66": {
+        "category": "Lowlight",
+        "image_id": "22",
+        "image_name": "0021.png",
+        "metadata": {
+            "image": "0021.png",
+            "ori_exp": "Enhance the brightness of an image.",
+            "div_exp": "Perfecting the luminance",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0021.png",
+            "hive": "hive_0021.png",
+            "hqedit": "hqedit_0021.png",
+            "iedit": "iedit_0021.png",
+            "instruct-diffusion": "instruct-diffusion_0021.png",
+            "instructpix2pix": "instructpix2pix_0021.png",
+            "magicbrush": "magicbrush_0021.png",
+            "mgie": "mgie_0021.png"
+        }
+    },
+    "67": {
+        "category": "Lowlight",
+        "image_id": "61",
+        "image_name": "0060.png",
+        "metadata": {
+            "image": "0060.png",
+            "ori_exp": "Enhance the brightness of an image.",
+            "div_exp": "Strengthening the brilliance",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0060.png",
+            "hive": "hive_0060.png",
+            "hqedit": "hqedit_0060.png",
+            "iedit": "iedit_0060.png",
+            "instruct-diffusion": "instruct-diffusion_0060.png",
+            "instructpix2pix": "instructpix2pix_0060.png",
+            "magicbrush": "magicbrush_0060.png",
+            "mgie": "mgie_0060.png"
+        }
+    },
+    "68": {
+        "category": "Lowlight",
+        "image_id": "34",
+        "image_name": "0033.png",
+        "metadata": {
+            "image": "0033.png",
+            "ori_exp": "Enhance the brightness of an image.",
+            "div_exp": "Brightening up the scene",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0033.png",
+            "hive": "hive_0033.png",
+            "hqedit": "hqedit_0033.png",
+            "iedit": "iedit_0033.png",
+            "instruct-diffusion": "instruct-diffusion_0033.png",
+            "instructpix2pix": "instructpix2pix_0033.png",
+            "magicbrush": "magicbrush_0033.png",
+            "mgie": "mgie_0033.png"
+        }
+    },
+    "69": {
+        "category": "Lowlight",
+        "image_id": "52",
+        "image_name": "0051.png",
+        "metadata": {
+            "image": "0051.png",
+            "ori_exp": "Enhance the brightness of an image.",
+            "div_exp": "Increasing the luminosity",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0051.png",
+            "hive": "hive_0051.png",
+            "hqedit": "hqedit_0051.png",
+            "iedit": "iedit_0051.png",
+            "instruct-diffusion": "instruct-diffusion_0051.png",
+            "instructpix2pix": "instructpix2pix_0051.png",
+            "magicbrush": "magicbrush_0051.png",
+            "mgie": "mgie_0051.png"
+        }
+    },
+    "70": {
+        "category": "Lowlight",
+        "image_id": "86",
+        "image_name": "0085.png",
+        "metadata": {
+            "image": "0085.png",
+            "ori_exp": "Enhance the brightness of an image.",
+            "div_exp": "Augmenting the radiance",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0085.png",
+            "hive": "hive_0085.png",
+            "hqedit": "hqedit_0085.png",
+            "iedit": "iedit_0085.png",
+            "instruct-diffusion": "instruct-diffusion_0085.png",
+            "instructpix2pix": "instructpix2pix_0085.png",
+            "magicbrush": "magicbrush_0085.png",
+            "mgie": "mgie_0085.png"
+        }
+    },
+    "71": {
+        "category": "NoiseRemoval",
+        "image_id": "105",
+        "image_name": "0104.jpg",
+        "metadata": {
+            "image": "0104.jpg",
+            "ori_exp": "Remove the noise from the image.",
+            "div_exp": "Optimize the image by removing noise.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0104.jpg",
+            "hive": "hive_0104.jpg",
+            "hqedit": "hqedit_0104.jpg",
+            "iedit": "iedit_0104.jpg",
+            "instruct-diffusion": "instruct-diffusion_0104.jpg",
+            "instructpix2pix": "instructpix2pix_0104.jpg",
+            "magicbrush": "magicbrush_0104.jpg",
+            "mgie": "mgie_0104.jpg"
+        }
+    },
+    "72": {
+        "category": "NoiseRemoval",
+        "image_id": "107",
+        "image_name": "0106.jpg",
+        "metadata": {
+            "image": "0106.jpg",
+            "ori_exp": "Remove the noise from the image.",
+            "div_exp": "Clear up the image by removing noise.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0106.jpg",
+            "hive": "hive_0106.jpg",
+            "hqedit": "hqedit_0106.jpg",
+            "iedit": "iedit_0106.jpg",
+            "instruct-diffusion": "instruct-diffusion_0106.jpg",
+            "instructpix2pix": "instructpix2pix_0106.jpg",
+            "magicbrush": "magicbrush_0106.jpg",
+            "mgie": "mgie_0106.jpg"
+        }
+    },
+    "73": {
+        "category": "NoiseRemoval",
+        "image_id": "42",
+        "image_name": "0041.png",
+        "metadata": {
+            "image": "0041.png",
+            "ori_exp": "Remove the noise from the image.",
+            "div_exp": "Achieve a cleaner look by removing noise from the image.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0041.png",
+            "hive": "hive_0041.png",
+            "hqedit": "hqedit_0041.png",
+            "iedit": "iedit_0041.png",
+            "instruct-diffusion": "instruct-diffusion_0041.png",
+            "instructpix2pix": "instructpix2pix_0041.png",
+            "magicbrush": "magicbrush_0041.png",
+            "mgie": "mgie_0041.png"
+        }
+    },
+    "74": {
+        "category": "NoiseRemoval",
+        "image_id": "120",
+        "image_name": "0119.jpg",
+        "metadata": {
+            "image": "0119.jpg",
+            "ori_exp": "Remove the noise from the image.",
+            "div_exp": "Clarify the image's details by eliminating noise.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0119.jpg",
+            "hive": "hive_0119.jpg",
+            "hqedit": "hqedit_0119.jpg",
+            "iedit": "iedit_0119.jpg",
+            "instruct-diffusion": "instruct-diffusion_0119.jpg",
+            "instructpix2pix": "instructpix2pix_0119.jpg",
+            "magicbrush": "magicbrush_0119.jpg",
+            "mgie": "mgie_0119.jpg"
+        }
+    },
+    "75": {
+        "category": "NoiseRemoval",
+        "image_id": "115",
+        "image_name": "0114.jpg",
+        "metadata": {
+            "image": "0114.jpg",
+            "ori_exp": "Remove the noise from the image.",
+            "div_exp": "Clean up the image by eliminating unwanted noise.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0114.jpg",
+            "hive": "hive_0114.jpg",
+            "hqedit": "hqedit_0114.jpg",
+            "iedit": "iedit_0114.jpg",
+            "instruct-diffusion": "instruct-diffusion_0114.jpg",
+            "instructpix2pix": "instructpix2pix_0114.jpg",
+            "magicbrush": "magicbrush_0114.jpg",
+            "mgie": "mgie_0114.jpg"
+        }
+    },
+    "76": {
+        "category": "NoiseRemoval",
+        "image_id": "47",
+        "image_name": "0046.png",
+        "metadata": {
+            "image": "0046.png",
+            "ori_exp": "Remove the noise from the image.",
+            "div_exp": "Clear up the image by removing noise.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0046.png",
+            "hive": "hive_0046.png",
+            "hqedit": "hqedit_0046.png",
+            "iedit": "iedit_0046.png",
+            "instruct-diffusion": "instruct-diffusion_0046.png",
+            "instructpix2pix": "instructpix2pix_0046.png",
+            "magicbrush": "magicbrush_0046.png",
+            "mgie": "mgie_0046.png"
+        }
+    },
+    "77": {
+        "category": "NoiseRemoval",
+        "image_id": "36",
+        "image_name": "0035.png",
+        "metadata": {
+            "image": "0035.png",
+            "ori_exp": "Remove the noise from the image.",
+            "div_exp": "Improve image quality by removing noise.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0035.png",
+            "hive": "hive_0035.png",
+            "hqedit": "hqedit_0035.png",
+            "iedit": "iedit_0035.png",
+            "instruct-diffusion": "instruct-diffusion_0035.png",
+            "instructpix2pix": "instructpix2pix_0035.png",
+            "magicbrush": "magicbrush_0035.png",
+            "mgie": "mgie_0035.png"
+        }
+    },
+    "78": {
+        "category": "NoiseRemoval",
+        "image_id": "69",
+        "image_name": "0068.jpg",
+        "metadata": {
+            "image": "0068.jpg",
+            "ori_exp": "Remove the noise from the image.",
+            "div_exp": "Enhance image clarity by removing noise.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0068.jpg",
+            "hive": "hive_0068.jpg",
+            "hqedit": "hqedit_0068.jpg",
+            "iedit": "iedit_0068.jpg",
+            "instruct-diffusion": "instruct-diffusion_0068.jpg",
+            "instructpix2pix": "instructpix2pix_0068.jpg",
+            "magicbrush": "magicbrush_0068.jpg",
+            "mgie": "mgie_0068.jpg"
+        }
+    },
+    "79": {
+        "category": "NoiseRemoval",
+        "image_id": "7",
+        "image_name": "0006.png",
+        "metadata": {
+            "image": "0006.png",
+            "ori_exp": "Remove the noise from the image.",
+            "div_exp": "Remove visual disturbances from the image by eliminating noise.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0006.png",
+            "hive": "hive_0006.png",
+            "hqedit": "hqedit_0006.png",
+            "iedit": "iedit_0006.png",
+            "instruct-diffusion": "instruct-diffusion_0006.png",
+            "instructpix2pix": "instructpix2pix_0006.png",
+            "magicbrush": "magicbrush_0006.png",
+            "mgie": "mgie_0006.png"
+        }
+    },
+    "80": {
+        "category": "NoiseRemoval",
+        "image_id": "40",
+        "image_name": "0039.png",
+        "metadata": {
+            "image": "0039.png",
+            "ori_exp": "Remove the noise from the image.",
+            "div_exp": "Clean up the image by eliminating unwanted noise.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0039.png",
+            "hive": "hive_0039.png",
+            "hqedit": "hqedit_0039.png",
+            "iedit": "iedit_0039.png",
+            "instruct-diffusion": "instruct-diffusion_0039.png",
+            "instructpix2pix": "instructpix2pix_0039.png",
+            "magicbrush": "magicbrush_0039.png",
+            "mgie": "mgie_0039.png"
+        }
+    },
+    "81": {
+        "category": "ObjectRemoval",
+        "image_id": "98",
+        "image_name": "0098.jpg",
+        "metadata": {
+            "image": "0098.jpg",
+            "ori_exp": "Remove the elephant from the image",
+            "div_exp": "Ensure there's no elephant in the image",
+            "Evaluation": "Is there an elephant in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0098.jpg",
+            "hive": "hive_0098.jpg",
+            "hqedit": "hqedit_0098.jpg",
+            "iedit": "iedit_0098.jpg",
+            "instruct-diffusion": "instruct-diffusion_0098.jpg",
+            "instructpix2pix": "instructpix2pix_0098.jpg",
+            "magicbrush": "magicbrush_0098.jpg",
+            "mgie": "mgie_0098.jpg"
+        }
+    },
+    "82": {
+        "category": "ObjectRemoval",
+        "image_id": "108",
+        "image_name": "0108.jpg",
+        "metadata": {
+            "image": "0108.jpg",
+            "ori_exp": "Remove the lady from the image",
+            "div_exp": "Ensure there's no lady in the image",
+            "Evaluation": "Is there a lady in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "human"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0108.jpg",
+            "hive": "hive_0108.jpg",
+            "hqedit": "hqedit_0108.jpg",
+            "iedit": "iedit_0108.jpg",
+            "instruct-diffusion": "instruct-diffusion_0108.jpg",
+            "instructpix2pix": "instructpix2pix_0108.jpg",
+            "magicbrush": "magicbrush_0108.jpg",
+            "mgie": "mgie_0108.jpg"
+        }
+    },
+    "83": {
+        "category": "ObjectRemoval",
+        "image_id": "45",
+        "image_name": "0044.jpg",
+        "metadata": {
+            "image": "0044.jpg",
+            "ori_exp": "Remove the zebra from the image",
+            "div_exp": "The zebra must be expunged from the image",
+            "Evaluation": "Is there a zebra in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0044.jpg",
+            "hive": "hive_0044.jpg",
+            "hqedit": "hqedit_0044.jpg",
+            "iedit": "iedit_0044.jpg",
+            "instruct-diffusion": "instruct-diffusion_0044.jpg",
+            "instructpix2pix": "instructpix2pix_0044.jpg",
+            "magicbrush": "magicbrush_0044.jpg",
+            "mgie": "mgie_0044.jpg"
+        }
+    },
+    "84": {
+        "category": "ObjectRemoval",
+        "image_id": "93",
+        "image_name": "0092.jpg",
+        "metadata": {
+            "image": "0092.jpg",
+            "ori_exp": "Remove the snowfield from the image",
+            "div_exp": "There should be no snowfield in the image",
+            "Evaluation": "Is there a snowfield in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "scenery"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0092.jpg",
+            "hive": "hive_0092.jpg",
+            "hqedit": "hqedit_0092.jpg",
+            "iedit": "iedit_0092.jpg",
+            "instruct-diffusion": "instruct-diffusion_0092.jpg",
+            "instructpix2pix": "instructpix2pix_0092.jpg",
+            "magicbrush": "magicbrush_0092.jpg",
+            "mgie": "mgie_0092.jpg"
+        }
+    },
+    "85": {
+        "category": "ObjectRemoval",
+        "image_id": "50",
+        "image_name": "0049.jpg",
+        "metadata": {
+            "image": "0049.jpg",
+            "ori_exp": "Remove the little girl from the image",
+            "div_exp": "The little girl needs to be expunged from the image",
+            "Evaluation": "Is there a little girl in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "human"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0049.jpg",
+            "hive": "hive_0049.jpg",
+            "hqedit": "hqedit_0049.jpg",
+            "iedit": "iedit_0049.jpg",
+            "instruct-diffusion": "instruct-diffusion_0049.jpg",
+            "instructpix2pix": "instructpix2pix_0049.jpg",
+            "magicbrush": "magicbrush_0049.jpg",
+            "mgie": "mgie_0049.jpg"
+        }
+    },
+    "86": {
+        "category": "ObjectRemoval",
+        "image_id": "90",
+        "image_name": "0089.jpg",
+        "metadata": {
+            "image": "0089.jpg",
+            "ori_exp": "Remove the sunset glow from the image",
+            "div_exp": "Let's rid the image of the sunset glow",
+            "Evaluation": "Is there sunset glow in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "scenery"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0089.jpg",
+            "hive": "hive_0089.jpg",
+            "hqedit": "hqedit_0089.jpg",
+            "iedit": "iedit_0089.jpg",
+            "instruct-diffusion": "instruct-diffusion_0089.jpg",
+            "instructpix2pix": "instructpix2pix_0089.jpg",
+            "magicbrush": "magicbrush_0089.jpg",
+            "mgie": "mgie_0089.jpg"
+        }
+    },
+    "87": {
+        "category": "ObjectRemoval",
+        "image_id": "37",
+        "image_name": "0036.jpg",
+        "metadata": {
+            "image": "0036.jpg",
+            "ori_exp": "Remove the plane from the image",
+            "div_exp": "The plane ought to be eradicated from the image",
+            "Evaluation": "Is there a plane in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "object"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0036.jpg",
+            "hive": "hive_0036.jpg",
+            "hqedit": "hqedit_0036.jpg",
+            "iedit": "iedit_0036.jpg",
+            "instruct-diffusion": "instruct-diffusion_0036.jpg",
+            "instructpix2pix": "instructpix2pix_0036.jpg",
+            "magicbrush": "magicbrush_0036.jpg",
+            "mgie": "mgie_0036.jpg"
+        }
+    },
+    "88": {
+        "category": "ObjectRemoval",
+        "image_id": "77",
+        "image_name": "0076.jpg",
+        "metadata": {
+            "image": "0076.jpg",
+            "ori_exp": "Remove the cat from the image",
+            "div_exp": "Ensure there's no cat in the image",
+            "Evaluation": "Is there a cat in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0076.jpg",
+            "hive": "hive_0076.jpg",
+            "hqedit": "hqedit_0076.jpg",
+            "iedit": "iedit_0076.jpg",
+            "instruct-diffusion": "instruct-diffusion_0076.jpg",
+            "instructpix2pix": "instructpix2pix_0076.jpg",
+            "magicbrush": "magicbrush_0076.jpg",
+            "mgie": "mgie_0076.jpg"
+        }
+    },
+    "89": {
+        "category": "ObjectRemoval",
+        "image_id": "120",
+        "image_name": "0120.jpg",
+        "metadata": {
+            "image": "0120.jpg",
+            "ori_exp": "Remove the broccoli from the image",
+            "div_exp": "Remove any broccoli that may be in the image",
+            "Evaluation": "Is there a broccoli in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "plant"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0120.jpg",
+            "hive": "hive_0120.jpg",
+            "hqedit": "hqedit_0120.jpg",
+            "iedit": "iedit_0120.jpg",
+            "instruct-diffusion": "instruct-diffusion_0120.jpg",
+            "instructpix2pix": "instructpix2pix_0120.jpg",
+            "magicbrush": "magicbrush_0120.jpg",
+            "mgie": "mgie_0120.jpg"
+        }
+    },
+    "90": {
+        "category": "ObjectRemoval",
+        "image_id": "79",
+        "image_name": "0078.jpg",
+        "metadata": {
+            "image": "0078.jpg",
+            "ori_exp": "Remove the cherry from the image",
+            "div_exp": "Ensure there's no cherry in the image",
+            "Evaluation": "Is there a cherry in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "plant"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0078.jpg",
+            "hive": "hive_0078.jpg",
+            "hqedit": "hqedit_0078.jpg",
+            "iedit": "iedit_0078.jpg",
+            "instruct-diffusion": "instruct-diffusion_0078.jpg",
+            "instructpix2pix": "instructpix2pix_0078.jpg",
+            "magicbrush": "magicbrush_0078.jpg",
+            "mgie": "mgie_0078.jpg"
+        }
+    },
+    "91": {
+        "category": "RainRemoval",
+        "image_id": "109",
+        "image_name": "0109.png",
+        "metadata": {
+            "image": "0109.png",
+            "ori_exp": "Remove the rain from the image.",
+            "div_exp": "Banish the rainy background.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0109.png",
+            "hive": "hive_0109.png",
+            "hqedit": "hqedit_0109.png",
+            "iedit": "iedit_0109.png",
+            "instruct-diffusion": "instruct-diffusion_0109.png",
+            "instructpix2pix": "instructpix2pix_0109.png",
+            "magicbrush": "magicbrush_0109.png",
+            "mgie": "mgie_0109.png"
+        }
+    },
+    "92": {
+        "category": "RainRemoval",
+        "image_id": "28",
+        "image_name": "0028.png",
+        "metadata": {
+            "image": "0028.png",
+            "ori_exp": "Remove the rain from the image.",
+            "div_exp": "Banish the rainy background.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0028.png",
+            "hive": "hive_0028.png",
+            "hqedit": "hqedit_0028.png",
+            "iedit": "iedit_0028.png",
+            "instruct-diffusion": "instruct-diffusion_0028.png",
+            "instructpix2pix": "instructpix2pix_0028.png",
+            "magicbrush": "magicbrush_0028.png",
+            "mgie": "mgie_0028.png"
+        }
+    },
+    "93": {
+        "category": "RainRemoval",
+        "image_id": "21",
+        "image_name": "0021.png",
+        "metadata": {
+            "image": "0021.png",
+            "ori_exp": "Remove the rain from the image.",
+            "div_exp": "Eradicate the wet weather.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0021.png",
+            "hive": "hive_0021.png",
+            "hqedit": "hqedit_0021.png",
+            "iedit": "iedit_0021.png",
+            "instruct-diffusion": "instruct-diffusion_0021.png",
+            "instructpix2pix": "instructpix2pix_0021.png",
+            "magicbrush": "magicbrush_0021.png",
+            "mgie": "mgie_0021.png"
+        }
+    },
+    "94": {
+        "category": "RainRemoval",
+        "image_id": "110",
+        "image_name": "0110.png",
+        "metadata": {
+            "image": "0110.png",
+            "ori_exp": "Remove the rain from the image.",
+            "div_exp": "Erase the rainy setting.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0110.png",
+            "hive": "hive_0110.png",
+            "hqedit": "hqedit_0110.png",
+            "iedit": "iedit_0110.png",
+            "instruct-diffusion": "instruct-diffusion_0110.png",
+            "instructpix2pix": "instructpix2pix_0110.png",
+            "magicbrush": "magicbrush_0110.png",
+            "mgie": "mgie_0110.png"
+        }
+    },
+    "95": {
+        "category": "RainRemoval",
+        "image_id": "59",
+        "image_name": "0059.png",
+        "metadata": {
+            "image": "0059.png",
+            "ori_exp": "Remove the rain from the image.",
+            "div_exp": "Annul the rain droplets.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0059.png",
+            "hive": "hive_0059.png",
+            "hqedit": "hqedit_0059.png",
+            "iedit": "iedit_0059.png",
+            "instruct-diffusion": "instruct-diffusion_0059.png",
+            "instructpix2pix": "instructpix2pix_0059.png",
+            "magicbrush": "magicbrush_0059.png",
+            "mgie": "mgie_0059.png"
+        }
+    },
+    "96": {
+        "category": "RainRemoval",
+        "image_id": "81",
+        "image_name": "0081.png",
+        "metadata": {
+            "image": "0081.png",
+            "ori_exp": "Remove the rain from the image.",
+            "div_exp": "Clear away the wet influence.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0081.png",
+            "hive": "hive_0081.png",
+            "hqedit": "hqedit_0081.png",
+            "iedit": "iedit_0081.png",
+            "instruct-diffusion": "instruct-diffusion_0081.png",
+            "instructpix2pix": "instructpix2pix_0081.png",
+            "magicbrush": "magicbrush_0081.png",
+            "mgie": "mgie_0081.png"
+        }
+    },
+    "97": {
+        "category": "RainRemoval",
+        "image_id": "140",
+        "image_name": "0140.png",
+        "metadata": {
+            "image": "0140.png",
+            "ori_exp": "Remove the rain from the image.",
+            "div_exp": "Take out the watery atmosphere.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0140.png",
+            "hive": "hive_0140.png",
+            "hqedit": "hqedit_0140.png",
+            "iedit": "iedit_0140.png",
+            "instruct-diffusion": "instruct-diffusion_0140.png",
+            "instructpix2pix": "instructpix2pix_0140.png",
+            "magicbrush": "magicbrush_0140.png",
+            "mgie": "mgie_0140.png"
+        }
+    },
+    "98": {
+        "category": "RainRemoval",
+        "image_id": "100",
+        "image_name": "0100.png",
+        "metadata": {
+            "image": "0100.png",
+            "ori_exp": "Remove the rain from the image.",
+            "div_exp": "Eradicate the watery feel.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0100.png",
+            "hive": "hive_0100.png",
+            "hqedit": "hqedit_0100.png",
+            "iedit": "iedit_0100.png",
+            "instruct-diffusion": "instruct-diffusion_0100.png",
+            "instructpix2pix": "instructpix2pix_0100.png",
+            "magicbrush": "magicbrush_0100.png",
+            "mgie": "mgie_0100.png"
+        }
+    },
+    "99": {
+        "category": "RainRemoval",
+        "image_id": "38",
+        "image_name": "0038.png",
+        "metadata": {
+            "image": "0038.png",
+            "ori_exp": "Remove the rain from the image.",
+            "div_exp": "Withdraw the rain elements.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0038.png",
+            "hive": "hive_0038.png",
+            "hqedit": "hqedit_0038.png",
+            "iedit": "iedit_0038.png",
+            "instruct-diffusion": "instruct-diffusion_0038.png",
+            "instructpix2pix": "instructpix2pix_0038.png",
+            "magicbrush": "magicbrush_0038.png",
+            "mgie": "mgie_0038.png"
+        }
+    },
+    "100": {
+        "category": "RainRemoval",
+        "image_id": "138",
+        "image_name": "0138.png",
+        "metadata": {
+            "image": "0138.png",
+            "ori_exp": "Remove the rain from the image.",
+            "div_exp": "Exclude the rain shadows.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0138.png",
+            "hive": "hive_0138.png",
+            "hqedit": "hqedit_0138.png",
+            "iedit": "iedit_0138.png",
+            "instruct-diffusion": "instruct-diffusion_0138.png",
+            "instructpix2pix": "instructpix2pix_0138.png",
+            "magicbrush": "magicbrush_0138.png",
+            "mgie": "mgie_0138.png"
+        }
+    },
+    "101": {
+        "category": "RegionAccuracy",
+        "image_id": "34",
+        "image_name": "0034.jpg",
+        "metadata": {
+            "image": "0034.jpg",
+            "mask": "0034.png",
+            "ori_exp": "Change the color of the woman's pinafore to red",
+            "div_exp": "Dye the woman's pinafore in red",
+            "type": "human",
+            "from_task": "ColorAlteration",
+            "from_image": "0034.jpg"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0034.jpg",
+            "hive": "hive_0034.jpg",
+            "hqedit": "hqedit_0034.jpg",
+            "iedit": "iedit_0034.jpg",
+            "instruct-diffusion": "instruct-diffusion_0034.jpg",
+            "instructpix2pix": "instructpix2pix_0034.jpg",
+            "magicbrush": "magicbrush_0034.jpg",
+            "mgie": "mgie_0034.jpg"
+        }
+    },
+    "102": {
+        "category": "RegionAccuracy",
+        "image_id": "122",
+        "image_name": "0122.jpg",
+        "metadata": {
+            "image": "0122.jpg",
+            "mask": "0122.png",
+            "ori_exp": "replace book with banana",
+            "div_exp": "Let's exchange the book with a ripe banana",
+            "type": "plant",
+            "from_task": "Replacement",
+            "from_image": "COCO_val2014_000000029370.jpg"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0122.jpg",
+            "hive": "hive_0122.jpg",
+            "hqedit": "hqedit_0122.jpg",
+            "iedit": "iedit_0122.jpg",
+            "instruct-diffusion": "instruct-diffusion_0122.jpg",
+            "instructpix2pix": "instructpix2pix_0122.jpg",
+            "magicbrush": "magicbrush_0122.jpg",
+            "mgie": "mgie_0122.jpg"
+        }
+    },
+    "103": {
+        "category": "RegionAccuracy",
+        "image_id": "26",
+        "image_name": "0026.jpg",
+        "metadata": {
+            "image": "0026.jpg",
+            "mask": "0026.png",
+            "ori_exp": "Change the color of the car to white",
+            "div_exp": "The car's color shall become white",
+            "type": "object",
+            "from_task": "ColorAlteration",
+            "from_image": "0026.jpg"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0026.jpg",
+            "hive": "hive_0026.jpg",
+            "hqedit": "hqedit_0026.jpg",
+            "iedit": "iedit_0026.jpg",
+            "instruct-diffusion": "instruct-diffusion_0026.jpg",
+            "instructpix2pix": "instructpix2pix_0026.jpg",
+            "magicbrush": "magicbrush_0026.jpg",
+            "mgie": "mgie_0026.jpg"
+        }
+    },
+    "104": {
+        "category": "RegionAccuracy",
+        "image_id": "16",
+        "image_name": "0016.jpg",
+        "metadata": {
+            "image": "0016.jpg",
+            "mask": "0016.png",
+            "ori_exp": "Change the color of the horse to black",
+            "div_exp": "Blacken the horse's coat",
+            "type": "animal",
+            "from_task": "ColorAlteration",
+            "from_image": "0016.jpg"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0016.jpg",
+            "hive": "hive_0016.jpg",
+            "hqedit": "hqedit_0016.jpg",
+            "iedit": "iedit_0016.jpg",
+            "instruct-diffusion": "instruct-diffusion_0016.jpg",
+            "instructpix2pix": "instructpix2pix_0016.jpg",
+            "magicbrush": "magicbrush_0016.jpg",
+            "mgie": "mgie_0016.jpg"
+        }
+    },
+    "105": {
+        "category": "RegionAccuracy",
+        "image_id": "52",
+        "image_name": "0052.jpg",
+        "metadata": {
+            "image": "0052.jpg",
+            "mask": "0052.png",
+            "ori_exp": "Remove the bench from the image",
+            "div_exp": "Eradicate the bench from the image",
+            "type": "object",
+            "from_task": "ObjectRemoval",
+            "from_image": "0052.jpg"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0052.jpg",
+            "hive": "hive_0052.jpg",
+            "hqedit": "hqedit_0052.jpg",
+            "iedit": "iedit_0052.jpg",
+            "instruct-diffusion": "instruct-diffusion_0052.jpg",
+            "instructpix2pix": "instructpix2pix_0052.jpg",
+            "magicbrush": "magicbrush_0052.jpg",
+            "mgie": "mgie_0052.jpg"
+        }
+    },
+    "106": {
+        "category": "RegionAccuracy",
+        "image_id": "108",
+        "image_name": "0108.jpg",
+        "metadata": {
+            "image": "0108.jpg",
+            "mask": "0108.png",
+            "ori_exp": "replace cat with pear",
+            "div_exp": "Replace the cat with a ripe pear",
+            "type": "plant",
+            "from_task": "Replacement",
+            "from_image": "COCO_val2014_000000022759.jpg"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0108.jpg",
+            "hive": "hive_0108.jpg",
+            "hqedit": "hqedit_0108.jpg",
+            "iedit": "iedit_0108.jpg",
+            "instruct-diffusion": "instruct-diffusion_0108.jpg",
+            "instructpix2pix": "instructpix2pix_0108.jpg",
+            "magicbrush": "magicbrush_0108.jpg",
+            "mgie": "mgie_0108.jpg"
+        }
+    },
+    "107": {
+        "category": "RegionAccuracy",
+        "image_id": "50",
+        "image_name": "0050.jpg",
+        "metadata": {
+            "image": "0050.jpg",
+            "mask": "0050.png",
+            "ori_exp": "Remove the bicycle from the image",
+            "div_exp": "Confirm the absence of bicycles in the image",
+            "type": "object",
+            "from_task": "ObjectRemoval",
+            "from_image": "0137.jpg"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0050.jpg",
+            "hive": "hive_0050.jpg",
+            "hqedit": "hqedit_0050.jpg",
+            "iedit": "iedit_0050.jpg",
+            "instruct-diffusion": "instruct-diffusion_0050.jpg",
+            "instructpix2pix": "instructpix2pix_0050.jpg",
+            "magicbrush": "magicbrush_0050.jpg",
+            "mgie": "mgie_0050.jpg"
+        }
+    },
+    "108": {
+        "category": "RegionAccuracy",
+        "image_id": "20",
+        "image_name": "0020.jpg",
+        "metadata": {
+            "image": "0020.jpg",
+            "mask": "0020.png",
+            "ori_exp": "Change the color of the clothes on the girl to yellow",
+            "div_exp": "Dress the girl in yellow",
+            "type": "human",
+            "from_task": "ColorAlteration",
+            "from_image": "0020.jpg"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0020.jpg",
+            "hive": "hive_0020.jpg",
+            "hqedit": "hqedit_0020.jpg",
+            "iedit": "iedit_0020.jpg",
+            "instruct-diffusion": "instruct-diffusion_0020.jpg",
+            "instructpix2pix": "instructpix2pix_0020.jpg",
+            "magicbrush": "magicbrush_0020.jpg",
+            "mgie": "mgie_0020.jpg"
+        }
+    },
+    "109": {
+        "category": "RegionAccuracy",
+        "image_id": "138",
+        "image_name": "0138.jpg",
+        "metadata": {
+            "image": "0138.jpg",
+            "mask": "0138.png",
+            "ori_exp": "replace fork with apple",
+            "div_exp": "Replace the fork with a juicy apple",
+            "type": "plant",
+            "from_task": "Replacement",
+            "from_image": "COCO_val2014_000000032625.jpg"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0138.jpg",
+            "hive": "hive_0138.jpg",
+            "hqedit": "hqedit_0138.jpg",
+            "iedit": "iedit_0138.jpg",
+            "instruct-diffusion": "instruct-diffusion_0138.jpg",
+            "instructpix2pix": "instructpix2pix_0138.jpg",
+            "magicbrush": "magicbrush_0138.jpg",
+            "mgie": "mgie_0138.jpg"
+        }
+    },
+    "110": {
+        "category": "RegionAccuracy",
+        "image_id": "35",
+        "image_name": "0035.jpg",
+        "metadata": {
+            "image": "0035.jpg",
+            "mask": "0035.png",
+            "ori_exp": "Change the color of the parrot to yellow",
+            "div_exp": "Adorn the parrot with a yellow hue",
+            "type": "animal",
+            "from_task": "ColorAlteration",
+            "from_image": "0035.jpg"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0035.jpg",
+            "hive": "hive_0035.jpg",
+            "hqedit": "hqedit_0035.jpg",
+            "iedit": "iedit_0035.jpg",
+            "instruct-diffusion": "instruct-diffusion_0035.jpg",
+            "instructpix2pix": "instructpix2pix_0035.jpg",
+            "magicbrush": "magicbrush_0035.jpg",
+            "mgie": "mgie_0035.jpg"
+        }
+    },
+    "111": {
+        "category": "Replacement",
+        "image_id": "62",
+        "image_name": "COCO_val2014_000000010107.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000010107.jpg",
+            "ori_exp": "replace dog with boy",
+            "div_exp": "Swap the dog with a playful boy",
+            "Evaluation": "Is there a boy in the image? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "human"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000010107.jpg",
+            "hive": "hive_COCO_val2014_000000010107.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000010107.jpg",
+            "iedit": "iedit_COCO_val2014_000000010107.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000010107.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000010107.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000010107.jpg",
+            "mgie": "mgie_COCO_val2014_000000010107.jpg"
+        }
+    },
+    "112": {
+        "category": "Replacement",
+        "image_id": "97",
+        "image_name": "COCO_val2014_000000020307.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000020307.jpg",
+            "ori_exp": "replace bike with bench",
+            "div_exp": "Replace the bike with a comfortable bench",
+            "Evaluation": "Is there a bench in the image? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "object"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000020307.jpg",
+            "hive": "hive_COCO_val2014_000000020307.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000020307.jpg",
+            "iedit": "iedit_COCO_val2014_000000020307.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000020307.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000020307.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000020307.jpg",
+            "mgie": "mgie_COCO_val2014_000000020307.jpg"
+        }
+    },
+    "113": {
+        "category": "Replacement",
+        "image_id": "88",
+        "image_name": "COCO_val2014_000000018485.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000018485.jpg",
+            "ori_exp": "replace bench with sofa",
+            "div_exp": "Replace the bench with a cozy sofa",
+            "Evaluation": "Is there a sofa in the image? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "object"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000018485.jpg",
+            "hive": "hive_COCO_val2014_000000018485.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000018485.jpg",
+            "iedit": "iedit_COCO_val2014_000000018485.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000018485.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000018485.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000018485.jpg",
+            "mgie": "mgie_COCO_val2014_000000018485.jpg"
+        }
+    },
+    "114": {
+        "category": "Replacement",
+        "image_id": "114",
+        "image_name": "COCO_val2014_000000026564.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000026564.jpg",
+            "ori_exp": "replace mouse with apple",
+            "div_exp": "Swap the mouse with a juicy apple",
+            "Evaluation": "Is there an apple in the image? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "plant"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000026564.jpg",
+            "hive": "hive_COCO_val2014_000000026564.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000026564.jpg",
+            "iedit": "iedit_COCO_val2014_000000026564.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000026564.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000026564.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000026564.jpg",
+            "mgie": "mgie_COCO_val2014_000000026564.jpg"
+        }
+    },
+    "115": {
+        "category": "Replacement",
+        "image_id": "65",
+        "image_name": "COCO_val2014_000000010363.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000010363.jpg",
+            "ori_exp": "replace cat with boy",
+            "div_exp": "Swap the cat with an energetic boy",
+            "Evaluation": "Is there a boy in the image? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "human"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000010363.jpg",
+            "hive": "hive_COCO_val2014_000000010363.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000010363.jpg",
+            "iedit": "iedit_COCO_val2014_000000010363.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000010363.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000010363.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000010363.jpg",
+            "mgie": "mgie_COCO_val2014_000000010363.jpg"
+        }
+    },
+    "116": {
+        "category": "Replacement",
+        "image_id": "11",
+        "image_name": "COCO_val2014_000000000599.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000000599.jpg",
+            "ori_exp": "replace cat with dog",
+            "div_exp": "Exchange the cat with a loyal dog",
+            "Evaluation": "Is there a dog in the image? Answer Yes or No.",
+            "Answer": "Yes",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000000599.jpg",
+            "hive": "hive_COCO_val2014_000000000599.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000000599.jpg",
+            "iedit": "iedit_COCO_val2014_000000000599.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000000599.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000000599.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000000599.jpg",
+            "mgie": "mgie_COCO_val2014_000000000599.jpg"
+        }
+    },
+    "117": {
+        "category": "Replacement",
+        "image_id": "91",
+        "image_name": "COCO_val2014_000000018903.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000018903.jpg",
+            "ori_exp": "replace computer with bowl",
+            "div_exp": "Replace the computer with a stylish bowl",
+            "Evaluation": "Is there a computer in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "object"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000018903.jpg",
+            "hive": "hive_COCO_val2014_000000018903.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000018903.jpg",
+            "iedit": "iedit_COCO_val2014_000000018903.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000018903.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000018903.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000018903.jpg",
+            "mgie": "mgie_COCO_val2014_000000018903.jpg"
+        }
+    },
+    "118": {
+        "category": "Replacement",
+        "image_id": "45",
+        "image_name": "COCO_val2014_000000006589.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000006589.jpg",
+            "ori_exp": "replace cat with child",
+            "div_exp": "Let's exchange the cat with a playful child",
+            "Evaluation": "Is there a cat in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "human"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000006589.jpg",
+            "hive": "hive_COCO_val2014_000000006589.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000006589.jpg",
+            "iedit": "iedit_COCO_val2014_000000006589.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000006589.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000006589.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000006589.jpg",
+            "mgie": "mgie_COCO_val2014_000000006589.jpg"
+        }
+    },
+    "119": {
+        "category": "Replacement",
+        "image_id": "63",
+        "image_name": "COCO_val2014_000000010219.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000010219.jpg",
+            "ori_exp": "replace dog with girl",
+            "div_exp": "Let's exchange the dog with a cheerful girl",
+            "Evaluation": "Is there a dog in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "human"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000010219.jpg",
+            "hive": "hive_COCO_val2014_000000010219.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000010219.jpg",
+            "iedit": "iedit_COCO_val2014_000000010219.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000010219.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000010219.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000010219.jpg",
+            "mgie": "mgie_COCO_val2014_000000010219.jpg"
+        }
+    },
+    "120": {
+        "category": "Replacement",
+        "image_id": "10",
+        "image_name": "COCO_val2014_000000000589.jpg",
+        "metadata": {
+            "image": "COCO_val2014_000000000589.jpg",
+            "ori_exp": "replace man with zebra",
+            "div_exp": "Let's substitute the man with a majestic zebra",
+            "Evaluation": "Is there a man in the image? Answer Yes or No.",
+            "Answer": "No",
+            "type": "animal"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_COCO_val2014_000000000589.jpg",
+            "hive": "hive_COCO_val2014_000000000589.jpg",
+            "hqedit": "hqedit_COCO_val2014_000000000589.jpg",
+            "iedit": "iedit_COCO_val2014_000000000589.jpg",
+            "instruct-diffusion": "instruct-diffusion_COCO_val2014_000000000589.jpg",
+            "instructpix2pix": "instructpix2pix_COCO_val2014_000000000589.jpg",
+            "magicbrush": "magicbrush_COCO_val2014_000000000589.jpg",
+            "mgie": "mgie_COCO_val2014_000000000589.jpg"
+        }
+    },
+    "121": {
+        "category": "ShadowRemoval",
+        "image_id": "135",
+        "image_name": "0135.png",
+        "metadata": {
+            "image": "0135.png",
+            "ori_exp": "Remove the shadow from the image.",
+            "div_exp": "Dissipate the shadow that overlays the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0135.png",
+            "hive": "hive_0135.png",
+            "hqedit": "hqedit_0135.png",
+            "iedit": "iedit_0135.png",
+            "instruct-diffusion": "instruct-diffusion_0135.png",
+            "instructpix2pix": "instructpix2pix_0135.png",
+            "magicbrush": "magicbrush_0135.png",
+            "mgie": "mgie_0135.png"
+        }
+    },
+    "122": {
+        "category": "ShadowRemoval",
+        "image_id": "58",
+        "image_name": "0058.png",
+        "metadata": {
+            "image": "0058.png",
+            "ori_exp": "Remove the shadow from the image.",
+            "div_exp": "Dispel the shadowy effect on the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0058.png",
+            "hive": "hive_0058.png",
+            "hqedit": "hqedit_0058.png",
+            "iedit": "iedit_0058.png",
+            "instruct-diffusion": "instruct-diffusion_0058.png",
+            "instructpix2pix": "instructpix2pix_0058.png",
+            "magicbrush": "magicbrush_0058.png",
+            "mgie": "mgie_0058.png"
+        }
+    },
+    "123": {
+        "category": "ShadowRemoval",
+        "image_id": "77",
+        "image_name": "0077.png",
+        "metadata": {
+            "image": "0077.png",
+            "ori_exp": "Remove the shadow from the image.",
+            "div_exp": "Vanish the silhouette obstructing the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0077.png",
+            "hive": "hive_0077.png",
+            "hqedit": "hqedit_0077.png",
+            "iedit": "iedit_0077.png",
+            "instruct-diffusion": "instruct-diffusion_0077.png",
+            "instructpix2pix": "instructpix2pix_0077.png",
+            "magicbrush": "magicbrush_0077.png",
+            "mgie": "mgie_0077.png"
+        }
+    },
+    "124": {
+        "category": "ShadowRemoval",
+        "image_id": "68",
+        "image_name": "0068.png",
+        "metadata": {
+            "image": "0068.png",
+            "ori_exp": "Remove the shadow from the image.",
+            "div_exp": "Eradicate the overshadowed detail from the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0068.png",
+            "hive": "hive_0068.png",
+            "hqedit": "hqedit_0068.png",
+            "iedit": "iedit_0068.png",
+            "instruct-diffusion": "instruct-diffusion_0068.png",
+            "instructpix2pix": "instructpix2pix_0068.png",
+            "magicbrush": "magicbrush_0068.png",
+            "mgie": "mgie_0068.png"
+        }
+    },
+    "125": {
+        "category": "ShadowRemoval",
+        "image_id": "117",
+        "image_name": "0117.png",
+        "metadata": {
+            "image": "0117.png",
+            "ori_exp": "Remove the shadow from the image.",
+            "div_exp": "Dissipate the shadow that overlays the photo.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0117.png",
+            "hive": "hive_0117.png",
+            "hqedit": "hqedit_0117.png",
+            "iedit": "iedit_0117.png",
+            "instruct-diffusion": "instruct-diffusion_0117.png",
+            "instructpix2pix": "instructpix2pix_0117.png",
+            "magicbrush": "magicbrush_0117.png",
+            "mgie": "mgie_0117.png"
+        }
+    },
+    "126": {
+        "category": "ShadowRemoval",
+        "image_id": "27",
+        "image_name": "0027.png",
+        "metadata": {
+            "image": "0027.png",
+            "ori_exp": "Remove the shadow from the image.",
+            "div_exp": "Dissipate the shadow that darkens the image.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0027.png",
+            "hive": "hive_0027.png",
+            "hqedit": "hqedit_0027.png",
+            "iedit": "iedit_0027.png",
+            "instruct-diffusion": "instruct-diffusion_0027.png",
+            "instructpix2pix": "instructpix2pix_0027.png",
+            "magicbrush": "magicbrush_0027.png",
+            "mgie": "mgie_0027.png"
+        }
+    },
+    "127": {
+        "category": "ShadowRemoval",
+        "image_id": "127",
+        "image_name": "0127.png",
+        "metadata": {
+            "image": "0127.png",
+            "ori_exp": "Remove the shadow from the image.",
+            "div_exp": "Abolish the shadow cast on the photo.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0127.png",
+            "hive": "hive_0127.png",
+            "hqedit": "hqedit_0127.png",
+            "iedit": "iedit_0127.png",
+            "instruct-diffusion": "instruct-diffusion_0127.png",
+            "instructpix2pix": "instructpix2pix_0127.png",
+            "magicbrush": "magicbrush_0127.png",
+            "mgie": "mgie_0127.png"
+        }
+    },
+    "128": {
+        "category": "ShadowRemoval",
+        "image_id": "17",
+        "image_name": "0017.png",
+        "metadata": {
+            "image": "0017.png",
+            "ori_exp": "Remove the shadow from the image.",
+            "div_exp": "Discard the overshadowed part from the photo.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0017.png",
+            "hive": "hive_0017.png",
+            "hqedit": "hqedit_0017.png",
+            "iedit": "iedit_0017.png",
+            "instruct-diffusion": "instruct-diffusion_0017.png",
+            "instructpix2pix": "instructpix2pix_0017.png",
+            "magicbrush": "magicbrush_0017.png",
+            "mgie": "mgie_0017.png"
+        }
+    },
+    "129": {
+        "category": "ShadowRemoval",
+        "image_id": "139",
+        "image_name": "0139.png",
+        "metadata": {
+            "image": "0139.png",
+            "ori_exp": "Remove the shadow from the image.",
+            "div_exp": "Abrogate the silhouette causing the shadow.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0139.png",
+            "hive": "hive_0139.png",
+            "hqedit": "hqedit_0139.png",
+            "iedit": "iedit_0139.png",
+            "instruct-diffusion": "instruct-diffusion_0139.png",
+            "instructpix2pix": "instructpix2pix_0139.png",
+            "magicbrush": "magicbrush_0139.png",
+            "mgie": "mgie_0139.png"
+        }
+    },
+    "130": {
+        "category": "ShadowRemoval",
+        "image_id": "138",
+        "image_name": "0138.png",
+        "metadata": {
+            "image": "0138.png",
+            "ori_exp": "Remove the shadow from the image.",
+            "div_exp": "Omit the darkened element in the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0138.png",
+            "hive": "hive_0138.png",
+            "hqedit": "hqedit_0138.png",
+            "iedit": "iedit_0138.png",
+            "instruct-diffusion": "instruct-diffusion_0138.png",
+            "instructpix2pix": "instructpix2pix_0138.png",
+            "magicbrush": "magicbrush_0138.png",
+            "mgie": "mgie_0138.png"
+        }
+    },
+    "131": {
+        "category": "SnowRemoval",
+        "image_id": "70",
+        "image_name": "70.jpg",
+        "metadata": {
+            "image": "70.jpg",
+            "ori_exp": "Remove the snow from the image.",
+            "div_exp": "Get rid of the snow from the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_70.jpg",
+            "hive": "hive_70.jpg",
+            "hqedit": "hqedit_70.jpg",
+            "iedit": "iedit_70.jpg",
+            "instruct-diffusion": "instruct-diffusion_70.jpg",
+            "instructpix2pix": "instructpix2pix_70.jpg",
+            "magicbrush": "magicbrush_70.jpg",
+            "mgie": "mgie_70.jpg"
+        }
+    },
+    "132": {
+        "category": "SnowRemoval",
+        "image_id": "44",
+        "image_name": "44.jpg",
+        "metadata": {
+            "image": "44.jpg",
+            "ori_exp": "Remove the snow from the image.",
+            "div_exp": "Omit the snow-covered portions in the photo.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_44.jpg",
+            "hive": "hive_44.jpg",
+            "hqedit": "hqedit_44.jpg",
+            "iedit": "iedit_44.jpg",
+            "instruct-diffusion": "instruct-diffusion_44.jpg",
+            "instructpix2pix": "instructpix2pix_44.jpg",
+            "magicbrush": "magicbrush_44.jpg",
+            "mgie": "mgie_44.jpg"
+        }
+    },
+    "133": {
+        "category": "SnowRemoval",
+        "image_id": "40",
+        "image_name": "40.jpg",
+        "metadata": {
+            "image": "40.jpg",
+            "ori_exp": "Remove the snow from the image.",
+            "div_exp": "Eradicate the snow in the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_40.jpg",
+            "hive": "hive_40.jpg",
+            "hqedit": "hqedit_40.jpg",
+            "iedit": "iedit_40.jpg",
+            "instruct-diffusion": "instruct-diffusion_40.jpg",
+            "instructpix2pix": "instructpix2pix_40.jpg",
+            "magicbrush": "magicbrush_40.jpg",
+            "mgie": "mgie_40.jpg"
+        }
+    },
+    "134": {
+        "category": "SnowRemoval",
+        "image_id": "18",
+        "image_name": "18.jpg",
+        "metadata": {
+            "image": "18.jpg",
+            "ori_exp": "Remove the snow from the image.",
+            "div_exp": "Purge the snow from the image.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_18.jpg",
+            "hive": "hive_18.jpg",
+            "hqedit": "hqedit_18.jpg",
+            "iedit": "iedit_18.jpg",
+            "instruct-diffusion": "instruct-diffusion_18.jpg",
+            "instructpix2pix": "instructpix2pix_18.jpg",
+            "magicbrush": "magicbrush_18.jpg",
+            "mgie": "mgie_18.jpg"
+        }
+    },
+    "135": {
+        "category": "SnowRemoval",
+        "image_id": "138",
+        "image_name": "138.jpg",
+        "metadata": {
+            "image": "138.jpg",
+            "ori_exp": "Remove the snow from the image.",
+            "div_exp": "Cleanse the photo of snow.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_138.jpg",
+            "hive": "hive_138.jpg",
+            "hqedit": "hqedit_138.jpg",
+            "iedit": "iedit_138.jpg",
+            "instruct-diffusion": "instruct-diffusion_138.jpg",
+            "instructpix2pix": "instructpix2pix_138.jpg",
+            "magicbrush": "magicbrush_138.jpg",
+            "mgie": "mgie_138.jpg"
+        }
+    },
+    "136": {
+        "category": "SnowRemoval",
+        "image_id": "24",
+        "image_name": "24.jpg",
+        "metadata": {
+            "image": "24.jpg",
+            "ori_exp": "Remove the snow from the image.",
+            "div_exp": "Clear the image of any snow.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_24.jpg",
+            "hive": "hive_24.jpg",
+            "hqedit": "hqedit_24.jpg",
+            "iedit": "iedit_24.jpg",
+            "instruct-diffusion": "instruct-diffusion_24.jpg",
+            "instructpix2pix": "instructpix2pix_24.jpg",
+            "magicbrush": "magicbrush_24.jpg",
+            "mgie": "mgie_24.jpg"
+        }
+    },
+    "137": {
+        "category": "SnowRemoval",
+        "image_id": "17",
+        "image_name": "17.jpg",
+        "metadata": {
+            "image": "17.jpg",
+            "ori_exp": "Remove the snow from the image.",
+            "div_exp": "Exclude the snowy details from the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_17.jpg",
+            "hive": "hive_17.jpg",
+            "hqedit": "hqedit_17.jpg",
+            "iedit": "iedit_17.jpg",
+            "instruct-diffusion": "instruct-diffusion_17.jpg",
+            "instructpix2pix": "instructpix2pix_17.jpg",
+            "magicbrush": "magicbrush_17.jpg",
+            "mgie": "mgie_17.jpg"
+        }
+    },
+    "138": {
+        "category": "SnowRemoval",
+        "image_id": "36",
+        "image_name": "36.jpg",
+        "metadata": {
+            "image": "36.jpg",
+            "ori_exp": "Remove the snow from the image.",
+            "div_exp": "Exclude the snowy portions from the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_36.jpg",
+            "hive": "hive_36.jpg",
+            "hqedit": "hqedit_36.jpg",
+            "iedit": "iedit_36.jpg",
+            "instruct-diffusion": "instruct-diffusion_36.jpg",
+            "instructpix2pix": "instructpix2pix_36.jpg",
+            "magicbrush": "magicbrush_36.jpg",
+            "mgie": "mgie_36.jpg"
+        }
+    },
+    "139": {
+        "category": "SnowRemoval",
+        "image_id": "43",
+        "image_name": "43.jpg",
+        "metadata": {
+            "image": "43.jpg",
+            "ori_exp": "Remove the snow from the image.",
+            "div_exp": "Eliminate all traces of snow in the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_43.jpg",
+            "hive": "hive_43.jpg",
+            "hqedit": "hqedit_43.jpg",
+            "iedit": "iedit_43.jpg",
+            "instruct-diffusion": "instruct-diffusion_43.jpg",
+            "instructpix2pix": "instructpix2pix_43.jpg",
+            "magicbrush": "magicbrush_43.jpg",
+            "mgie": "mgie_43.jpg"
+        }
+    },
+    "140": {
+        "category": "SnowRemoval",
+        "image_id": "53",
+        "image_name": "53.jpg",
+        "metadata": {
+            "image": "53.jpg",
+            "ori_exp": "Remove the snow from the image.",
+            "div_exp": "Delete the snow from the picture.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_53.jpg",
+            "hive": "hive_53.jpg",
+            "hqedit": "hqedit_53.jpg",
+            "iedit": "iedit_53.jpg",
+            "instruct-diffusion": "instruct-diffusion_53.jpg",
+            "instructpix2pix": "instructpix2pix_53.jpg",
+            "magicbrush": "magicbrush_53.jpg",
+            "mgie": "mgie_53.jpg"
+        }
+    },
+    "141": {
+        "category": "StyleAlteration",
+        "image_id": "24",
+        "image_name": "0024.jpg",
+        "metadata": {
+            "image": "0024.jpg",
+            "ori_exp": "Change the image to cyberpunk style",
+            "div_exp": "Transport the image into a futuristic and gritty cyberpunk dystopia",
+            "style": "an image with cyberpunk style"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0024.jpg",
+            "hive": "hive_0024.jpg",
+            "hqedit": "hqedit_0024.jpg",
+            "iedit": "iedit_0024.jpg",
+            "instruct-diffusion": "instruct-diffusion_0024.jpg",
+            "instructpix2pix": "instructpix2pix_0024.jpg",
+            "magicbrush": "magicbrush_0024.jpg",
+            "mgie": "mgie_0024.jpg"
+        }
+    },
+    "142": {
+        "category": "StyleAlteration",
+        "image_id": "32",
+        "image_name": "0032.jpg",
+        "metadata": {
+            "image": "0032.jpg",
+            "ori_exp": "Change the image to cyberpunk style",
+            "div_exp": "Immerse the image in the neon-lit, futuristic world of cyberpunk aesthetics",
+            "style": "an image with cyberpunk style"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0032.jpg",
+            "hive": "hive_0032.jpg",
+            "hqedit": "hqedit_0032.jpg",
+            "iedit": "iedit_0032.jpg",
+            "instruct-diffusion": "instruct-diffusion_0032.jpg",
+            "instructpix2pix": "instructpix2pix_0032.jpg",
+            "magicbrush": "magicbrush_0032.jpg",
+            "mgie": "mgie_0032.jpg"
+        }
+    },
+    "143": {
+        "category": "StyleAlteration",
+        "image_id": "93",
+        "image_name": "0093.jpg",
+        "metadata": {
+            "image": "0093.jpg",
+            "ori_exp": "Change the image to oil painting style",
+            "div_exp": "Infuse the image with the rich and layered textures characteristic of oil painting",
+            "style": "an image with oil painting style"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0093.jpg",
+            "hive": "hive_0093.jpg",
+            "hqedit": "hqedit_0093.jpg",
+            "iedit": "iedit_0093.jpg",
+            "instruct-diffusion": "instruct-diffusion_0093.jpg",
+            "instructpix2pix": "instructpix2pix_0093.jpg",
+            "magicbrush": "magicbrush_0093.jpg",
+            "mgie": "mgie_0093.jpg"
+        }
+    },
+    "144": {
+        "category": "StyleAlteration",
+        "image_id": "104",
+        "image_name": "0104.jpg",
+        "metadata": {
+            "image": "0104.jpg",
+            "ori_exp": "Change the image to cyberpunk style",
+            "div_exp": "Immerse the image in the atmospheric glow of cyberpunk aesthetics",
+            "style": "an image with cyberpunk style"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0104.jpg",
+            "hive": "hive_0104.jpg",
+            "hqedit": "hqedit_0104.jpg",
+            "iedit": "iedit_0104.jpg",
+            "instruct-diffusion": "instruct-diffusion_0104.jpg",
+            "instructpix2pix": "instructpix2pix_0104.jpg",
+            "magicbrush": "magicbrush_0104.jpg",
+            "mgie": "mgie_0104.jpg"
+        }
+    },
+    "145": {
+        "category": "StyleAlteration",
+        "image_id": "14",
+        "image_name": "0014.jpg",
+        "metadata": {
+            "image": "0014.jpg",
+            "ori_exp": "Change the image to black and white style",
+            "div_exp": "Create a captivating monochromatic composition with black and white styling",
+            "style": "an image with black and white style"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0014.jpg",
+            "hive": "hive_0014.jpg",
+            "hqedit": "hqedit_0014.jpg",
+            "iedit": "iedit_0014.jpg",
+            "instruct-diffusion": "instruct-diffusion_0014.jpg",
+            "instructpix2pix": "instructpix2pix_0014.jpg",
+            "magicbrush": "magicbrush_0014.jpg",
+            "mgie": "mgie_0014.jpg"
+        }
+    },
+    "146": {
+        "category": "StyleAlteration",
+        "image_id": "86",
+        "image_name": "0086.jpg",
+        "metadata": {
+            "image": "0086.jpg",
+            "ori_exp": "Change the image to black and white style",
+            "div_exp": "Create a striking visual impact with the simplicity and elegance of black and white",
+            "style": "an image with black and white style"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0086.jpg",
+            "hive": "hive_0086.jpg",
+            "hqedit": "hqedit_0086.jpg",
+            "iedit": "iedit_0086.jpg",
+            "instruct-diffusion": "instruct-diffusion_0086.jpg",
+            "instructpix2pix": "instructpix2pix_0086.jpg",
+            "magicbrush": "magicbrush_0086.jpg",
+            "mgie": "mgie_0086.jpg"
+        }
+    },
+    "147": {
+        "category": "StyleAlteration",
+        "image_id": "8",
+        "image_name": "0008.jpg",
+        "metadata": {
+            "image": "0008.jpg",
+            "ori_exp": "Change the image to cyberpunk style",
+            "div_exp": "Generate an image that captures the futuristic and gritty aesthetic of cyberpunk",
+            "style": "an image with cyberpunk style"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0008.jpg",
+            "hive": "hive_0008.jpg",
+            "hqedit": "hqedit_0008.jpg",
+            "iedit": "iedit_0008.jpg",
+            "instruct-diffusion": "instruct-diffusion_0008.jpg",
+            "instructpix2pix": "instructpix2pix_0008.jpg",
+            "magicbrush": "magicbrush_0008.jpg",
+            "mgie": "mgie_0008.jpg"
+        }
+    },
+    "148": {
+        "category": "StyleAlteration",
+        "image_id": "126",
+        "image_name": "0126.jpg",
+        "metadata": {
+            "image": "0126.jpg",
+            "ori_exp": "Change the image to black and white style",
+            "div_exp": "Explore the interplay of light and shadow in a black and white composition",
+            "style": "an image with black and white style"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0126.jpg",
+            "hive": "hive_0126.jpg",
+            "hqedit": "hqedit_0126.jpg",
+            "iedit": "iedit_0126.jpg",
+            "instruct-diffusion": "instruct-diffusion_0126.jpg",
+            "instructpix2pix": "instructpix2pix_0126.jpg",
+            "magicbrush": "magicbrush_0126.jpg",
+            "mgie": "mgie_0126.jpg"
+        }
+    },
+    "149": {
+        "category": "StyleAlteration",
+        "image_id": "77",
+        "image_name": "0077.jpg",
+        "metadata": {
+            "image": "0077.jpg",
+            "ori_exp": "Change the image to oil painting style",
+            "div_exp": "Express the scene's textures and details through the medium of oil painting",
+            "style": "an image with oil painting style"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0077.jpg",
+            "hive": "hive_0077.jpg",
+            "hqedit": "hqedit_0077.jpg",
+            "iedit": "iedit_0077.jpg",
+            "instruct-diffusion": "instruct-diffusion_0077.jpg",
+            "instructpix2pix": "instructpix2pix_0077.jpg",
+            "magicbrush": "magicbrush_0077.jpg",
+            "mgie": "mgie_0077.jpg"
+        }
+    },
+    "150": {
+        "category": "StyleAlteration",
+        "image_id": "82",
+        "image_name": "0082.jpg",
+        "metadata": {
+            "image": "0082.jpg",
+            "ori_exp": "Change the image to black and white style",
+            "div_exp": "Craft a timeless composition with the stark contrasts and clarity of black and white",
+            "style": "an image with black and white style"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0082.jpg",
+            "hive": "hive_0082.jpg",
+            "hqedit": "hqedit_0082.jpg",
+            "iedit": "iedit_0082.jpg",
+            "instruct-diffusion": "instruct-diffusion_0082.jpg",
+            "instructpix2pix": "instructpix2pix_0082.jpg",
+            "magicbrush": "magicbrush_0082.jpg",
+            "mgie": "mgie_0082.jpg"
+        }
+    },
+    "151": {
+        "category": "WatermarkRemoval",
+        "image_id": "88",
+        "image_name": "0088.jpg",
+        "metadata": {
+            "image": "0088.jpg",
+            "ori_exp": "Remove the watermark from the image.",
+            "div_exp": "Remove the watermark stamp.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0088.jpg",
+            "hive": "hive_0088.jpg",
+            "hqedit": "hqedit_0088.jpg",
+            "iedit": "iedit_0088.jpg",
+            "instruct-diffusion": "instruct-diffusion_0088.jpg",
+            "instructpix2pix": "instructpix2pix_0088.jpg",
+            "magicbrush": "magicbrush_0088.jpg",
+            "mgie": "mgie_0088.jpg"
+        }
+    },
+    "152": {
+        "category": "WatermarkRemoval",
+        "image_id": "116",
+        "image_name": "0116.jpg",
+        "metadata": {
+            "image": "0116.jpg",
+            "ori_exp": "Remove the watermark from the image.",
+            "div_exp": "Withdraw the watermark emblem.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0116.jpg",
+            "hive": "hive_0116.jpg",
+            "hqedit": "hqedit_0116.jpg",
+            "iedit": "iedit_0116.jpg",
+            "instruct-diffusion": "instruct-diffusion_0116.jpg",
+            "instructpix2pix": "instructpix2pix_0116.jpg",
+            "magicbrush": "magicbrush_0116.jpg",
+            "mgie": "mgie_0116.jpg"
+        }
+    },
+    "153": {
+        "category": "WatermarkRemoval",
+        "image_id": "20",
+        "image_name": "0020.jpg",
+        "metadata": {
+            "image": "0020.jpg",
+            "ori_exp": "Remove the watermark from the image.",
+            "div_exp": "Vanish the watermark.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0020.jpg",
+            "hive": "hive_0020.jpg",
+            "hqedit": "hqedit_0020.jpg",
+            "iedit": "iedit_0020.jpg",
+            "instruct-diffusion": "instruct-diffusion_0020.jpg",
+            "instructpix2pix": "instructpix2pix_0020.jpg",
+            "magicbrush": "magicbrush_0020.jpg",
+            "mgie": "mgie_0020.jpg"
+        }
+    },
+    "154": {
+        "category": "WatermarkRemoval",
+        "image_id": "75",
+        "image_name": "0075.jpg",
+        "metadata": {
+            "image": "0075.jpg",
+            "ori_exp": "Remove the watermark from the image.",
+            "div_exp": "Abandon the watermark symbol.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0075.jpg",
+            "hive": "hive_0075.jpg",
+            "hqedit": "hqedit_0075.jpg",
+            "iedit": "iedit_0075.jpg",
+            "instruct-diffusion": "instruct-diffusion_0075.jpg",
+            "instructpix2pix": "instructpix2pix_0075.jpg",
+            "magicbrush": "magicbrush_0075.jpg",
+            "mgie": "mgie_0075.jpg"
+        }
+    },
+    "155": {
+        "category": "WatermarkRemoval",
+        "image_id": "97",
+        "image_name": "0097.jpg",
+        "metadata": {
+            "image": "0097.jpg",
+            "ori_exp": "Remove the watermark from the image.",
+            "div_exp": "Eliminate the watermark icon.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0097.jpg",
+            "hive": "hive_0097.jpg",
+            "hqedit": "hqedit_0097.jpg",
+            "iedit": "iedit_0097.jpg",
+            "instruct-diffusion": "instruct-diffusion_0097.jpg",
+            "instructpix2pix": "instructpix2pix_0097.jpg",
+            "magicbrush": "magicbrush_0097.jpg",
+            "mgie": "mgie_0097.jpg"
+        }
+    },
+    "156": {
+        "category": "WatermarkRemoval",
+        "image_id": "132",
+        "image_name": "0132.jpg",
+        "metadata": {
+            "image": "0132.jpg",
+            "ori_exp": "Remove the watermark from the image.",
+            "div_exp": "Remove the watermark seal.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0132.jpg",
+            "hive": "hive_0132.jpg",
+            "hqedit": "hqedit_0132.jpg",
+            "iedit": "iedit_0132.jpg",
+            "instruct-diffusion": "instruct-diffusion_0132.jpg",
+            "instructpix2pix": "instructpix2pix_0132.jpg",
+            "magicbrush": "magicbrush_0132.jpg",
+            "mgie": "mgie_0132.jpg"
+        }
+    },
+    "157": {
+        "category": "WatermarkRemoval",
+        "image_id": "139",
+        "image_name": "0139.jpg",
+        "metadata": {
+            "image": "0139.jpg",
+            "ori_exp": "Remove the watermark from the image.",
+            "div_exp": "Remove the watermark insignia.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0139.jpg",
+            "hive": "hive_0139.jpg",
+            "hqedit": "hqedit_0139.jpg",
+            "iedit": "iedit_0139.jpg",
+            "instruct-diffusion": "instruct-diffusion_0139.jpg",
+            "instructpix2pix": "instructpix2pix_0139.jpg",
+            "magicbrush": "magicbrush_0139.jpg",
+            "mgie": "mgie_0139.jpg"
+        }
+    },
+    "158": {
+        "category": "WatermarkRemoval",
+        "image_id": "26",
+        "image_name": "0026.jpg",
+        "metadata": {
+            "image": "0026.jpg",
+            "ori_exp": "Remove the watermark from the image.",
+            "div_exp": "Annihilate the watermark.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0026.jpg",
+            "hive": "hive_0026.jpg",
+            "hqedit": "hqedit_0026.jpg",
+            "iedit": "iedit_0026.jpg",
+            "instruct-diffusion": "instruct-diffusion_0026.jpg",
+            "instructpix2pix": "instructpix2pix_0026.jpg",
+            "magicbrush": "magicbrush_0026.jpg",
+            "mgie": "mgie_0026.jpg"
+        }
+    },
+    "159": {
+        "category": "WatermarkRemoval",
+        "image_id": "3",
+        "image_name": "0003.jpg",
+        "metadata": {
+            "image": "0003.jpg",
+            "ori_exp": "Remove the watermark from the image.",
+            "div_exp": "Delete the watermark from the graphic.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0003.jpg",
+            "hive": "hive_0003.jpg",
+            "hqedit": "hqedit_0003.jpg",
+            "iedit": "iedit_0003.jpg",
+            "instruct-diffusion": "instruct-diffusion_0003.jpg",
+            "instructpix2pix": "instructpix2pix_0003.jpg",
+            "magicbrush": "magicbrush_0003.jpg",
+            "mgie": "mgie_0003.jpg"
+        }
+    },
+    "160": {
+        "category": "WatermarkRemoval",
+        "image_id": "98",
+        "image_name": "0098.jpg",
+        "metadata": {
+            "image": "0098.jpg",
+            "ori_exp": "Remove the watermark from the image.",
+            "div_exp": "Expunge the watermark figure.",
+            "type": "global"
+        },
+        "model_outputs": {
+            "any2pix": "any2pix_0098.jpg",
+            "hive": "hive_0098.jpg",
+            "hqedit": "hqedit_0098.jpg",
+            "iedit": "iedit_0098.jpg",
+            "instruct-diffusion": "instruct-diffusion_0098.jpg",
+            "instructpix2pix": "instructpix2pix_0098.jpg",
+            "magicbrush": "magicbrush_0098.jpg",
+            "mgie": "mgie_0098.jpg"
+        }
+    }
+}

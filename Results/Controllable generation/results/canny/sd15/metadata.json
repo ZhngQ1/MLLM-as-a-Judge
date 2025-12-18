@@ -1,0 +1,302 @@
+[
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/101027.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/101027_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/103029.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/103029_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/103078.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/103078_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/104055.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/104055_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/105027.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/105027_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/107014.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/107014_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/107072.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/107072_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/108069.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/108069_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/117025.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/117025_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/118031.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/118031_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/118072.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/118072_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/130014.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/130014_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/14085.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/14085_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/141048.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/141048_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/146074.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/146074_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/147077.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/147077_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/15062.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/15062_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/159002.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/159002_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/159022.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/159022_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/163004.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/163004_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/175083.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/175083_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/176051.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/176051_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/179084.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/179084_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/188025.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/188025_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/189006.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/189006_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/189029.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/189029_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/196027.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/196027_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/196040.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/196040_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/196062.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/196062_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/209021.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/209021_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/228076.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/228076_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/23050.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/23050_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/238025.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/238025_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/247012.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/247012_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/253016.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/253016_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/258089.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/258089_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/335094.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/335094_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/35028.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/35028_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/372019.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/372019_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/385022.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/385022_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/43033.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/43033_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/45000.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/45000_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/48025.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/48025_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/65084.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/65084_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/69007.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/69007_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/70011.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/70011_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/70090.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/70090_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/77062.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/77062_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/87015.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/87015_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    },
+    {
+        "task": "canny",
+        "condition": "../../../mini_data/ctrl_gen/canny/conditions/94095.jpg",
+        "output": "../../../Model/ctrl_gen/results/canny/sd15/94095_sd15.png",
+        "prompt": "a high quality photograph, detailed, sharp focus, professional"
+    }
+]
