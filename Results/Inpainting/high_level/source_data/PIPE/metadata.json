@@ -1,0 +1,452 @@
+[
+  {
+    "id": "0000",
+    "source_image": "images/0000_source.png",
+    "mask": "masks/0000_mask.png",
+    "prompt": "add a toilet at the bottom left",
+    "img_id": "59920",
+    "ann_id": "1093217",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0001",
+    "source_image": "images/0001_source.png",
+    "mask": "masks/0001_mask.png",
+    "prompt": "Add a green Penn ball",
+    "img_id": "179285",
+    "ann_id": "302455",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0002",
+    "source_image": "images/0002_source.png",
+    "mask": "masks/0002_mask.png",
+    "prompt": "add a laptop",
+    "img_id": "527427",
+    "ann_id": "1098050",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0003",
+    "source_image": "images/0003_source.png",
+    "mask": "masks/0003_mask.png",
+    "prompt": "add a bowl at the center",
+    "img_id": "177489",
+    "ann_id": "712027",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0004",
+    "source_image": "images/0004_source.png",
+    "mask": "masks/0004_mask.png",
+    "prompt": "Add a pair of black, slender skis with bindings",
+    "img_id": "301563",
+    "ann_id": "611537",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0005",
+    "source_image": "images/0005_source.png",
+    "mask": "masks/0005_mask.png",
+    "prompt": "Add a light-colored plastic frisbee",
+    "img_id": "125405",
+    "ann_id": "1448478",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0006",
+    "source_image": "images/0006_source.png",
+    "mask": "masks/0006_mask.png",
+    "prompt": "Add a brown bear with a pronounced snout and partially closed eyes",
+    "img_id": "205776",
+    "ann_id": "586450",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0007",
+    "source_image": "images/0007_source.png",
+    "mask": "masks/0007_mask.png",
+    "prompt": "add a bus at the center",
+    "img_id": "206487",
+    "ann_id": "165101",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0008",
+    "source_image": "images/0008_source.png",
+    "mask": "masks/0008_mask.png",
+    "prompt": "Add a silver hatchback car with a license plate",
+    "img_id": "17627",
+    "ann_id": "141859",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0009",
+    "source_image": "images/0009_source.png",
+    "mask": "masks/0009_mask.png",
+    "prompt": "Add a white tennis racket",
+    "img_id": "19432",
+    "ann_id": "655150",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0010",
+    "source_image": "images/0010_source.png",
+    "mask": "masks/0010_mask.png",
+    "prompt": "add a bear at the right",
+    "img_id": "165500",
+    "ann_id": "586757",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0011",
+    "source_image": "images/0011_source.png",
+    "mask": "masks/0011_mask.png",
+    "prompt": "add a handbag",
+    "img_id": "16451",
+    "ann_id": "1837105",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0012",
+    "source_image": "images/0012_source.png",
+    "mask": "masks/0012_mask.png",
+    "prompt": "Add a silver sports car",
+    "img_id": "17178",
+    "ann_id": "140522",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0013",
+    "source_image": "images/0013_source.png",
+    "mask": "masks/0013_mask.png",
+    "prompt": "Add a brown and white medium-sized dog",
+    "img_id": "125405",
+    "ann_id": "17207",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0014",
+    "source_image": "images/0014_source.png",
+    "mask": "masks/0014_mask.png",
+    "prompt": "Add a vintage purple phone",
+    "img_id": "493334",
+    "ann_id": "324466",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0015",
+    "source_image": "images/0015_source.png",
+    "mask": "masks/0015_mask.png",
+    "prompt": "Add long, slender skis with a blueish tint",
+    "img_id": "129812",
+    "ann_id": "609899",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0016",
+    "source_image": "images/0016_source.png",
+    "mask": "masks/0016_mask.png",
+    "prompt": "Add a black, leather-upholstered couch with a wooden frame and a decorative pillow",
+    "img_id": "463618",
+    "ann_id": "113558",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0017",
+    "source_image": "images/0017_source.png",
+    "mask": "masks/0017_mask.png",
+    "prompt": "add a bowl at the bottom left",
+    "img_id": "52996",
+    "ann_id": "711283",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0018",
+    "source_image": "images/0018_source.png",
+    "mask": "masks/0018_mask.png",
+    "prompt": "add a remote at the center",
+    "img_id": "564280",
+    "ann_id": "1110107",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0019",
+    "source_image": "images/0019_source.png",
+    "mask": "masks/0019_mask.png",
+    "prompt": "add a sandwich",
+    "img_id": "256518",
+    "ann_id": "1555182",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0020",
+    "source_image": "images/0020_source.png",
+    "mask": "masks/0020_mask.png",
+    "prompt": "Add a slender, long, wooden baseball bat",
+    "img_id": "182021",
+    "ann_id": "629337",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0021",
+    "source_image": "images/0021_source.png",
+    "mask": "masks/0021_mask.png",
+    "prompt": "add a baseball glove at the center left",
+    "img_id": "448263",
+    "ann_id": "1472639",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0022",
+    "source_image": "images/0022_source.png",
+    "mask": "masks/0022_mask.png",
+    "prompt": "add a horse",
+    "img_id": "227686",
+    "ann_id": "55405",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0023",
+    "source_image": "images/0023_source.png",
+    "mask": "masks/0023_mask.png",
+    "prompt": "add a boat at the center",
+    "img_id": "511599",
+    "ann_id": "176749",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0024",
+    "source_image": "images/0024_source.png",
+    "mask": "masks/0024_mask.png",
+    "prompt": "add a bicycle at the center bottom",
+    "img_id": "291634",
+    "ann_id": "128292",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0025",
+    "source_image": "images/0025_source.png",
+    "mask": "masks/0025_mask.png",
+    "prompt": "Add a blue kite with Toy Story characters",
+    "img_id": "256775",
+    "ann_id": "1464082",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0026",
+    "source_image": "images/0026_source.png",
+    "mask": "masks/0026_mask.png",
+    "prompt": "Add a sailboat with a tall mast and a white and yellow hull",
+    "img_id": "377882",
+    "ann_id": "178903",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0027",
+    "source_image": "images/0027_source.png",
+    "mask": "masks/0027_mask.png",
+    "prompt": "Add a round, white clock with black numerals and a gold rim",
+    "img_id": "455352",
+    "ann_id": "338013",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0028",
+    "source_image": "images/0028_source.png",
+    "mask": "masks/0028_mask.png",
+    "prompt": "add an umbrella",
+    "img_id": "212573",
+    "ann_id": "282719",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0029",
+    "source_image": "images/0029_source.png",
+    "mask": "masks/0029_mask.png",
+    "prompt": "Add a tall giraffe with a long neck and spotted coat",
+    "img_id": "528862",
+    "ann_id": "1823397",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0030",
+    "source_image": "images/0030_source.png",
+    "mask": "masks/0030_mask.png",
+    "prompt": "add a pizza",
+    "img_id": "161925",
+    "ann_id": "1075616",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0031",
+    "source_image": "images/0031_source.png",
+    "mask": "masks/0031_mask.png",
+    "prompt": "Add a wooden chair with a dark finish and vertical slats on the backrest",
+    "img_id": "293858",
+    "ann_id": "100556",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0032",
+    "source_image": "images/0032_source.png",
+    "mask": "masks/0032_mask.png",
+    "prompt": "Add a white toilet with a raised lid, placed outdoors on grass",
+    "img_id": "89761",
+    "ann_id": "1093728",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0033",
+    "source_image": "images/0033_source.png",
+    "mask": "masks/0033_mask.png",
+    "prompt": "Add a long, slender wood bat",
+    "img_id": "248752",
+    "ann_id": "630007",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0034",
+    "source_image": "images/0034_source.png",
+    "mask": "masks/0034_mask.png",
+    "prompt": "add a couch at the bottom left",
+    "img_id": "125778",
+    "ann_id": "99829",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0035",
+    "source_image": "images/0035_source.png",
+    "mask": "masks/0035_mask.png",
+    "prompt": "add a cow",
+    "img_id": "105264",
+    "ann_id": "71190",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0036",
+    "source_image": "images/0036_source.png",
+    "mask": "masks/0036_mask.png",
+    "prompt": "Add a plush purple couch",
+    "img_id": "546964",
+    "ann_id": "115055",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0037",
+    "source_image": "images/0037_source.png",
+    "mask": "masks/0037_mask.png",
+    "prompt": "Add a black, sturdy backpack",
+    "img_id": "9891",
+    "ann_id": "1416805",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0038",
+    "source_image": "images/0038_source.png",
+    "mask": "masks/0038_mask.png",
+    "prompt": "add a cat at the center",
+    "img_id": "14007",
+    "ann_id": "48706",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0039",
+    "source_image": "images/0039_source.png",
+    "mask": "masks/0039_mask.png",
+    "prompt": "Add a black, cylindrical parking meter with a digital display",
+    "img_id": "369751",
+    "ann_id": "1390333",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0040",
+    "source_image": "images/0040_source.png",
+    "mask": "masks/0040_mask.png",
+    "prompt": "Add a gray elephant",
+    "img_id": "389316",
+    "ann_id": "584767",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0041",
+    "source_image": "images/0041_source.png",
+    "mask": "masks/0041_mask.png",
+    "prompt": "Add a blue and white toothbrush with a rectangular head and multiple bristles",
+    "img_id": "560474",
+    "ann_id": "341675",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0042",
+    "source_image": "images/0042_source.png",
+    "mask": "masks/0042_mask.png",
+    "prompt": "add a bird at the center",
+    "img_id": "505565",
+    "ann_id": "38579",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0043",
+    "source_image": "images/0043_source.png",
+    "mask": "masks/0043_mask.png",
+    "prompt": "Add a black ThinkPad laptop with a sticker on its lid",
+    "img_id": "166478",
+    "ann_id": "1100885",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0044",
+    "source_image": "images/0044_source.png",
+    "mask": "masks/0044_mask.png",
+    "prompt": "Add a light-colored plastic frisbee",
+    "img_id": "442836",
+    "ann_id": "604232",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0045",
+    "source_image": "images/0045_source.png",
+    "mask": "masks/0045_mask.png",
+    "prompt": "Add a round woven dining table",
+    "img_id": "140439",
+    "ann_id": "320339",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0046",
+    "source_image": "images/0046_source.png",
+    "mask": "masks/0046_mask.png",
+    "prompt": "add a microwave at the center",
+    "img_id": "453302",
+    "ann_id": "1978587",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0047",
+    "source_image": "images/0047_source.png",
+    "mask": "masks/0047_mask.png",
+    "prompt": "add a backpack",
+    "img_id": "351810",
+    "ann_id": "1828092",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0048",
+    "source_image": "images/0048_source.png",
+    "mask": "masks/0048_mask.png",
+    "prompt": "Add a red fire hydrant",
+    "img_id": "15746",
+    "ann_id": "417096",
+    "target_img_dataset": "COCO"
+  },
+  {
+    "id": "0049",
+    "source_image": "images/0049_source.png",
+    "mask": "masks/0049_mask.png",
+    "prompt": "Add a wooden chair with a metallic frame and a cushioned seat",
+    "img_id": "489764",
+    "ann_id": "2121810",
+    "target_img_dataset": "COCO"
+  }
+]
