@@ -1,0 +1,4948 @@
+[
+  {
+    "dataset": "coco300",
+    "image_name": "000000319607.jpg",
+    "original_path": "images/coco300_000000319607.jpg",
+    "num_models": 4,
+    "variance_score": 0.219178,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8s": 0.0,
+      "yolo8m": 0.9648,
+      "yolo8l": 0.9414
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000039405.jpg",
+    "original_path": "images/coco300_000000039405.jpg",
+    "num_models": 7,
+    "variance_score": 0.175101,
+    "model_scores": {
+      "dwpose": 0.3515,
+      "openpose": 0.0,
+      "yolo8n": 0.9182,
+      "yolo8s": 0.9281,
+      "yolo8m": 0.9665,
+      "yolo8l": 0.9712,
+      "yolo11n": 0.0
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000513283.jpg",
+    "original_path": "images/coco300_000000513283.jpg",
+    "num_models": 4,
+    "variance_score": 0.171944,
+    "model_scores": {
+      "dwpose": 0.0002,
+      "openpose": 0.0,
+      "yolo8m": 0.799,
+      "yolo8l": 0.921
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000094185.jpg",
+    "original_path": "images/coco300_000000094185.jpg",
+    "num_models": 7,
+    "variance_score": 0.151158,
+    "model_scores": {
+      "dwpose": 0.2647,
+      "openpose": 0.2351,
+      "yolo8n": 0.0,
+      "yolo8s": 0.8816,
+      "yolo8m": 0.9149,
+      "yolo8l": 0.9394,
+      "yolo11n": 0.0
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000563648.jpg",
+    "original_path": "images/coco300_000000563648.jpg",
+    "num_models": 8,
+    "variance_score": 0.14857,
+    "model_scores": {
+      "dwpose": 0.0294,
+      "mediapipe": 0.2736,
+      "openpose": 0.0525,
+      "yolo8n": 0.7364,
+      "yolo8s": 0.9547,
+      "yolo8m": 0.9568,
+      "yolo8l": 0.9715,
+      "yolo11n": 0.9493
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000426795.jpg",
+    "original_path": "images/coco300_000000426795.jpg",
+    "num_models": 8,
+    "variance_score": 0.146059,
+    "model_scores": {
+      "dwpose": 0.0012,
+      "mediapipe": 0.1022,
+      "openpose": 0.9518,
+      "yolo8n": 0.9185,
+      "yolo8s": 0.9481,
+      "yolo8m": 0.9736,
+      "yolo8l": 0.9771,
+      "yolo11n": 0.8726
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000078748.jpg",
+    "original_path": "images/coco300_000000078748.jpg",
+    "num_models": 8,
+    "variance_score": 0.145957,
+    "model_scores": {
+      "dwpose": 0.0286,
+      "mediapipe": 0.0711,
+      "openpose": 0.3515,
+      "yolo8n": 0.7064,
+      "yolo8s": 0.9765,
+      "yolo8m": 0.9825,
+      "yolo8l": 0.9819,
+      "yolo11n": 0.9438
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000180560.jpg",
+    "original_path": "images/coco300_000000180560.jpg",
+    "num_models": 8,
+    "variance_score": 0.144324,
+    "model_scores": {
+      "dwpose": 0.0081,
+      "mediapipe": 0.1097,
+      "openpose": 0.8524,
+      "yolo8n": 0.9492,
+      "yolo8s": 0.9455,
+      "yolo8m": 0.9793,
+      "yolo8l": 0.9822,
+      "yolo11n": 0.9416
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000011511.jpg",
+    "original_path": "images/coco300_000000011511.jpg",
+    "num_models": 7,
+    "variance_score": 0.138472,
+    "model_scores": {
+      "dwpose": 0.1095,
+      "openpose": 0.1087,
+      "yolo8n": 0.4421,
+      "yolo8s": 0.0,
+      "yolo8m": 0.0,
+      "yolo8l": 0.9018,
+      "yolo11n": 0.9442
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000001296.jpg",
+    "original_path": "images/coco300_000000001296.jpg",
+    "num_models": 8,
+    "variance_score": 0.137731,
+    "model_scores": {
+      "dwpose": 0.0009,
+      "mediapipe": 0.138,
+      "openpose": 0.8292,
+      "yolo8n": 0.4706,
+      "yolo8s": 0.9539,
+      "yolo8m": 0.9655,
+      "yolo8l": 0.9727,
+      "yolo11n": 0.9516
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000167067.jpg",
+    "original_path": "images/coco300_000000167067.jpg",
+    "num_models": 8,
+    "variance_score": 0.137048,
+    "model_scores": {
+      "dwpose": 0.0032,
+      "mediapipe": 0.1148,
+      "openpose": 0.7859,
+      "yolo8n": 0.9436,
+      "yolo8s": 0.9515,
+      "yolo8m": 0.9599,
+      "yolo8l": 0.976,
+      "yolo11n": 0.8588
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000356612.jpg",
+    "original_path": "images/coco300_000000356612.jpg",
+    "num_models": 6,
+    "variance_score": 0.136827,
+    "model_scores": {
+      "dwpose": 0.1342,
+      "yolo8n": 0.8556,
+      "yolo8s": 0.9063,
+      "yolo8m": 0.9119,
+      "yolo8l": 0.0,
+      "yolo11n": 0.8599
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000334555.jpg",
+    "original_path": "images/coco300_000000334555.jpg",
+    "num_models": 8,
+    "variance_score": 0.135088,
+    "model_scores": {
+      "dwpose": 0.2021,
+      "mediapipe": 0.0,
+      "openpose": 0.7831,
+      "yolo8n": 0.8772,
+      "yolo8s": 0.9839,
+      "yolo8m": 0.9857,
+      "yolo8l": 0.9854,
+      "yolo11n": 0.9857
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000026941.jpg",
+    "original_path": "images/coco300_000000026941.jpg",
+    "num_models": 7,
+    "variance_score": 0.134306,
+    "model_scores": {
+      "dwpose": 0.1411,
+      "mediapipe": 0.0,
+      "yolo8n": 0.9156,
+      "yolo8s": 0.8972,
+      "yolo8m": 0.8699,
+      "yolo8l": 0.944,
+      "yolo11n": 0.8716
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000245026.jpg",
+    "original_path": "images/coco300_000000245026.jpg",
+    "num_models": 8,
+    "variance_score": 0.132438,
+    "model_scores": {
+      "dwpose": 0.0017,
+      "mediapipe": 0.1211,
+      "openpose": 0.8276,
+      "yolo8n": 0.9059,
+      "yolo8s": 0.9158,
+      "yolo8m": 0.9244,
+      "yolo8l": 0.9087,
+      "yolo11n": 0.9698
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000299553.jpg",
+    "original_path": "images/coco300_000000299553.jpg",
+    "num_models": 5,
+    "variance_score": 0.13188,
+    "model_scores": {
+      "dwpose": 0.2272,
+      "yolo8n": 0.9579,
+      "yolo8m": 0.0,
+      "yolo8l": 0.0,
+      "yolo11n": 0.0
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000439180.jpg",
+    "original_path": "images/coco300_000000439180.jpg",
+    "num_models": 8,
+    "variance_score": 0.130016,
+    "model_scores": {
+      "dwpose": 0.0517,
+      "mediapipe": 0.1967,
+      "openpose": 0.3642,
+      "yolo8n": 0.5548,
+      "yolo8s": 0.0,
+      "yolo8m": 0.0,
+      "yolo8l": 0.9456,
+      "yolo11n": 0.9449
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000420281.jpg",
+    "original_path": "images/coco300_000000420281.jpg",
+    "num_models": 8,
+    "variance_score": 0.128322,
+    "model_scores": {
+      "dwpose": 0.0017,
+      "mediapipe": 0.1289,
+      "openpose": 0.7741,
+      "yolo8n": 0.905,
+      "yolo8s": 0.9342,
+      "yolo8m": 0.958,
+      "yolo8l": 0.9491,
+      "yolo11n": 0.8712
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000015956.jpg",
+    "original_path": "images/coco300_000000015956.jpg",
+    "num_models": 8,
+    "variance_score": 0.127941,
+    "model_scores": {
+      "dwpose": 0.1525,
+      "mediapipe": 0.0073,
+      "openpose": 0.7404,
+      "yolo8n": 0.7865,
+      "yolo8s": 0.9247,
+      "yolo8m": 0.9746,
+      "yolo8l": 0.9771,
+      "yolo11n": 0.9548
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000062808.jpg",
+    "original_path": "images/coco300_000000062808.jpg",
+    "num_models": 8,
+    "variance_score": 0.12774,
+    "model_scores": {
+      "dwpose": 0.0224,
+      "mediapipe": 0.1931,
+      "openpose": 0.9269,
+      "yolo8n": 0.9514,
+      "yolo8s": 0.9697,
+      "yolo8m": 0.966,
+      "yolo8l": 0.975,
+      "yolo11n": 0.8825
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000407083.jpg",
+    "original_path": "images/coco300_000000407083.jpg",
+    "num_models": 6,
+    "variance_score": 0.127445,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8n": 0.9205,
+      "yolo8s": 0.9683,
+      "yolo8m": 0.9895,
+      "yolo8l": 0.9905,
+      "yolo11n": 0.9303
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000319534.jpg",
+    "original_path": "images/coco300_000000319534.jpg",
+    "num_models": 8,
+    "variance_score": 0.127388,
+    "model_scores": {
+      "dwpose": 0.0343,
+      "mediapipe": 0.1953,
+      "openpose": 0.8444,
+      "yolo8n": 0.4467,
+      "yolo8s": 0.97,
+      "yolo8m": 0.9704,
+      "yolo8l": 0.981,
+      "yolo11n": 0.9705
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000110042.jpg",
+    "original_path": "images/coco300_000000110042.jpg",
+    "num_models": 7,
+    "variance_score": 0.127263,
+    "model_scores": {
+      "dwpose": 0.1318,
+      "openpose": 0.0,
+      "yolo8n": 0.7409,
+      "yolo8s": 0.8713,
+      "yolo8m": 0.9373,
+      "yolo8l": 0.9075,
+      "yolo11n": 0.8829
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000382125.jpg",
+    "original_path": "images/coco300_000000382125.jpg",
+    "num_models": 8,
+    "variance_score": 0.125207,
+    "model_scores": {
+      "dwpose": 0.0421,
+      "mediapipe": 0.1122,
+      "openpose": 0.7726,
+      "yolo8n": 0.7079,
+      "yolo8s": 0.9791,
+      "yolo8m": 0.985,
+      "yolo8l": 0.9587,
+      "yolo11n": 0.9323
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000422670.jpg",
+    "original_path": "images/coco300_000000422670.jpg",
+    "num_models": 8,
+    "variance_score": 0.124579,
+    "model_scores": {
+      "dwpose": 0.0018,
+      "mediapipe": 0.1,
+      "openpose": 0.6989,
+      "yolo8n": 0.9262,
+      "yolo8s": 0.8283,
+      "yolo8m": 0.9204,
+      "yolo8l": 0.9186,
+      "yolo11n": 0.9411
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000058350.jpg",
+    "original_path": "images/coco300_000000058350.jpg",
+    "num_models": 8,
+    "variance_score": 0.124323,
+    "model_scores": {
+      "dwpose": 0.0601,
+      "mediapipe": 0.1388,
+      "openpose": 0.8855,
+      "yolo8n": 0.9321,
+      "yolo8s": 0.9674,
+      "yolo8m": 0.9646,
+      "yolo8l": 0.9808,
+      "yolo11n": 0.9369
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000449909.jpg",
+    "original_path": "images/coco300_000000449909.jpg",
+    "num_models": 7,
+    "variance_score": 0.121845,
+    "model_scores": {
+      "dwpose": 0.089,
+      "openpose": 0.0,
+      "yolo8n": 0.8204,
+      "yolo8s": 0.8992,
+      "yolo8m": 0.9082,
+      "yolo8l": 0.883,
+      "yolo11n": 0.6753
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000060102.jpg",
+    "original_path": "images/coco300_000000060102.jpg",
+    "num_models": 8,
+    "variance_score": 0.121232,
+    "model_scores": {
+      "dwpose": 0.01,
+      "mediapipe": 0.2458,
+      "openpose": 0.8694,
+      "yolo8n": 0.947,
+      "yolo8s": 0.9514,
+      "yolo8m": 0.956,
+      "yolo8l": 0.9686,
+      "yolo11n": 0.9184
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000374083.jpg",
+    "original_path": "images/coco300_000000374083.jpg",
+    "num_models": 8,
+    "variance_score": 0.120059,
+    "model_scores": {
+      "dwpose": 0.0624,
+      "mediapipe": 0.1645,
+      "openpose": 0.8526,
+      "yolo8n": 0.9003,
+      "yolo8s": 0.9813,
+      "yolo8m": 0.9789,
+      "yolo8l": 0.9738,
+      "yolo11n": 0.9569
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000099054.jpg",
+    "original_path": "images/coco300_000000099054.jpg",
+    "num_models": 6,
+    "variance_score": 0.119933,
+    "model_scores": {
+      "dwpose": 0.041,
+      "yolo8n": 0.3437,
+      "yolo8s": 0.9034,
+      "yolo8m": 0.9572,
+      "yolo8l": 0.9647,
+      "yolo11n": 0.3806
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000494869.jpg",
+    "original_path": "images/coco300_000000494869.jpg",
+    "num_models": 8,
+    "variance_score": 0.119423,
+    "model_scores": {
+      "dwpose": 0.0611,
+      "mediapipe": 0.1936,
+      "openpose": 0.846,
+      "yolo8n": 0.9592,
+      "yolo8s": 0.9827,
+      "yolo8m": 0.9883,
+      "yolo8l": 0.9872,
+      "yolo11n": 0.9135
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000001000.jpg",
+    "original_path": "images/coco300_000000001000.jpg",
+    "num_models": 8,
+    "variance_score": 0.119311,
+    "model_scores": {
+      "dwpose": 0.0457,
+      "mediapipe": 0.2065,
+      "openpose": 0.7506,
+      "yolo8n": 0.8842,
+      "yolo8s": 0.9845,
+      "yolo8m": 0.9836,
+      "yolo8l": 0.9876,
+      "yolo11n": 0.9571
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000363188.jpg",
+    "original_path": "images/coco300_000000363188.jpg",
+    "num_models": 8,
+    "variance_score": 0.118672,
+    "model_scores": {
+      "dwpose": 0.0403,
+      "mediapipe": 0.1907,
+      "openpose": 0.9011,
+      "yolo8n": 0.8061,
+      "yolo8s": 0.955,
+      "yolo8m": 0.975,
+      "yolo8l": 0.9624,
+      "yolo11n": 0.9532
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000396518.jpg",
+    "original_path": "images/coco300_000000396518.jpg",
+    "num_models": 8,
+    "variance_score": 0.117104,
+    "model_scores": {
+      "dwpose": 0.0578,
+      "mediapipe": 0.0862,
+      "openpose": 0.8968,
+      "yolo8n": 0.85,
+      "yolo8s": 0.9243,
+      "yolo8m": 0.916,
+      "yolo8l": 0.9603,
+      "yolo11n": 0.8526
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000493905.jpg",
+    "original_path": "images/coco300_000000493905.jpg",
+    "num_models": 8,
+    "variance_score": 0.116763,
+    "model_scores": {
+      "dwpose": 0.0645,
+      "mediapipe": 0.4775,
+      "openpose": 0.1692,
+      "yolo8n": 0.7984,
+      "yolo8s": 0.9758,
+      "yolo8m": 0.975,
+      "yolo8l": 0.9724,
+      "yolo11n": 0.9462
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000206411.jpg",
+    "original_path": "images/coco300_000000206411.jpg",
+    "num_models": 6,
+    "variance_score": 0.115914,
+    "model_scores": {
+      "dwpose": 0.0003,
+      "yolo8n": 0.9477,
+      "yolo8s": 0.786,
+      "yolo8m": 0.9552,
+      "yolo8l": 0.9876,
+      "yolo11n": 0.8089
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000447611.jpg",
+    "original_path": "images/coco300_000000447611.jpg",
+    "num_models": 6,
+    "variance_score": 0.11519,
+    "model_scores": {
+      "dwpose": 0.1708,
+      "yolo8n": 0.0,
+      "yolo8s": 0.8932,
+      "yolo8m": 0.8314,
+      "yolo8l": 0.762,
+      "yolo11n": 0.8552
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000500478.jpg",
+    "original_path": "images/coco300_000000500478.jpg",
+    "num_models": 8,
+    "variance_score": 0.114412,
+    "model_scores": {
+      "dwpose": 0.0302,
+      "mediapipe": 0.4255,
+      "openpose": 0.2745,
+      "yolo8n": 0.7776,
+      "yolo8s": 0.9749,
+      "yolo8m": 0.9783,
+      "yolo8l": 0.9769,
+      "yolo11n": 0.885
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000345466.jpg",
+    "original_path": "images/coco300_000000345466.jpg",
+    "num_models": 8,
+    "variance_score": 0.113303,
+    "model_scores": {
+      "dwpose": 0.1071,
+      "mediapipe": 0.2559,
+      "openpose": 0.3734,
+      "yolo8n": 0.9056,
+      "yolo8s": 0.9887,
+      "yolo8m": 0.9884,
+      "yolo8l": 0.992,
+      "yolo11n": 0.9735
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000082688.jpg",
+    "original_path": "images/coco300_000000082688.jpg",
+    "num_models": 8,
+    "variance_score": 0.113064,
+    "model_scores": {
+      "dwpose": 0.0161,
+      "mediapipe": 0.2351,
+      "openpose": 0.7753,
+      "yolo8n": 0.9154,
+      "yolo8s": 0.9558,
+      "yolo8m": 0.9239,
+      "yolo8l": 0.9527,
+      "yolo11n": 0.9197
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000350148.jpg",
+    "original_path": "images/coco300_000000350148.jpg",
+    "num_models": 8,
+    "variance_score": 0.112825,
+    "model_scores": {
+      "dwpose": 0.0732,
+      "mediapipe": 0.1157,
+      "openpose": 0.5226,
+      "yolo8n": 0.7718,
+      "yolo8s": 0.9783,
+      "yolo8m": 0.9641,
+      "yolo8l": 0.9661,
+      "yolo11n": 0.8549
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000005193.jpg",
+    "original_path": "images/coco300_000000005193.jpg",
+    "num_models": 8,
+    "variance_score": 0.111877,
+    "model_scores": {
+      "dwpose": 0.0354,
+      "mediapipe": 0.1827,
+      "openpose": 0.7331,
+      "yolo8n": 0.8411,
+      "yolo8s": 0.9001,
+      "yolo8m": 0.9514,
+      "yolo8l": 0.9769,
+      "yolo11n": 0.9027
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000293794.jpg",
+    "original_path": "images/coco300_000000293794.jpg",
+    "num_models": 7,
+    "variance_score": 0.111513,
+    "model_scores": {
+      "dwpose": 0.101,
+      "openpose": 0.0436,
+      "yolo8n": 0.8301,
+      "yolo8s": 0.6276,
+      "yolo8m": 0.9103,
+      "yolo8l": 0.7508,
+      "yolo11n": 0.9545
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000334399.jpg",
+    "original_path": "images/coco300_000000334399.jpg",
+    "num_models": 8,
+    "variance_score": 0.111471,
+    "model_scores": {
+      "dwpose": 0.0601,
+      "mediapipe": 0.2402,
+      "openpose": 0.8615,
+      "yolo8n": 0.9031,
+      "yolo8s": 0.9691,
+      "yolo8m": 0.9806,
+      "yolo8l": 0.9731,
+      "yolo11n": 0.9656
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000210230.jpg",
+    "original_path": "images/coco300_000000210230.jpg",
+    "num_models": 8,
+    "variance_score": 0.11089,
+    "model_scores": {
+      "dwpose": 0.023,
+      "mediapipe": 0.3532,
+      "openpose": 0.8405,
+      "yolo8n": 0.5598,
+      "yolo8s": 0.9832,
+      "yolo8m": 0.9794,
+      "yolo8l": 0.9833,
+      "yolo11n": 0.9608
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000194716.jpg",
+    "original_path": "images/coco300_000000194716.jpg",
+    "num_models": 8,
+    "variance_score": 0.110117,
+    "model_scores": {
+      "dwpose": 0.0805,
+      "mediapipe": 0.1387,
+      "openpose": 0.7922,
+      "yolo8n": 0.8486,
+      "yolo8s": 0.9567,
+      "yolo8m": 0.9573,
+      "yolo8l": 0.966,
+      "yolo11n": 0.9522
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000236426.jpg",
+    "original_path": "images/coco300_000000236426.jpg",
+    "num_models": 8,
+    "variance_score": 0.109954,
+    "model_scores": {
+      "dwpose": 0.0552,
+      "mediapipe": 0.4906,
+      "openpose": 0.2952,
+      "yolo8n": 0.5915,
+      "yolo8s": 0.9843,
+      "yolo8m": 0.9822,
+      "yolo8l": 0.9871,
+      "yolo11n": 0.9703
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000341973.jpg",
+    "original_path": "images/coco300_000000341973.jpg",
+    "num_models": 8,
+    "variance_score": 0.109405,
+    "model_scores": {
+      "dwpose": 0.0333,
+      "mediapipe": 0.1054,
+      "openpose": 0.7983,
+      "yolo8n": 0.8635,
+      "yolo8s": 0.9173,
+      "yolo8m": 0.9248,
+      "yolo8l": 0.8847,
+      "yolo11n": 0.8475
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000244750.jpg",
+    "original_path": "images/coco300_000000244750.jpg",
+    "num_models": 8,
+    "variance_score": 0.109347,
+    "model_scores": {
+      "dwpose": 0.0331,
+      "mediapipe": 0.1504,
+      "openpose": 0.6675,
+      "yolo8n": 0.6974,
+      "yolo8s": 0.9454,
+      "yolo8m": 0.9453,
+      "yolo8l": 0.9507,
+      "yolo11n": 0.888
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000144300.jpg",
+    "original_path": "images/coco300_000000144300.jpg",
+    "num_models": 8,
+    "variance_score": 0.109262,
+    "model_scores": {
+      "dwpose": 0.0266,
+      "mediapipe": 0.3497,
+      "openpose": 0.4984,
+      "yolo8n": 0.8915,
+      "yolo8s": 0.9655,
+      "yolo8m": 0.966,
+      "yolo8l": 0.9681,
+      "yolo11n": 0.9487
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000256192.jpg",
+    "original_path": "images/cocowb300_000000256192.jpg",
+    "num_models": 6,
+    "variance_score": 0.182398,
+    "model_scores": {
+      "dwpose": 0.0042,
+      "yolo8n": 0.01,
+      "yolo8s": 0.0519,
+      "yolo8m": 0.9201,
+      "yolo8l": 0.9646,
+      "yolo11n": 0.0092
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000227898.jpg",
+    "original_path": "images/cocowb300_000000227898.jpg",
+    "num_models": 7,
+    "variance_score": 0.152415,
+    "model_scores": {
+      "dwpose": 0.1099,
+      "openpose": 0.0,
+      "yolo8n": 0.8307,
+      "yolo8s": 0.9496,
+      "yolo8m": 0.9742,
+      "yolo8l": 0.9717,
+      "yolo11n": 0.8825
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000180560.jpg",
+    "original_path": "images/cocowb300_000000180560.jpg",
+    "num_models": 8,
+    "variance_score": 0.144324,
+    "model_scores": {
+      "dwpose": 0.0081,
+      "mediapipe": 0.1097,
+      "openpose": 0.8524,
+      "yolo8n": 0.9492,
+      "yolo8s": 0.9455,
+      "yolo8m": 0.9793,
+      "yolo8l": 0.9822,
+      "yolo11n": 0.9416
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000486438.jpg",
+    "original_path": "images/cocowb300_000000486438.jpg",
+    "num_models": 7,
+    "variance_score": 0.142814,
+    "model_scores": {
+      "dwpose": 0.0013,
+      "mediapipe": 0.0,
+      "yolo8n": 0.0753,
+      "yolo8s": 0.774,
+      "yolo8m": 0.0071,
+      "yolo8l": 0.9872,
+      "yolo11n": 0.2845
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000512929.jpg",
+    "original_path": "images/cocowb300_000000512929.jpg",
+    "num_models": 8,
+    "variance_score": 0.138816,
+    "model_scores": {
+      "dwpose": 0.0239,
+      "mediapipe": 0.0931,
+      "openpose": 0.9024,
+      "yolo8n": 0.923,
+      "yolo8s": 0.9575,
+      "yolo8m": 0.9676,
+      "yolo8l": 0.9459,
+      "yolo11n": 0.957
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000342367.jpg",
+    "original_path": "images/cocowb300_000000342367.jpg",
+    "num_models": 8,
+    "variance_score": 0.134746,
+    "model_scores": {
+      "dwpose": 0.0149,
+      "mediapipe": 0.2091,
+      "openpose": 0.8747,
+      "yolo8n": 0.9335,
+      "yolo8s": 0.9884,
+      "yolo8m": 0.9917,
+      "yolo8l": 0.9744,
+      "yolo11n": 0.9862
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000026941.jpg",
+    "original_path": "images/cocowb300_000000026941.jpg",
+    "num_models": 7,
+    "variance_score": 0.134306,
+    "model_scores": {
+      "dwpose": 0.1411,
+      "mediapipe": 0.0,
+      "yolo8n": 0.9156,
+      "yolo8s": 0.8972,
+      "yolo8m": 0.8699,
+      "yolo8l": 0.944,
+      "yolo11n": 0.8716
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000034417.jpg",
+    "original_path": "images/cocowb300_000000034417.jpg",
+    "num_models": 7,
+    "variance_score": 0.133153,
+    "model_scores": {
+      "dwpose": 0.0139,
+      "openpose": 0.7304,
+      "yolo8n": 0.3734,
+      "yolo8s": 0.7439,
+      "yolo8m": 0.9117,
+      "yolo8l": 0.0,
+      "yolo11n": 0.9507
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000334309.jpg",
+    "original_path": "images/cocowb300_000000334309.jpg",
+    "num_models": 8,
+    "variance_score": 0.13283,
+    "model_scores": {
+      "dwpose": 0.0115,
+      "mediapipe": 0.1628,
+      "openpose": 0.6052,
+      "yolo8n": 0.8826,
+      "yolo8s": 0.9777,
+      "yolo8m": 0.977,
+      "yolo8l": 0.9681,
+      "yolo11n": 0.9635
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000193162.jpg",
+    "original_path": "images/cocowb300_000000193162.jpg",
+    "num_models": 7,
+    "variance_score": 0.132501,
+    "model_scores": {
+      "dwpose": 0.0415,
+      "openpose": 0.1137,
+      "yolo8n": 0.9256,
+      "yolo8s": 0.903,
+      "yolo8m": 0.917,
+      "yolo8l": 0.9553,
+      "yolo11n": 0.8916
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000356424.jpg",
+    "original_path": "images/cocowb300_000000356424.jpg",
+    "num_models": 8,
+    "variance_score": 0.131378,
+    "model_scores": {
+      "dwpose": 0.0069,
+      "mediapipe": 0.1167,
+      "openpose": 0.7141,
+      "yolo8n": 0.8663,
+      "yolo8s": 0.9822,
+      "yolo8m": 0.9103,
+      "yolo8l": 0.977,
+      "yolo11n": 0.8769
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000468505.jpg",
+    "original_path": "images/cocowb300_000000468505.jpg",
+    "num_models": 8,
+    "variance_score": 0.130171,
+    "model_scores": {
+      "dwpose": 0.0114,
+      "mediapipe": 0.2276,
+      "openpose": 0.8559,
+      "yolo8n": 0.9769,
+      "yolo8s": 0.9799,
+      "yolo8m": 0.9735,
+      "yolo8l": 0.9787,
+      "yolo11n": 0.9481
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000439180.jpg",
+    "original_path": "images/cocowb300_000000439180.jpg",
+    "num_models": 8,
+    "variance_score": 0.130016,
+    "model_scores": {
+      "dwpose": 0.0517,
+      "mediapipe": 0.1967,
+      "openpose": 0.3642,
+      "yolo8n": 0.5548,
+      "yolo8s": 0.0,
+      "yolo8m": 0.0,
+      "yolo8l": 0.9456,
+      "yolo11n": 0.9449
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000150638.jpg",
+    "original_path": "images/cocowb300_000000150638.jpg",
+    "num_models": 7,
+    "variance_score": 0.124978,
+    "model_scores": {
+      "dwpose": 0.179,
+      "mediapipe": 0.0,
+      "yolo8n": 0.7049,
+      "yolo8s": 0.8042,
+      "yolo8m": 0.9634,
+      "yolo8l": 0.9344,
+      "yolo11n": 0.8921
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000180487.jpg",
+    "original_path": "images/cocowb300_000000180487.jpg",
+    "num_models": 8,
+    "variance_score": 0.123969,
+    "model_scores": {
+      "dwpose": 0.0256,
+      "mediapipe": 0.2001,
+      "openpose": 0.8007,
+      "yolo8n": 0.8969,
+      "yolo8s": 0.9761,
+      "yolo8m": 0.9771,
+      "yolo8l": 0.9775,
+      "yolo11n": 0.9519
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000184324.jpg",
+    "original_path": "images/cocowb300_000000184324.jpg",
+    "num_models": 8,
+    "variance_score": 0.12308,
+    "model_scores": {
+      "dwpose": 0.0932,
+      "mediapipe": 0.2552,
+      "openpose": 0.1692,
+      "yolo8n": 0.8153,
+      "yolo8s": 0.9434,
+      "yolo8m": 0.9792,
+      "yolo8l": 0.9766,
+      "yolo11n": 0.9432
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000551439.jpg",
+    "original_path": "images/cocowb300_000000551439.jpg",
+    "num_models": 8,
+    "variance_score": 0.121743,
+    "model_scores": {
+      "dwpose": 0.0022,
+      "mediapipe": 0.1898,
+      "openpose": 0.7423,
+      "yolo8n": 0.9237,
+      "yolo8s": 0.9567,
+      "yolo8m": 0.9416,
+      "yolo8l": 0.9472,
+      "yolo11n": 0.8898
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000114907.jpg",
+    "original_path": "images/cocowb300_000000114907.jpg",
+    "num_models": 8,
+    "variance_score": 0.120581,
+    "model_scores": {
+      "dwpose": 0.0514,
+      "mediapipe": 0.1851,
+      "openpose": 0.3134,
+      "yolo8n": 0.4787,
+      "yolo8s": 0.9531,
+      "yolo8m": 0.9387,
+      "yolo8l": 0.9654,
+      "yolo11n": 0.9355
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000032901.jpg",
+    "original_path": "images/cocowb300_000000032901.jpg",
+    "num_models": 8,
+    "variance_score": 0.120222,
+    "model_scores": {
+      "dwpose": 0.031,
+      "mediapipe": 0.2822,
+      "openpose": 0.925,
+      "yolo8n": 0.954,
+      "yolo8s": 0.9744,
+      "yolo8m": 0.9764,
+      "yolo8l": 0.9807,
+      "yolo11n": 0.9758
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000390555.jpg",
+    "original_path": "images/cocowb300_000000390555.jpg",
+    "num_models": 7,
+    "variance_score": 0.120106,
+    "model_scores": {
+      "dwpose": 0.0834,
+      "openpose": 0.3956,
+      "yolo8n": 0.3456,
+      "yolo8s": 0.9505,
+      "yolo8m": 0.9066,
+      "yolo8l": 0.0107,
+      "yolo11n": 0.7805
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000092939.jpg",
+    "original_path": "images/cocowb300_000000092939.jpg",
+    "num_models": 8,
+    "variance_score": 0.119228,
+    "model_scores": {
+      "dwpose": 0.0218,
+      "mediapipe": 0.2926,
+      "openpose": 0.6845,
+      "yolo8n": 0.938,
+      "yolo8s": 0.9863,
+      "yolo8m": 0.9863,
+      "yolo8l": 0.9816,
+      "yolo11n": 0.967
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000557672.jpg",
+    "original_path": "images/cocowb300_000000557672.jpg",
+    "num_models": 8,
+    "variance_score": 0.118568,
+    "model_scores": {
+      "dwpose": 0.0553,
+      "mediapipe": 0.2771,
+      "openpose": 0.983,
+      "yolo8n": 0.4933,
+      "yolo8s": 0.9826,
+      "yolo8m": 0.9818,
+      "yolo8l": 0.9843,
+      "yolo11n": 0.9552
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000006894.jpg",
+    "original_path": "images/cocowb300_000000006894.jpg",
+    "num_models": 8,
+    "variance_score": 0.118169,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0176,
+      "openpose": 0.8395,
+      "yolo8n": 0.8042,
+      "yolo8s": 0.8949,
+      "yolo8m": 0.8664,
+      "yolo8l": 0.8426,
+      "yolo11n": 0.8284
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000121744.jpg",
+    "original_path": "images/cocowb300_000000121744.jpg",
+    "num_models": 7,
+    "variance_score": 0.117986,
+    "model_scores": {
+      "dwpose": 0.0553,
+      "openpose": 0.4382,
+      "yolo8n": 0.5688,
+      "yolo8s": 0.9778,
+      "yolo8m": 0.9716,
+      "yolo8l": 0.9855,
+      "yolo11n": 0.2329
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000272566.jpg",
+    "original_path": "images/cocowb300_000000272566.jpg",
+    "num_models": 8,
+    "variance_score": 0.117497,
+    "model_scores": {
+      "dwpose": 0.0146,
+      "mediapipe": 0.2211,
+      "openpose": 0.611,
+      "yolo8n": 0.8894,
+      "yolo8s": 0.9458,
+      "yolo8m": 0.9406,
+      "yolo8l": 0.974,
+      "yolo11n": 0.9112
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000391722.jpg",
+    "original_path": "images/cocowb300_000000391722.jpg",
+    "num_models": 8,
+    "variance_score": 0.117432,
+    "model_scores": {
+      "dwpose": 0.0261,
+      "mediapipe": 0.1926,
+      "openpose": 0.8943,
+      "yolo8n": 0.6284,
+      "yolo8s": 0.951,
+      "yolo8m": 0.9732,
+      "yolo8l": 0.963,
+      "yolo11n": 0.8785
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000068093.jpg",
+    "original_path": "images/cocowb300_000000068093.jpg",
+    "num_models": 8,
+    "variance_score": 0.117043,
+    "model_scores": {
+      "dwpose": 0.0358,
+      "mediapipe": 0.2496,
+      "openpose": 0.8872,
+      "yolo8n": 0.9567,
+      "yolo8s": 0.9604,
+      "yolo8m": 0.9751,
+      "yolo8l": 0.9765,
+      "yolo11n": 0.9157
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000345466.jpg",
+    "original_path": "images/cocowb300_000000345466.jpg",
+    "num_models": 8,
+    "variance_score": 0.113303,
+    "model_scores": {
+      "dwpose": 0.1071,
+      "mediapipe": 0.2559,
+      "openpose": 0.3734,
+      "yolo8n": 0.9056,
+      "yolo8s": 0.9887,
+      "yolo8m": 0.9884,
+      "yolo8l": 0.992,
+      "yolo11n": 0.9735
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000512776.jpg",
+    "original_path": "images/cocowb300_000000512776.jpg",
+    "num_models": 6,
+    "variance_score": 0.112572,
+    "model_scores": {
+      "dwpose": 0.02,
+      "yolo8n": 0.8502,
+      "yolo8s": 0.977,
+      "yolo8m": 0.9826,
+      "yolo8l": 0.9763,
+      "yolo11n": 0.7063
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000160556.jpg",
+    "original_path": "images/cocowb300_000000160556.jpg",
+    "num_models": 8,
+    "variance_score": 0.111691,
+    "model_scores": {
+      "dwpose": 0.0006,
+      "mediapipe": 0.1435,
+      "openpose": 0.7343,
+      "yolo8n": 0.8633,
+      "yolo8s": 0.9003,
+      "yolo8m": 0.9018,
+      "yolo8l": 0.926,
+      "yolo11n": 0.834
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000390246.jpg",
+    "original_path": "images/cocowb300_000000390246.jpg",
+    "num_models": 6,
+    "variance_score": 0.111399,
+    "model_scores": {
+      "dwpose": 0.0173,
+      "yolo8n": 0.0415,
+      "yolo8s": 0.156,
+      "yolo8m": 0.879,
+      "yolo8l": 0.7561,
+      "yolo11n": 0.0423
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000210230.jpg",
+    "original_path": "images/cocowb300_000000210230.jpg",
+    "num_models": 8,
+    "variance_score": 0.11089,
+    "model_scores": {
+      "dwpose": 0.023,
+      "mediapipe": 0.3532,
+      "openpose": 0.8405,
+      "yolo8n": 0.5598,
+      "yolo8s": 0.9832,
+      "yolo8m": 0.9794,
+      "yolo8l": 0.9833,
+      "yolo11n": 0.9608
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000191845.jpg",
+    "original_path": "images/cocowb300_000000191845.jpg",
+    "num_models": 7,
+    "variance_score": 0.110471,
+    "model_scores": {
+      "dwpose": 0.0409,
+      "openpose": 0.1771,
+      "yolo8n": 0.3874,
+      "yolo8s": 0.0,
+      "yolo8m": 0.9824,
+      "yolo8l": 0.0021,
+      "yolo11n": 0.0
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000336053.jpg",
+    "original_path": "images/cocowb300_000000336053.jpg",
+    "num_models": 8,
+    "variance_score": 0.10907,
+    "model_scores": {
+      "dwpose": 0.0827,
+      "mediapipe": 0.1053,
+      "openpose": 0.7319,
+      "yolo8n": 0.8235,
+      "yolo8s": 0.9573,
+      "yolo8m": 0.9602,
+      "yolo8l": 0.9484,
+      "yolo11n": 0.9199
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000552775.jpg",
+    "original_path": "images/cocowb300_000000552775.jpg",
+    "num_models": 7,
+    "variance_score": 0.107849,
+    "model_scores": {
+      "dwpose": 0.0268,
+      "mediapipe": 0.0019,
+      "openpose": 0.6393,
+      "yolo8n": 0.68,
+      "yolo8s": 0.8353,
+      "yolo8m": 0.6923,
+      "yolo8l": 0.911
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000402615.jpg",
+    "original_path": "images/cocowb300_000000402615.jpg",
+    "num_models": 8,
+    "variance_score": 0.107767,
+    "model_scores": {
+      "dwpose": 0.025,
+      "mediapipe": 0.5921,
+      "openpose": 0.303,
+      "yolo8n": 0.8723,
+      "yolo8s": 0.9563,
+      "yolo8m": 0.9631,
+      "yolo8l": 0.9695,
+      "yolo11n": 0.9253
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000244099.jpg",
+    "original_path": "images/cocowb300_000000244099.jpg",
+    "num_models": 8,
+    "variance_score": 0.107235,
+    "model_scores": {
+      "dwpose": 0.1142,
+      "mediapipe": 0.1637,
+      "openpose": 0.4927,
+      "yolo8n": 0.9353,
+      "yolo8s": 0.9705,
+      "yolo8m": 0.9592,
+      "yolo8l": 0.9753,
+      "yolo11n": 0.9269
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000378873.jpg",
+    "original_path": "images/cocowb300_000000378873.jpg",
+    "num_models": 6,
+    "variance_score": 0.106592,
+    "model_scores": {
+      "dwpose": 0.0745,
+      "yolo8n": 0.4962,
+      "yolo8s": 0.9166,
+      "yolo8m": 0.971,
+      "yolo8l": 0.1637,
+      "yolo11n": 0.3454
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000285894.jpg",
+    "original_path": "images/cocowb300_000000285894.jpg",
+    "num_models": 6,
+    "variance_score": 0.105097,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8n": 0.4754,
+      "yolo8s": 0.7164,
+      "yolo8m": 0.9758,
+      "yolo8l": 0.6729,
+      "yolo11n": 0.9407
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000279774.jpg",
+    "original_path": "images/cocowb300_000000279774.jpg",
+    "num_models": 8,
+    "variance_score": 0.104648,
+    "model_scores": {
+      "dwpose": 0.0796,
+      "mediapipe": 0.2889,
+      "openpose": 0.5699,
+      "yolo8n": 0.9468,
+      "yolo8s": 0.9575,
+      "yolo8m": 0.9853,
+      "yolo8l": 0.9854,
+      "yolo11n": 0.959
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000050380.jpg",
+    "original_path": "images/cocowb300_000000050380.jpg",
+    "num_models": 8,
+    "variance_score": 0.104593,
+    "model_scores": {
+      "dwpose": 0.0579,
+      "mediapipe": 0.3766,
+      "openpose": 0.9662,
+      "yolo8n": 0.8146,
+      "yolo8s": 0.9879,
+      "yolo8m": 0.989,
+      "yolo8l": 0.9918,
+      "yolo11n": 0.9914
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000051314.jpg",
+    "original_path": "images/cocowb300_000000051314.jpg",
+    "num_models": 8,
+    "variance_score": 0.103915,
+    "model_scores": {
+      "dwpose": 0.0678,
+      "mediapipe": 0.2249,
+      "openpose": 0.7351,
+      "yolo8n": 0.9697,
+      "yolo8s": 0.963,
+      "yolo8m": 0.9702,
+      "yolo8l": 0.969,
+      "yolo11n": 0.7918
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000394275.jpg",
+    "original_path": "images/cocowb300_000000394275.jpg",
+    "num_models": 8,
+    "variance_score": 0.103593,
+    "model_scores": {
+      "dwpose": 0.1615,
+      "mediapipe": 0.0,
+      "openpose": 0.6697,
+      "yolo8n": 0.8132,
+      "yolo8s": 0.9235,
+      "yolo8m": 0.9202,
+      "yolo8l": 0.8408,
+      "yolo11n": 0.8098
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000520009.jpg",
+    "original_path": "images/cocowb300_000000520009.jpg",
+    "num_models": 6,
+    "variance_score": 0.10331,
+    "model_scores": {
+      "dwpose": 0.0018,
+      "yolo8n": 0.7701,
+      "yolo8s": 0.8921,
+      "yolo8m": 0.8959,
+      "yolo8l": 0.9607,
+      "yolo11n": 0.818
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000426203.jpg",
+    "original_path": "images/cocowb300_000000426203.jpg",
+    "num_models": 8,
+    "variance_score": 0.103108,
+    "model_scores": {
+      "dwpose": 0.0403,
+      "mediapipe": 0.2437,
+      "openpose": 0.7014,
+      "yolo8n": 0.8808,
+      "yolo8s": 0.9336,
+      "yolo8m": 0.9585,
+      "yolo8l": 0.9544,
+      "yolo11n": 0.8899
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000224807.jpg",
+    "original_path": "images/cocowb300_000000224807.jpg",
+    "num_models": 7,
+    "variance_score": 0.101755,
+    "model_scores": {
+      "dwpose": 0.042,
+      "openpose": 0.4854,
+      "yolo8n": 0.7172,
+      "yolo8s": 0.9904,
+      "yolo8m": 0.9746,
+      "yolo8l": 0.9877,
+      "yolo11n": 0.8842
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000433103.jpg",
+    "original_path": "images/cocowb300_000000433103.jpg",
+    "num_models": 8,
+    "variance_score": 0.101617,
+    "model_scores": {
+      "dwpose": 0.038,
+      "mediapipe": 0.2561,
+      "openpose": 0.6577,
+      "yolo8n": 0.677,
+      "yolo8s": 0.9579,
+      "yolo8m": 0.9677,
+      "yolo8l": 0.9637,
+      "yolo11n": 0.8842
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000012748.jpg",
+    "original_path": "images/cocowb300_000000012748.jpg",
+    "num_models": 8,
+    "variance_score": 0.101292,
+    "model_scores": {
+      "dwpose": 0.0042,
+      "mediapipe": 0.0607,
+      "openpose": 0.4039,
+      "yolo8n": 0.4293,
+      "yolo8s": 0.0755,
+      "yolo8m": 0.8642,
+      "yolo8l": 0.892,
+      "yolo11n": 0.0915
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000284698.jpg",
+    "original_path": "images/cocowb300_000000284698.jpg",
+    "num_models": 6,
+    "variance_score": 0.101151,
+    "model_scores": {
+      "dwpose": 0.0098,
+      "yolo8n": 0.8803,
+      "yolo8s": 0.8846,
+      "yolo8m": 0.9461,
+      "yolo8l": 0.9185,
+      "yolo11n": 0.759
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000136915.jpg",
+    "original_path": "images/cocowb300_000000136915.jpg",
+    "num_models": 8,
+    "variance_score": 0.100325,
+    "model_scores": {
+      "dwpose": 0.0234,
+      "mediapipe": 0.4289,
+      "openpose": 0.7873,
+      "yolo8n": 0.8279,
+      "yolo8s": 0.9733,
+      "yolo8m": 0.9631,
+      "yolo8l": 0.9825,
+      "yolo11n": 0.9718
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "002098498.jpg",
+    "original_path": "images/mpii300_002098498.jpg",
+    "num_models": 8,
+    "variance_score": 0.081682,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0004,
+      "openpose": 0.7062,
+      "yolo8n": 0.6377,
+      "yolo8s": 0.65,
+      "yolo8m": 0.749,
+      "yolo8l": 0.8371,
+      "yolo11n": 0.6715
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "062904699.jpg",
+    "original_path": "images/mpii300_062904699.jpg",
+    "num_models": 8,
+    "variance_score": 0.078438,
+    "model_scores": {
+      "dwpose": 0.0003,
+      "mediapipe": 0.0029,
+      "openpose": 0.7301,
+      "yolo8n": 0.642,
+      "yolo8s": 0.6065,
+      "yolo8m": 0.7786,
+      "yolo8l": 0.8205,
+      "yolo11n": 0.5833
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "079164007.jpg",
+    "original_path": "images/mpii300_079164007.jpg",
+    "num_models": 8,
+    "variance_score": 0.075919,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0004,
+      "openpose": 0.4374,
+      "yolo8n": 0.5108,
+      "yolo8s": 0.7561,
+      "yolo8m": 0.7974,
+      "yolo8l": 0.8098,
+      "yolo11n": 0.512
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "022807494.jpg",
+    "original_path": "images/mpii300_022807494.jpg",
+    "num_models": 8,
+    "variance_score": 0.07182,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.5767,
+      "yolo8n": 0.7567,
+      "yolo8s": 0.7283,
+      "yolo8m": 0.6512,
+      "yolo8l": 0.7644,
+      "yolo11n": 0.697
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "036655119.jpg",
+    "original_path": "images/mpii300_036655119.jpg",
+    "num_models": 8,
+    "variance_score": 0.068181,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.7196,
+      "yolo8n": 0.6158,
+      "yolo8s": 0.6509,
+      "yolo8m": 0.7436,
+      "yolo8l": 0.7357,
+      "yolo11n": 0.6932
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "033888189.jpg",
+    "original_path": "images/mpii300_033888189.jpg",
+    "num_models": 8,
+    "variance_score": 0.065855,
+    "model_scores": {
+      "dwpose": 0.0213,
+      "mediapipe": 0.0002,
+      "openpose": 0.5464,
+      "yolo8n": 0.2458,
+      "yolo8s": 0.6818,
+      "yolo8m": 0.7478,
+      "yolo8l": 0.7622,
+      "yolo11n": 0.5699
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "005247768.jpg",
+    "original_path": "images/mpii300_005247768.jpg",
+    "num_models": 8,
+    "variance_score": 0.065192,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.6892,
+      "yolo8n": 0.6724,
+      "yolo8s": 0.7392,
+      "yolo8m": 0.6823,
+      "yolo8l": 0.7112,
+      "yolo11n": 0.5741
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "066534963.jpg",
+    "original_path": "images/mpii300_066534963.jpg",
+    "num_models": 8,
+    "variance_score": 0.065008,
+    "model_scores": {
+      "dwpose": 0.0144,
+      "mediapipe": 0.0005,
+      "openpose": 0.3181,
+      "yolo8n": 0.4901,
+      "yolo8s": 0.7391,
+      "yolo8m": 0.7097,
+      "yolo8l": 0.7596,
+      "yolo11n": 0.6167
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "011832407.jpg",
+    "original_path": "images/mpii300_011832407.jpg",
+    "num_models": 8,
+    "variance_score": 0.063794,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0006,
+      "openpose": 0.6099,
+      "yolo8n": 0.6295,
+      "yolo8s": 0.7588,
+      "yolo8m": 0.7025,
+      "yolo8l": 0.6936,
+      "yolo11n": 0.5072
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "064686022.jpg",
+    "original_path": "images/mpii300_064686022.jpg",
+    "num_models": 8,
+    "variance_score": 0.062716,
+    "model_scores": {
+      "dwpose": 0.0045,
+      "mediapipe": 0.0097,
+      "openpose": 0.7676,
+      "yolo8n": 0.4965,
+      "yolo8s": 0.618,
+      "yolo8m": 0.6996,
+      "yolo8l": 0.7244,
+      "yolo11n": 0.4492
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "079526731.jpg",
+    "original_path": "images/mpii300_079526731.jpg",
+    "num_models": 8,
+    "variance_score": 0.059789,
+    "model_scores": {
+      "dwpose": 0.0081,
+      "mediapipe": 0.0389,
+      "openpose": 0.5304,
+      "yolo8n": 0.1453,
+      "yolo8s": 0.0,
+      "yolo8m": 0.5558,
+      "yolo8l": 0.7202,
+      "yolo11n": 0.6292
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "016827859.jpg",
+    "original_path": "images/mpii300_016827859.jpg",
+    "num_models": 8,
+    "variance_score": 0.059309,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.7066,
+      "yolo8n": 0.61,
+      "yolo8s": 0.6694,
+      "yolo8m": 0.7021,
+      "yolo8l": 0.6348,
+      "yolo11n": 0.6705
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "093309407.jpg",
+    "original_path": "images/mpii300_093309407.jpg",
+    "num_models": 8,
+    "variance_score": 0.058345,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.6185,
+      "yolo8n": 0.6197,
+      "yolo8s": 0.6585,
+      "yolo8m": 0.7353,
+      "yolo8l": 0.6735,
+      "yolo11n": 0.5095
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "035947158.jpg",
+    "original_path": "images/mpii300_035947158.jpg",
+    "num_models": 8,
+    "variance_score": 0.058091,
+    "model_scores": {
+      "dwpose": 0.0176,
+      "mediapipe": 0.0001,
+      "openpose": 0.6506,
+      "yolo8n": 0.5997,
+      "yolo8s": 0.715,
+      "yolo8m": 0.6795,
+      "yolo8l": 0.7049,
+      "yolo11n": 0.6199
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "052916310.jpg",
+    "original_path": "images/mpii300_052916310.jpg",
+    "num_models": 8,
+    "variance_score": 0.057529,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0007,
+      "openpose": 0.6815,
+      "yolo8n": 0.7218,
+      "yolo8s": 0.6228,
+      "yolo8m": 0.559,
+      "yolo8l": 0.6985,
+      "yolo11n": 0.5441
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "039447628.jpg",
+    "original_path": "images/mpii300_039447628.jpg",
+    "num_models": 8,
+    "variance_score": 0.056329,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0005,
+      "openpose": 0.5198,
+      "yolo8n": 0.6358,
+      "yolo8s": 0.7346,
+      "yolo8m": 0.6325,
+      "yolo8l": 0.6597,
+      "yolo11n": 0.5689
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "050473948.jpg",
+    "original_path": "images/mpii300_050473948.jpg",
+    "num_models": 8,
+    "variance_score": 0.056139,
+    "model_scores": {
+      "dwpose": 0.0235,
+      "mediapipe": 0.0006,
+      "openpose": 0.193,
+      "yolo8n": 0.3761,
+      "yolo8s": 0.6505,
+      "yolo8m": 0.7322,
+      "yolo8l": 0.7099,
+      "yolo11n": 0.4297
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "007838843.jpg",
+    "original_path": "images/mpii300_007838843.jpg",
+    "num_models": 8,
+    "variance_score": 0.055983,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0004,
+      "openpose": 0.7117,
+      "yolo8n": 0.4855,
+      "yolo8s": 0.5532,
+      "yolo8m": 0.6356,
+      "yolo8l": 0.7398,
+      "yolo11n": 0.4943
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "058844383.jpg",
+    "original_path": "images/mpii300_058844383.jpg",
+    "num_models": 8,
+    "variance_score": 0.055659,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0498,
+      "openpose": 0.6337,
+      "yolo8n": 0.6711,
+      "yolo8s": 0.6353,
+      "yolo8m": 0.5754,
+      "yolo8l": 0.6371,
+      "yolo11n": 0.7415
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "066989087.jpg",
+    "original_path": "images/mpii300_066989087.jpg",
+    "num_models": 8,
+    "variance_score": 0.055375,
+    "model_scores": {
+      "dwpose": 0.0455,
+      "mediapipe": 0.0296,
+      "openpose": 0.4184,
+      "yolo8n": 0.5096,
+      "yolo8s": 0.6971,
+      "yolo8m": 0.6882,
+      "yolo8l": 0.7647,
+      "yolo11n": 0.667
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "061477095.jpg",
+    "original_path": "images/mpii300_061477095.jpg",
+    "num_models": 8,
+    "variance_score": 0.055078,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0271,
+      "openpose": 0.527,
+      "yolo8n": 0.6456,
+      "yolo8s": 0.6432,
+      "yolo8m": 0.7241,
+      "yolo8l": 0.7009,
+      "yolo11n": 0.5714
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "078396079.jpg",
+    "original_path": "images/mpii300_078396079.jpg",
+    "num_models": 8,
+    "variance_score": 0.054839,
+    "model_scores": {
+      "dwpose": 0.0224,
+      "mediapipe": 0.012,
+      "openpose": 0.7634,
+      "yolo8n": 0.4293,
+      "yolo8s": 0.6316,
+      "yolo8m": 0.621,
+      "yolo8l": 0.5854,
+      "yolo11n": 0.6263
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "036639267.jpg",
+    "original_path": "images/mpii300_036639267.jpg",
+    "num_models": 8,
+    "variance_score": 0.054068,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.505,
+      "yolo8n": 0.6271,
+      "yolo8s": 0.6741,
+      "yolo8m": 0.6286,
+      "yolo8l": 0.6951,
+      "yolo11n": 0.6628
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "003555188.jpg",
+    "original_path": "images/mpii300_003555188.jpg",
+    "num_models": 8,
+    "variance_score": 0.051723,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0039,
+      "openpose": 0.4772,
+      "yolo8n": 0.6573,
+      "yolo8s": 0.6357,
+      "yolo8m": 0.6813,
+      "yolo8l": 0.6892,
+      "yolo11n": 0.5555
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "081729777.jpg",
+    "original_path": "images/mpii300_081729777.jpg",
+    "num_models": 8,
+    "variance_score": 0.050777,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.6218,
+      "yolo8n": 0.5539,
+      "yolo8s": 0.7127,
+      "yolo8m": 0.6421,
+      "yolo8l": 0.5864,
+      "yolo11n": 0.4666
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "036888462.jpg",
+    "original_path": "images/mpii300_036888462.jpg",
+    "num_models": 8,
+    "variance_score": 0.049891,
+    "model_scores": {
+      "dwpose": 0.0199,
+      "mediapipe": 0.0156,
+      "openpose": 0.5615,
+      "yolo8n": 0.5357,
+      "yolo8s": 0.6572,
+      "yolo8m": 0.5809,
+      "yolo8l": 0.7496,
+      "yolo11n": 0.4181
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "022297747.jpg",
+    "original_path": "images/mpii300_022297747.jpg",
+    "num_models": 8,
+    "variance_score": 0.048852,
+    "model_scores": {
+      "dwpose": 0.008,
+      "mediapipe": 0.0,
+      "openpose": 0.6893,
+      "yolo8n": 0.5823,
+      "yolo8s": 0.5331,
+      "yolo8m": 0.5083,
+      "yolo8l": 0.5457,
+      "yolo11n": 0.703
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "012561270.jpg",
+    "original_path": "images/mpii300_012561270.jpg",
+    "num_models": 8,
+    "variance_score": 0.048566,
+    "model_scores": {
+      "dwpose": 0.0001,
+      "mediapipe": 0.0001,
+      "openpose": 0.1075,
+      "yolo8n": 0.3922,
+      "yolo8s": 0.6435,
+      "yolo8m": 0.5862,
+      "yolo8l": 0.6747,
+      "yolo11n": 0.5069
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "076451656.jpg",
+    "original_path": "images/mpii300_076451656.jpg",
+    "num_models": 8,
+    "variance_score": 0.048404,
+    "model_scores": {
+      "dwpose": 0.0056,
+      "mediapipe": 0.0052,
+      "openpose": 0.5333,
+      "yolo8n": 0.577,
+      "yolo8s": 0.5673,
+      "yolo8m": 0.6527,
+      "yolo8l": 0.7005,
+      "yolo11n": 0.5955
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "051701472.jpg",
+    "original_path": "images/mpii300_051701472.jpg",
+    "num_models": 8,
+    "variance_score": 0.047939,
+    "model_scores": {
+      "dwpose": 0.0091,
+      "mediapipe": 0.0006,
+      "openpose": 0.5299,
+      "yolo8n": 0.396,
+      "yolo8s": 0.7313,
+      "yolo8m": 0.6182,
+      "yolo8l": 0.5892,
+      "yolo11n": 0.4707
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "031284463.jpg",
+    "original_path": "images/mpii300_031284463.jpg",
+    "num_models": 8,
+    "variance_score": 0.047263,
+    "model_scores": {
+      "dwpose": 0.0076,
+      "mediapipe": 0.0,
+      "openpose": 0.6981,
+      "yolo8n": 0.3644,
+      "yolo8s": 0.4936,
+      "yolo8m": 0.5985,
+      "yolo8l": 0.6819,
+      "yolo11n": 0.299
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "010814960.jpg",
+    "original_path": "images/mpii300_010814960.jpg",
+    "num_models": 8,
+    "variance_score": 0.046681,
+    "model_scores": {
+      "dwpose": 0.0017,
+      "mediapipe": 0.0,
+      "openpose": 0.6216,
+      "yolo8n": 0.4764,
+      "yolo8s": 0.6635,
+      "yolo8m": 0.6567,
+      "yolo8l": 0.6479,
+      "yolo11n": 0.3826
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "014532669.jpg",
+    "original_path": "images/mpii300_014532669.jpg",
+    "num_models": 8,
+    "variance_score": 0.045139,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.6339,
+      "yolo8n": 0.5734,
+      "yolo8s": 0.5661,
+      "yolo8m": 0.6106,
+      "yolo8l": 0.6618,
+      "yolo11n": 0.5368
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "023402818.jpg",
+    "original_path": "images/mpii300_023402818.jpg",
+    "num_models": 8,
+    "variance_score": 0.044416,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.4321,
+      "yolo8n": 0.4887,
+      "yolo8s": 0.5831,
+      "yolo8m": 0.5956,
+      "yolo8l": 0.6936,
+      "yolo11n": 0.5694
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "070334095.jpg",
+    "original_path": "images/mpii300_070334095.jpg",
+    "num_models": 8,
+    "variance_score": 0.043975,
+    "model_scores": {
+      "dwpose": 0.0002,
+      "mediapipe": 0.0,
+      "openpose": 0.5673,
+      "yolo8n": 0.5207,
+      "yolo8s": 0.66,
+      "yolo8m": 0.6569,
+      "yolo8l": 0.6085,
+      "yolo11n": 0.439
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "019344723.jpg",
+    "original_path": "images/mpii300_019344723.jpg",
+    "num_models": 8,
+    "variance_score": 0.04298,
+    "model_scores": {
+      "dwpose": 0.0013,
+      "mediapipe": 0.0,
+      "openpose": 0.3505,
+      "yolo8n": 0.4826,
+      "yolo8s": 0.6218,
+      "yolo8m": 0.6657,
+      "yolo8l": 0.6222,
+      "yolo11n": 0.5415
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "044892671.jpg",
+    "original_path": "images/mpii300_044892671.jpg",
+    "num_models": 8,
+    "variance_score": 0.042939,
+    "model_scores": {
+      "dwpose": 0.0004,
+      "mediapipe": 0.0309,
+      "openpose": 0.5401,
+      "yolo8n": 0.6225,
+      "yolo8s": 0.6083,
+      "yolo8m": 0.5808,
+      "yolo8l": 0.5819,
+      "yolo11n": 0.6612
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "090845056.jpg",
+    "original_path": "images/mpii300_090845056.jpg",
+    "num_models": 8,
+    "variance_score": 0.041261,
+    "model_scores": {
+      "dwpose": 0.0001,
+      "mediapipe": 0.0001,
+      "openpose": 0.6434,
+      "yolo8n": 0.5121,
+      "yolo8s": 0.5871,
+      "yolo8m": 0.6404,
+      "yolo8l": 0.5535,
+      "yolo11n": 0.5134
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "068803052.jpg",
+    "original_path": "images/mpii300_068803052.jpg",
+    "num_models": 8,
+    "variance_score": 0.041122,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.4037,
+      "yolo8n": 0.3094,
+      "yolo8s": 0.5435,
+      "yolo8m": 0.6729,
+      "yolo8l": 0.6227,
+      "yolo11n": 0.5328
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "092257240.jpg",
+    "original_path": "images/mpii300_092257240.jpg",
+    "num_models": 8,
+    "variance_score": 0.040285,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.5963,
+      "yolo8n": 0.5468,
+      "yolo8s": 0.5886,
+      "yolo8m": 0.633,
+      "yolo8l": 0.607,
+      "yolo11n": 0.4479
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "017896182.jpg",
+    "original_path": "images/mpii300_017896182.jpg",
+    "num_models": 8,
+    "variance_score": 0.040224,
+    "model_scores": {
+      "dwpose": 0.0857,
+      "mediapipe": 0.0071,
+      "openpose": 0.3628,
+      "yolo8n": 0.5253,
+      "yolo8s": 0.5311,
+      "yolo8m": 0.7027,
+      "yolo8l": 0.6666,
+      "yolo11n": 0.5356
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "043338085.jpg",
+    "original_path": "images/mpii300_043338085.jpg",
+    "num_models": 8,
+    "variance_score": 0.040105,
+    "model_scores": {
+      "dwpose": 0.0613,
+      "mediapipe": 0.0205,
+      "openpose": 0.0832,
+      "yolo8n": 0.4426,
+      "yolo8s": 0.6234,
+      "yolo8m": 0.6273,
+      "yolo8l": 0.6325,
+      "yolo11n": 0.5124
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "034284511.jpg",
+    "original_path": "images/mpii300_034284511.jpg",
+    "num_models": 8,
+    "variance_score": 0.038112,
+    "model_scores": {
+      "dwpose": 0.0401,
+      "mediapipe": 0.0,
+      "openpose": 0.5043,
+      "yolo8n": 0.5378,
+      "yolo8s": 0.5463,
+      "yolo8m": 0.6597,
+      "yolo8l": 0.5941,
+      "yolo11n": 0.5518
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "097099215.jpg",
+    "original_path": "images/mpii300_097099215.jpg",
+    "num_models": 8,
+    "variance_score": 0.037833,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0,
+      "openpose": 0.4978,
+      "yolo8n": 0.5422,
+      "yolo8s": 0.5687,
+      "yolo8m": 0.612,
+      "yolo8l": 0.5895,
+      "yolo11n": 0.6027
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "045163900.jpg",
+    "original_path": "images/mpii300_045163900.jpg",
+    "num_models": 8,
+    "variance_score": 0.037635,
+    "model_scores": {
+      "dwpose": 0.0036,
+      "mediapipe": 0.0006,
+      "openpose": 0.4619,
+      "yolo8n": 0.4883,
+      "yolo8s": 0.5443,
+      "yolo8m": 0.6549,
+      "yolo8l": 0.5887,
+      "yolo11n": 0.5039
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "058475681.jpg",
+    "original_path": "images/mpii300_058475681.jpg",
+    "num_models": 8,
+    "variance_score": 0.037433,
+    "model_scores": {
+      "dwpose": 0.0183,
+      "mediapipe": 0.002,
+      "openpose": 0.1639,
+      "yolo8n": 0.2454,
+      "yolo8s": 0.3976,
+      "yolo8m": 0.5845,
+      "yolo8l": 0.6883,
+      "yolo11n": 0.3794
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "054001191.jpg",
+    "original_path": "images/mpii300_054001191.jpg",
+    "num_models": 8,
+    "variance_score": 0.03713,
+    "model_scores": {
+      "dwpose": 0.0084,
+      "mediapipe": 0.0733,
+      "openpose": 0.6552,
+      "yolo8n": 0.5175,
+      "yolo8s": 0.6482,
+      "yolo8m": 0.4861,
+      "yolo8l": 0.5269,
+      "yolo11n": 0.6222
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "049298271.jpg",
+    "original_path": "images/mpii300_049298271.jpg",
+    "num_models": 8,
+    "variance_score": 0.037014,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0227,
+      "openpose": 0.6181,
+      "yolo8n": 0.5407,
+      "yolo8s": 0.6098,
+      "yolo8m": 0.5548,
+      "yolo8l": 0.5883,
+      "yolo11n": 0.5176
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "004795773.jpg",
+    "original_path": "images/mpii300_004795773.jpg",
+    "num_models": 8,
+    "variance_score": 0.036722,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0001,
+      "openpose": 0.4951,
+      "yolo8n": 0.5602,
+      "yolo8s": 0.5504,
+      "yolo8m": 0.633,
+      "yolo8l": 0.58,
+      "yolo11n": 0.4156
+    }
+  },
+  {
+    "dataset": "mpii300",
+    "image_name": "092354276.jpg",
+    "original_path": "images/mpii300_092354276.jpg",
+    "num_models": 8,
+    "variance_score": 0.036709,
+    "model_scores": {
+      "dwpose": 0.0034,
+      "mediapipe": 0.1203,
+      "openpose": 0.2787,
+      "yolo8n": 0.3192,
+      "yolo8s": 0.64,
+      "yolo8m": 0.6537,
+      "yolo8l": 0.643,
+      "yolo11n": 0.518
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000332570.jpg",
+    "original_path": "images/coco300_000000332570.jpg",
+    "num_models": 6,
+    "variance_score": 0.108707,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8n": 0.7394,
+      "yolo8s": 0.89,
+      "yolo8m": 0.8894,
+      "yolo8l": 0.9566,
+      "yolo11n": 0.9463
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000203629.jpg",
+    "original_path": "images/coco300_000000203629.jpg",
+    "num_models": 8,
+    "variance_score": 0.108598,
+    "model_scores": {
+      "dwpose": 0.0597,
+      "mediapipe": 0.1783,
+      "openpose": 0.7161,
+      "yolo8n": 0.7395,
+      "yolo8s": 0.9632,
+      "yolo8m": 0.9717,
+      "yolo8l": 0.9666,
+      "yolo11n": 0.9349
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000260106.jpg",
+    "original_path": "images/coco300_000000260106.jpg",
+    "num_models": 7,
+    "variance_score": 0.108469,
+    "model_scores": {
+      "dwpose": 0.1339,
+      "openpose": 0.1972,
+      "yolo8n": 0.727,
+      "yolo8s": 0.9839,
+      "yolo8m": 0.9838,
+      "yolo8l": 0.9814,
+      "yolo11n": 0.9829
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000443969.jpg",
+    "original_path": "images/coco300_000000443969.jpg",
+    "num_models": 8,
+    "variance_score": 0.10841,
+    "model_scores": {
+      "dwpose": 0.0703,
+      "mediapipe": 0.2185,
+      "openpose": 0.8471,
+      "yolo8n": 0.7164,
+      "yolo8s": 0.9873,
+      "yolo8m": 0.9805,
+      "yolo8l": 0.9861,
+      "yolo11n": 0.9343
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000006954.jpg",
+    "original_path": "images/coco300_000000006954.jpg",
+    "num_models": 8,
+    "variance_score": 0.106749,
+    "model_scores": {
+      "dwpose": 0.0661,
+      "mediapipe": 0.2111,
+      "openpose": 0.8327,
+      "yolo8n": 0.8953,
+      "yolo8s": 0.9377,
+      "yolo8m": 0.9576,
+      "yolo8l": 0.964,
+      "yolo11n": 0.9613
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000303713.jpg",
+    "original_path": "images/coco300_000000303713.jpg",
+    "num_models": 8,
+    "variance_score": 0.105969,
+    "model_scores": {
+      "dwpose": 0.0643,
+      "mediapipe": 0.3577,
+      "openpose": 0.4547,
+      "yolo8n": 0.953,
+      "yolo8s": 0.977,
+      "yolo8m": 0.9818,
+      "yolo8l": 0.9803,
+      "yolo11n": 0.9111
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000292488.jpg",
+    "original_path": "images/coco300_000000292488.jpg",
+    "num_models": 7,
+    "variance_score": 0.105543,
+    "model_scores": {
+      "dwpose": 0.0001,
+      "openpose": 0.9643,
+      "yolo8n": 0.8994,
+      "yolo8s": 0.9011,
+      "yolo8m": 0.9733,
+      "yolo8l": 0.9798,
+      "yolo11n": 0.8697
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000285894.jpg",
+    "original_path": "images/coco300_000000285894.jpg",
+    "num_models": 6,
+    "variance_score": 0.105097,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8n": 0.4754,
+      "yolo8s": 0.7164,
+      "yolo8m": 0.9758,
+      "yolo8l": 0.6729,
+      "yolo11n": 0.9407
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000553221.jpg",
+    "original_path": "images/coco300_000000553221.jpg",
+    "num_models": 7,
+    "variance_score": 0.104926,
+    "model_scores": {
+      "dwpose": 0.0272,
+      "mediapipe": 0.1962,
+      "yolo8n": 0.8189,
+      "yolo8s": 0.8664,
+      "yolo8m": 0.8626,
+      "yolo8l": 0.9245,
+      "yolo11n": 0.8202
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000419974.jpg",
+    "original_path": "images/coco300_000000419974.jpg",
+    "num_models": 8,
+    "variance_score": 0.104378,
+    "model_scores": {
+      "dwpose": 0.042,
+      "mediapipe": 0.3064,
+      "openpose": 0.9166,
+      "yolo8n": 0.8636,
+      "yolo8s": 0.9572,
+      "yolo8m": 0.9587,
+      "yolo8l": 0.9594,
+      "yolo11n": 0.9534
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000572620.jpg",
+    "original_path": "images/coco300_000000572620.jpg",
+    "num_models": 8,
+    "variance_score": 0.104229,
+    "model_scores": {
+      "dwpose": 0.0683,
+      "mediapipe": 0.5142,
+      "openpose": 0.284,
+      "yolo8n": 0.3709,
+      "yolo8s": 0.9724,
+      "yolo8m": 0.9661,
+      "yolo8l": 0.969,
+      "yolo11n": 0.8778
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000206487.jpg",
+    "original_path": "images/coco300_000000206487.jpg",
+    "num_models": 7,
+    "variance_score": 0.103194,
+    "model_scores": {
+      "dwpose": 0.0136,
+      "openpose": 0.7063,
+      "yolo8n": 0.9406,
+      "yolo8s": 0.9208,
+      "yolo8m": 0.9836,
+      "yolo8l": 0.9724,
+      "yolo11n": 0.9472
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000164602.jpg",
+    "original_path": "images/coco300_000000164602.jpg",
+    "num_models": 8,
+    "variance_score": 0.103158,
+    "model_scores": {
+      "dwpose": 0.0471,
+      "mediapipe": 0.2545,
+      "openpose": 0.8314,
+      "yolo8n": 0.8718,
+      "yolo8s": 0.9418,
+      "yolo8m": 0.9684,
+      "yolo8l": 0.9167,
+      "yolo11n": 0.9227
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000005060.jpg",
+    "original_path": "images/coco300_000000005060.jpg",
+    "num_models": 8,
+    "variance_score": 0.102995,
+    "model_scores": {
+      "dwpose": 0.0441,
+      "mediapipe": 0.2849,
+      "openpose": 0.8674,
+      "yolo8n": 0.8678,
+      "yolo8s": 0.9454,
+      "yolo8m": 0.9496,
+      "yolo8l": 0.9786,
+      "yolo11n": 0.8678
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000087476.jpg",
+    "original_path": "images/coco300_000000087476.jpg",
+    "num_models": 8,
+    "variance_score": 0.102727,
+    "model_scores": {
+      "dwpose": 0.0755,
+      "mediapipe": 0.3096,
+      "openpose": 0.4559,
+      "yolo8n": 0.7734,
+      "yolo8s": 0.9726,
+      "yolo8m": 0.9765,
+      "yolo8l": 0.9741,
+      "yolo11n": 0.9787
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000138115.jpg",
+    "original_path": "images/coco300_000000138115.jpg",
+    "num_models": 8,
+    "variance_score": 0.102585,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.1606,
+      "openpose": 0.7206,
+      "yolo8n": 0.7933,
+      "yolo8s": 0.8307,
+      "yolo8m": 0.9107,
+      "yolo8l": 0.9218,
+      "yolo11n": 0.8188
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000529148.jpg",
+    "original_path": "images/coco300_000000529148.jpg",
+    "num_models": 7,
+    "variance_score": 0.100788,
+    "model_scores": {
+      "dwpose": 0.0103,
+      "mediapipe": 0.4047,
+      "yolo8n": 0.7284,
+      "yolo8s": 0.8512,
+      "yolo8m": 0.9476,
+      "yolo8l": 0.9403,
+      "yolo11n": 0.9203
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000554735.jpg",
+    "original_path": "images/coco300_000000554735.jpg",
+    "num_models": 6,
+    "variance_score": 0.100779,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8n": 0.7548,
+      "yolo8s": 0.7704,
+      "yolo8m": 0.2397,
+      "yolo8l": 0.496,
+      "yolo11n": 0.9404
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000276018.jpg",
+    "original_path": "images/coco300_000000276018.jpg",
+    "num_models": 8,
+    "variance_score": 0.099075,
+    "model_scores": {
+      "dwpose": 0.045,
+      "mediapipe": 0.3626,
+      "openpose": 0.5261,
+      "yolo8n": 0.6375,
+      "yolo8s": 0.9571,
+      "yolo8m": 0.9864,
+      "yolo8l": 0.9389,
+      "yolo11n": 0.9538
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000341828.jpg",
+    "original_path": "images/coco300_000000341828.jpg",
+    "num_models": 8,
+    "variance_score": 0.09867,
+    "model_scores": {
+      "dwpose": 0.0144,
+      "mediapipe": 0.227,
+      "openpose": 0.8243,
+      "yolo8n": 0.8685,
+      "yolo8s": 0.8605,
+      "yolo8m": 0.8743,
+      "yolo8l": 0.9339,
+      "yolo11n": 0.8179
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000159399.jpg",
+    "original_path": "images/coco300_000000159399.jpg",
+    "num_models": 7,
+    "variance_score": 0.098652,
+    "model_scores": {
+      "dwpose": 0.1964,
+      "mediapipe": 0.0722,
+      "yolo8n": 0.9079,
+      "yolo8s": 0.8183,
+      "yolo8m": 0.8004,
+      "yolo8l": 0.9601,
+      "yolo11n": 0.8068
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000008690.jpg",
+    "original_path": "images/cocowb300_000000008690.jpg",
+    "num_models": 8,
+    "variance_score": 0.098169,
+    "model_scores": {
+      "dwpose": 0.0263,
+      "mediapipe": 0.1932,
+      "openpose": 0.6914,
+      "yolo8n": 0.6581,
+      "yolo8s": 0.8329,
+      "yolo8m": 0.9357,
+      "yolo8l": 0.9157,
+      "yolo11n": 0.93
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000513567.jpg",
+    "original_path": "images/cocowb300_000000513567.jpg",
+    "num_models": 8,
+    "variance_score": 0.097924,
+    "model_scores": {
+      "dwpose": 0.0684,
+      "mediapipe": 0.1239,
+      "openpose": 0.7459,
+      "yolo8n": 0.666,
+      "yolo8s": 0.9147,
+      "yolo8m": 0.9187,
+      "yolo8l": 0.9205,
+      "yolo11n": 0.9249
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000497867.jpg",
+    "original_path": "images/coco300_000000497867.jpg",
+    "num_models": 6,
+    "variance_score": 0.097593,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8n": 0.8442,
+      "yolo8s": 0.8632,
+      "yolo8m": 0.9187,
+      "yolo8l": 0.8489,
+      "yolo11n": 0.8849
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000459437.jpg",
+    "original_path": "images/cocowb300_000000459437.jpg",
+    "num_models": 6,
+    "variance_score": 0.097516,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8n": 0.7212,
+      "yolo8s": 0.8954,
+      "yolo8m": 0.9324,
+      "yolo8l": 0.9103,
+      "yolo11n": 0.7251
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000467511.jpg",
+    "original_path": "images/coco300_000000467511.jpg",
+    "num_models": 8,
+    "variance_score": 0.097421,
+    "model_scores": {
+      "dwpose": 0.1008,
+      "mediapipe": 0.1998,
+      "openpose": 0.677,
+      "yolo8n": 0.8181,
+      "yolo8s": 0.9665,
+      "yolo8m": 0.9637,
+      "yolo8l": 0.9693,
+      "yolo11n": 0.9467
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000521819.jpg",
+    "original_path": "images/coco300_000000521819.jpg",
+    "num_models": 7,
+    "variance_score": 0.096692,
+    "model_scores": {
+      "dwpose": 0.0861,
+      "openpose": 0.4188,
+      "yolo8n": 0.8879,
+      "yolo8s": 0.9188,
+      "yolo8m": 0.9754,
+      "yolo8l": 0.9738,
+      "yolo11n": 0.9841
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000465822.jpg",
+    "original_path": "images/coco300_000000465822.jpg",
+    "num_models": 7,
+    "variance_score": 0.096442,
+    "model_scores": {
+      "dwpose": 0.0456,
+      "openpose": 0.5338,
+      "yolo8n": 0.487,
+      "yolo8s": 0.9381,
+      "yolo8m": 0.9437,
+      "yolo8l": 0.9564,
+      "yolo11n": 0.9417
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000306139.jpg",
+    "original_path": "images/cocowb300_000000306139.jpg",
+    "num_models": 8,
+    "variance_score": 0.096088,
+    "model_scores": {
+      "dwpose": 0.0267,
+      "mediapipe": 0.358,
+      "openpose": 0.7855,
+      "yolo8n": 0.6114,
+      "yolo8s": 0.9317,
+      "yolo8m": 0.9306,
+      "yolo8l": 0.9762,
+      "yolo11n": 0.9042
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000482735.jpg",
+    "original_path": "images/cocowb300_000000482735.jpg",
+    "num_models": 7,
+    "variance_score": 0.095848,
+    "model_scores": {
+      "dwpose": 0.0455,
+      "mediapipe": 0.5119,
+      "yolo8n": 0.9179,
+      "yolo8s": 0.9486,
+      "yolo8m": 0.9508,
+      "yolo8l": 0.9576,
+      "yolo11n": 0.9274
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000097924.jpg",
+    "original_path": "images/cocowb300_000000097924.jpg",
+    "num_models": 8,
+    "variance_score": 0.095775,
+    "model_scores": {
+      "dwpose": 0.1144,
+      "mediapipe": 0.2682,
+      "openpose": 0.8606,
+      "yolo8n": 0.918,
+      "yolo8s": 0.9802,
+      "yolo8m": 0.9789,
+      "yolo8l": 0.9796,
+      "yolo11n": 0.9757
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000250137.jpg",
+    "original_path": "images/coco300_000000250137.jpg",
+    "num_models": 8,
+    "variance_score": 0.09566,
+    "model_scores": {
+      "dwpose": 0.0246,
+      "mediapipe": 0.5524,
+      "openpose": 0.7751,
+      "yolo8n": 0.5911,
+      "yolo8s": 0.9809,
+      "yolo8m": 0.9764,
+      "yolo8l": 0.9838,
+      "yolo11n": 0.9734
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000398438.jpg",
+    "original_path": "images/cocowb300_000000398438.jpg",
+    "num_models": 6,
+    "variance_score": 0.095418,
+    "model_scores": {
+      "dwpose": 0.0014,
+      "yolo8n": 0.5981,
+      "yolo8s": 0.8771,
+      "yolo8m": 0.772,
+      "yolo8l": 0.929,
+      "yolo11n": 0.3893
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000323263.jpg",
+    "original_path": "images/coco300_000000323263.jpg",
+    "num_models": 8,
+    "variance_score": 0.095401,
+    "model_scores": {
+      "dwpose": 0.0448,
+      "mediapipe": 0.4347,
+      "openpose": 0.6836,
+      "yolo8n": 0.7139,
+      "yolo8s": 0.981,
+      "yolo8m": 0.9881,
+      "yolo8l": 0.984,
+      "yolo11n": 0.967
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000021879.jpg",
+    "original_path": "images/coco300_000000021879.jpg",
+    "num_models": 8,
+    "variance_score": 0.095387,
+    "model_scores": {
+      "dwpose": 0.052,
+      "mediapipe": 0.3707,
+      "openpose": 0.7585,
+      "yolo8n": 0.832,
+      "yolo8s": 0.9835,
+      "yolo8m": 0.9864,
+      "yolo8l": 0.9064,
+      "yolo11n": 0.9658
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000105912.jpg",
+    "original_path": "images/cocowb300_000000105912.jpg",
+    "num_models": 7,
+    "variance_score": 0.095188,
+    "model_scores": {
+      "dwpose": 0.0746,
+      "openpose": 0.4635,
+      "yolo8n": 0.7912,
+      "yolo8s": 0.9814,
+      "yolo8m": 0.9687,
+      "yolo8l": 0.973,
+      "yolo11n": 0.9599
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000261097.jpg",
+    "original_path": "images/coco300_000000261097.jpg",
+    "num_models": 8,
+    "variance_score": 0.094225,
+    "model_scores": {
+      "dwpose": 0.0567,
+      "mediapipe": 0.4468,
+      "openpose": 0.6878,
+      "yolo8n": 0.9322,
+      "yolo8s": 0.9858,
+      "yolo8m": 0.9734,
+      "yolo8l": 0.9825,
+      "yolo11n": 0.9549
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000509014.jpg",
+    "original_path": "images/coco300_000000509014.jpg",
+    "num_models": 8,
+    "variance_score": 0.093813,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0216,
+      "openpose": 0.3127,
+      "yolo8n": 0.8331,
+      "yolo8s": 0.7454,
+      "yolo8m": 0.757,
+      "yolo8l": 0.8509,
+      "yolo11n": 0.5972
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000509014.jpg",
+    "original_path": "images/cocowb300_000000509014.jpg",
+    "num_models": 8,
+    "variance_score": 0.093813,
+    "model_scores": {
+      "dwpose": 0.0,
+      "mediapipe": 0.0216,
+      "openpose": 0.3127,
+      "yolo8n": 0.8331,
+      "yolo8s": 0.7454,
+      "yolo8m": 0.757,
+      "yolo8l": 0.8509,
+      "yolo11n": 0.5972
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000143961.jpg",
+    "original_path": "images/coco300_000000143961.jpg",
+    "num_models": 7,
+    "variance_score": 0.093789,
+    "model_scores": {
+      "dwpose": 0.0397,
+      "openpose": 0.4879,
+      "yolo8n": 0.6185,
+      "yolo8s": 0.7796,
+      "yolo8m": 0.9649,
+      "yolo8l": 0.1443,
+      "yolo11n": 0.7768
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000410510.jpg",
+    "original_path": "images/cocowb300_000000410510.jpg",
+    "num_models": 8,
+    "variance_score": 0.093662,
+    "model_scores": {
+      "dwpose": 0.0706,
+      "mediapipe": 0.3735,
+      "openpose": 0.5985,
+      "yolo8n": 0.9128,
+      "yolo8s": 0.9635,
+      "yolo8m": 0.9673,
+      "yolo8l": 0.9807,
+      "yolo11n": 0.9235
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000172617.jpg",
+    "original_path": "images/cocowb300_000000172617.jpg",
+    "num_models": 7,
+    "variance_score": 0.093623,
+    "model_scores": {
+      "dwpose": 0.0655,
+      "mediapipe": 0.5409,
+      "yolo8n": 0.9422,
+      "yolo8s": 0.9725,
+      "yolo8m": 0.9756,
+      "yolo8l": 0.9455,
+      "yolo11n": 0.9357
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000468332.jpg",
+    "original_path": "images/coco300_000000468332.jpg",
+    "num_models": 8,
+    "variance_score": 0.093551,
+    "model_scores": {
+      "dwpose": 0.0619,
+      "mediapipe": 0.432,
+      "openpose": 0.631,
+      "yolo8n": 0.3519,
+      "yolo8s": 0.9313,
+      "yolo8m": 0.9593,
+      "yolo8l": 0.9604,
+      "yolo11n": 0.9324
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000420916.jpg",
+    "original_path": "images/cocowb300_000000420916.jpg",
+    "num_models": 8,
+    "variance_score": 0.092676,
+    "model_scores": {
+      "dwpose": 0.0122,
+      "mediapipe": 0.6425,
+      "openpose": 0.7748,
+      "yolo8n": 0.8808,
+      "yolo8s": 0.982,
+      "yolo8m": 0.9776,
+      "yolo8l": 0.9687,
+      "yolo11n": 0.9554
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000308631.jpg",
+    "original_path": "images/coco300_000000308631.jpg",
+    "num_models": 6,
+    "variance_score": 0.092665,
+    "model_scores": {
+      "dwpose": 0.0833,
+      "yolo8n": 0.5632,
+      "yolo8s": 0.6161,
+      "yolo8m": 0.8352,
+      "yolo8l": 0.8502,
+      "yolo11n": 0.0124
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000231339.jpg",
+    "original_path": "images/coco300_000000231339.jpg",
+    "num_models": 8,
+    "variance_score": 0.092597,
+    "model_scores": {
+      "dwpose": 0.015,
+      "mediapipe": 0.2695,
+      "openpose": 0.562,
+      "yolo8n": 0.8683,
+      "yolo8s": 0.8185,
+      "yolo8m": 0.9315,
+      "yolo8l": 0.9213,
+      "yolo11n": 0.8037
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000009400.jpg",
+    "original_path": "images/cocowb300_000000009400.jpg",
+    "num_models": 8,
+    "variance_score": 0.092536,
+    "model_scores": {
+      "dwpose": 0.0121,
+      "mediapipe": 0.2158,
+      "openpose": 0.7817,
+      "yolo8n": 0.7095,
+      "yolo8s": 0.8172,
+      "yolo8m": 0.8968,
+      "yolo8l": 0.9413,
+      "yolo11n": 0.7379
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000485480.jpg",
+    "original_path": "images/cocowb300_000000485480.jpg",
+    "num_models": 8,
+    "variance_score": 0.09209,
+    "model_scores": {
+      "dwpose": 0.0987,
+      "mediapipe": 0.3577,
+      "openpose": 0.9041,
+      "yolo8n": 0.9303,
+      "yolo8s": 0.9866,
+      "yolo8m": 0.9373,
+      "yolo8l": 0.9858,
+      "yolo11n": 0.9796
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000333402.jpg",
+    "original_path": "images/cocowb300_000000333402.jpg",
+    "num_models": 8,
+    "variance_score": 0.091914,
+    "model_scores": {
+      "dwpose": 0.0416,
+      "mediapipe": 0.7104,
+      "openpose": 0.8988,
+      "yolo8n": 0.4811,
+      "yolo8s": 0.9539,
+      "yolo8m": 0.966,
+      "yolo8l": 0.9808,
+      "yolo11n": 0.9588
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000208363.jpg",
+    "original_path": "images/coco300_000000208363.jpg",
+    "num_models": 7,
+    "variance_score": 0.091762,
+    "model_scores": {
+      "dwpose": 0.0611,
+      "openpose": 0.5934,
+      "yolo8n": 0.6639,
+      "yolo8s": 0.966,
+      "yolo8m": 0.9694,
+      "yolo8l": 0.985,
+      "yolo11n": 0.9482
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000513524.jpg",
+    "original_path": "images/coco300_000000513524.jpg",
+    "num_models": 8,
+    "variance_score": 0.091484,
+    "model_scores": {
+      "dwpose": 0.0628,
+      "mediapipe": 0.3777,
+      "openpose": 0.8842,
+      "yolo8n": 0.9069,
+      "yolo8s": 0.9478,
+      "yolo8m": 0.9483,
+      "yolo8l": 0.9658,
+      "yolo11n": 0.9288
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000203389.jpg",
+    "original_path": "images/coco300_000000203389.jpg",
+    "num_models": 8,
+    "variance_score": 0.091472,
+    "model_scores": {
+      "dwpose": 0.0863,
+      "mediapipe": 0.2285,
+      "openpose": 0.8915,
+      "yolo8n": 0.694,
+      "yolo8s": 0.9068,
+      "yolo8m": 0.9482,
+      "yolo8l": 0.8994,
+      "yolo11n": 0.9533
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000413689.jpg",
+    "original_path": "images/cocowb300_000000413689.jpg",
+    "num_models": 8,
+    "variance_score": 0.091257,
+    "model_scores": {
+      "dwpose": 0.0638,
+      "mediapipe": 0.4149,
+      "openpose": 0.8484,
+      "yolo8n": 0.9281,
+      "yolo8s": 0.8997,
+      "yolo8m": 0.9787,
+      "yolo8l": 0.9799,
+      "yolo11n": 0.9635
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000492362.jpg",
+    "original_path": "images/coco300_000000492362.jpg",
+    "num_models": 8,
+    "variance_score": 0.091211,
+    "model_scores": {
+      "dwpose": 0.065,
+      "mediapipe": 0.5029,
+      "openpose": 0.933,
+      "yolo8n": 0.9328,
+      "yolo8s": 0.9835,
+      "yolo8m": 0.9862,
+      "yolo8l": 0.9851,
+      "yolo11n": 0.9616
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000173057.jpg",
+    "original_path": "images/cocowb300_000000173057.jpg",
+    "num_models": 5,
+    "variance_score": 0.09065,
+    "model_scores": {
+      "dwpose": 0.1564,
+      "yolo8n": 0.4005,
+      "yolo8s": 0.9373,
+      "yolo8m": 0.9075,
+      "yolo8l": 0.9724
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000288862.jpg",
+    "original_path": "images/coco300_000000288862.jpg",
+    "num_models": 7,
+    "variance_score": 0.090608,
+    "model_scores": {
+      "dwpose": 0.021,
+      "mediapipe": 0.3984,
+      "yolo8n": 0.8975,
+      "yolo8s": 0.8739,
+      "yolo8m": 0.8619,
+      "yolo8l": 0.9181,
+      "yolo11n": 0.8176
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000023359.jpg",
+    "original_path": "images/coco300_000000023359.jpg",
+    "num_models": 8,
+    "variance_score": 0.090289,
+    "model_scores": {
+      "dwpose": 0.0754,
+      "mediapipe": 0.3967,
+      "openpose": 0.8007,
+      "yolo8n": 0.94,
+      "yolo8s": 0.9676,
+      "yolo8m": 0.9789,
+      "yolo8l": 0.9778,
+      "yolo11n": 0.922
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000002431.jpg",
+    "original_path": "images/cocowb300_000000002431.jpg",
+    "num_models": 6,
+    "variance_score": 0.090218,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8n": 0.7712,
+      "yolo8s": 0.6624,
+      "yolo8m": 0.5992,
+      "yolo8l": 0.7917,
+      "yolo11n": 0.0064
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000179642.jpg",
+    "original_path": "images/coco300_000000179642.jpg",
+    "num_models": 8,
+    "variance_score": 0.089902,
+    "model_scores": {
+      "dwpose": 0.0508,
+      "mediapipe": 0.3616,
+      "openpose": 0.3156,
+      "yolo8n": 0.8117,
+      "yolo8s": 0.8871,
+      "yolo8m": 0.8946,
+      "yolo8l": 0.9223,
+      "yolo11n": 0.8856
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000558854.jpg",
+    "original_path": "images/cocowb300_000000558854.jpg",
+    "num_models": 6,
+    "variance_score": 0.089827,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8n": 0.6782,
+      "yolo8s": 0.8395,
+      "yolo8m": 0.8907,
+      "yolo8l": 0.917,
+      "yolo11n": 0.6874
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000458045.jpg",
+    "original_path": "images/cocowb300_000000458045.jpg",
+    "num_models": 8,
+    "variance_score": 0.089697,
+    "model_scores": {
+      "dwpose": 0.1506,
+      "mediapipe": 0.1803,
+      "openpose": 0.4417,
+      "yolo8n": 0.741,
+      "yolo8s": 0.9858,
+      "yolo8m": 0.9755,
+      "yolo8l": 0.9279,
+      "yolo11n": 0.8547
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000309391.jpg",
+    "original_path": "images/cocowb300_000000309391.jpg",
+    "num_models": 4,
+    "variance_score": 0.08931,
+    "model_scores": {
+      "dwpose": 0.1182,
+      "yolo8s": 0.8178,
+      "yolo8m": 0.8793,
+      "yolo8l": 0.9333
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000477955.jpg",
+    "original_path": "images/coco300_000000477955.jpg",
+    "num_models": 8,
+    "variance_score": 0.08899,
+    "model_scores": {
+      "dwpose": 0.0937,
+      "mediapipe": 0.9655,
+      "openpose": 0.4025,
+      "yolo8n": 0.9427,
+      "yolo8s": 0.966,
+      "yolo8m": 0.9736,
+      "yolo8l": 0.9777,
+      "yolo11n": 0.9202
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000372349.jpg",
+    "original_path": "images/cocowb300_000000372349.jpg",
+    "num_models": 8,
+    "variance_score": 0.08897,
+    "model_scores": {
+      "dwpose": 0.0844,
+      "mediapipe": 0.2611,
+      "openpose": 0.8323,
+      "yolo8n": 0.8966,
+      "yolo8s": 0.8759,
+      "yolo8m": 0.9429,
+      "yolo8l": 0.9334,
+      "yolo11n": 0.9439
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000414795.jpg",
+    "original_path": "images/coco300_000000414795.jpg",
+    "num_models": 7,
+    "variance_score": 0.088849,
+    "model_scores": {
+      "dwpose": 0.0876,
+      "openpose": 0.383,
+      "yolo8n": 0.8113,
+      "yolo8s": 0.9614,
+      "yolo8m": 0.9585,
+      "yolo8l": 0.967,
+      "yolo11n": 0.818
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000398742.jpg",
+    "original_path": "images/coco300_000000398742.jpg",
+    "num_models": 8,
+    "variance_score": 0.088819,
+    "model_scores": {
+      "dwpose": 0.1282,
+      "mediapipe": 0.2569,
+      "openpose": 0.6708,
+      "yolo8n": 0.8509,
+      "yolo8s": 0.9871,
+      "yolo8m": 0.9896,
+      "yolo8l": 0.9029,
+      "yolo11n": 0.9713
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000512836.jpg",
+    "original_path": "images/cocowb300_000000512836.jpg",
+    "num_models": 7,
+    "variance_score": 0.088789,
+    "model_scores": {
+      "dwpose": 0.0119,
+      "openpose": 0.7704,
+      "yolo8n": 0.8236,
+      "yolo8s": 0.9351,
+      "yolo8m": 0.949,
+      "yolo8l": 0.9335,
+      "yolo11n": 0.6529
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000232563.jpg",
+    "original_path": "images/cocowb300_000000232563.jpg",
+    "num_models": 8,
+    "variance_score": 0.088373,
+    "model_scores": {
+      "dwpose": 0.0176,
+      "mediapipe": 0.51,
+      "openpose": 0.8324,
+      "yolo8n": 0.9137,
+      "yolo8s": 0.9204,
+      "yolo8m": 0.8554,
+      "yolo8l": 0.9685,
+      "yolo11n": 0.9189
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000441247.jpg",
+    "original_path": "images/coco300_000000441247.jpg",
+    "num_models": 8,
+    "variance_score": 0.087976,
+    "model_scores": {
+      "dwpose": 0.042,
+      "mediapipe": 0.2532,
+      "openpose": 0.5436,
+      "yolo8n": 0.833,
+      "yolo8s": 0.8403,
+      "yolo8m": 0.9179,
+      "yolo8l": 0.9547,
+      "yolo11n": 0.6783
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000441247.jpg",
+    "original_path": "images/cocowb300_000000441247.jpg",
+    "num_models": 8,
+    "variance_score": 0.087976,
+    "model_scores": {
+      "dwpose": 0.042,
+      "mediapipe": 0.2532,
+      "openpose": 0.5436,
+      "yolo8n": 0.833,
+      "yolo8s": 0.8403,
+      "yolo8m": 0.9179,
+      "yolo8l": 0.9547,
+      "yolo11n": 0.6783
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000034139.jpg",
+    "original_path": "images/coco300_000000034139.jpg",
+    "num_models": 8,
+    "variance_score": 0.08784,
+    "model_scores": {
+      "dwpose": 0.0754,
+      "mediapipe": 0.2907,
+      "openpose": 0.5802,
+      "yolo8n": 0.8649,
+      "yolo8s": 0.938,
+      "yolo8m": 0.9339,
+      "yolo8l": 0.9499,
+      "yolo11n": 0.8778
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000507797.jpg",
+    "original_path": "images/coco300_000000507797.jpg",
+    "num_models": 8,
+    "variance_score": 0.087764,
+    "model_scores": {
+      "dwpose": 0.0799,
+      "mediapipe": 0.5873,
+      "openpose": 0.4677,
+      "yolo8n": 0.7632,
+      "yolo8s": 0.9853,
+      "yolo8m": 0.9883,
+      "yolo8l": 0.9899,
+      "yolo11n": 0.9732
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000100624.jpg",
+    "original_path": "images/cocowb300_000000100624.jpg",
+    "num_models": 8,
+    "variance_score": 0.087621,
+    "model_scores": {
+      "dwpose": 0.1565,
+      "mediapipe": 0.1849,
+      "openpose": 0.8316,
+      "yolo8n": 0.8767,
+      "yolo8s": 0.9419,
+      "yolo8m": 0.9627,
+      "yolo8l": 0.9683,
+      "yolo11n": 0.9536
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000456015.jpg",
+    "original_path": "images/coco300_000000456015.jpg",
+    "num_models": 7,
+    "variance_score": 0.087402,
+    "model_scores": {
+      "dwpose": 0.0594,
+      "openpose": 0.6475,
+      "yolo8n": 0.7604,
+      "yolo8s": 0.9665,
+      "yolo8m": 0.9704,
+      "yolo8l": 0.98,
+      "yolo11n": 0.9207
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000456015.jpg",
+    "original_path": "images/cocowb300_000000456015.jpg",
+    "num_models": 7,
+    "variance_score": 0.087402,
+    "model_scores": {
+      "dwpose": 0.0594,
+      "openpose": 0.6475,
+      "yolo8n": 0.7604,
+      "yolo8s": 0.9665,
+      "yolo8m": 0.9704,
+      "yolo8l": 0.98,
+      "yolo11n": 0.9207
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000007281.jpg",
+    "original_path": "images/coco300_000000007281.jpg",
+    "num_models": 7,
+    "variance_score": 0.087157,
+    "model_scores": {
+      "dwpose": 0.0822,
+      "openpose": 0.2599,
+      "yolo8n": 0.8462,
+      "yolo8s": 0.9041,
+      "yolo8m": 0.9017,
+      "yolo8l": 0.922,
+      "yolo11n": 0.7688
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000190753.jpg",
+    "original_path": "images/coco300_000000190753.jpg",
+    "num_models": 7,
+    "variance_score": 0.08697,
+    "model_scores": {
+      "dwpose": 0.0506,
+      "openpose": 0.5957,
+      "yolo8n": 0.5748,
+      "yolo8s": 0.9254,
+      "yolo8m": 0.9577,
+      "yolo8l": 0.9648,
+      "yolo11n": 0.8749
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000147729.jpg",
+    "original_path": "images/coco300_000000147729.jpg",
+    "num_models": 7,
+    "variance_score": 0.086929,
+    "model_scores": {
+      "dwpose": 0.0111,
+      "openpose": 0.5263,
+      "yolo8n": 0.2551,
+      "yolo8s": 0.8502,
+      "yolo8m": 0.8645,
+      "yolo8l": 0.8648,
+      "yolo11n": 0.7976
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000474028.jpg",
+    "original_path": "images/coco300_000000474028.jpg",
+    "num_models": 8,
+    "variance_score": 0.086722,
+    "model_scores": {
+      "dwpose": 0.1365,
+      "mediapipe": 0.4104,
+      "openpose": 0.4332,
+      "yolo8n": 0.8296,
+      "yolo8s": 0.9866,
+      "yolo8m": 0.987,
+      "yolo8l": 0.989,
+      "yolo11n": 0.9817
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000315492.jpg",
+    "original_path": "images/cocowb300_000000315492.jpg",
+    "num_models": 5,
+    "variance_score": 0.08663,
+    "model_scores": {
+      "dwpose": 0.0675,
+      "yolo8n": 0.2246,
+      "yolo8s": 0.8441,
+      "yolo8m": 0.8435,
+      "yolo8l": 0.7653
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000371699.jpg",
+    "original_path": "images/cocowb300_000000371699.jpg",
+    "num_models": 6,
+    "variance_score": 0.086544,
+    "model_scores": {
+      "dwpose": 0.0299,
+      "yolo8n": 0.7895,
+      "yolo8s": 0.8788,
+      "yolo8m": 0.9297,
+      "yolo8l": 0.8107,
+      "yolo11n": 0.8565
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000490515.jpg",
+    "original_path": "images/coco300_000000490515.jpg",
+    "num_models": 7,
+    "variance_score": 0.086164,
+    "model_scores": {
+      "dwpose": 0.0915,
+      "mediapipe": 0.3891,
+      "yolo8n": 0.9217,
+      "yolo8s": 0.9488,
+      "yolo8m": 0.9613,
+      "yolo8l": 0.9067,
+      "yolo11n": 0.7769
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000136334.jpg",
+    "original_path": "images/coco300_000000136334.jpg",
+    "num_models": 8,
+    "variance_score": 0.086,
+    "model_scores": {
+      "dwpose": 0.0488,
+      "mediapipe": 0.4488,
+      "openpose": 0.9434,
+      "yolo8n": 0.9091,
+      "yolo8s": 0.9385,
+      "yolo8m": 0.9434,
+      "yolo8l": 0.9403,
+      "yolo11n": 0.8727
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000136334.jpg",
+    "original_path": "images/cocowb300_000000136334.jpg",
+    "num_models": 8,
+    "variance_score": 0.086,
+    "model_scores": {
+      "dwpose": 0.0488,
+      "mediapipe": 0.4488,
+      "openpose": 0.9434,
+      "yolo8n": 0.9091,
+      "yolo8s": 0.9385,
+      "yolo8m": 0.9434,
+      "yolo8l": 0.9403,
+      "yolo11n": 0.8727
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000472298.jpg",
+    "original_path": "images/coco300_000000472298.jpg",
+    "num_models": 8,
+    "variance_score": 0.085661,
+    "model_scores": {
+      "dwpose": 0.014,
+      "mediapipe": 0.3795,
+      "openpose": 0.354,
+      "yolo8n": 0.7412,
+      "yolo8s": 0.9333,
+      "yolo8m": 0.6154,
+      "yolo8l": 0.898,
+      "yolo11n": 0.8698
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000074457.jpg",
+    "original_path": "images/coco300_000000074457.jpg",
+    "num_models": 7,
+    "variance_score": 0.085156,
+    "model_scores": {
+      "dwpose": 0.0776,
+      "mediapipe": 0.8469,
+      "yolo8n": 0.956,
+      "yolo8s": 0.9764,
+      "yolo8m": 0.9827,
+      "yolo8l": 0.9815,
+      "yolo11n": 0.9259
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000231125.jpg",
+    "original_path": "images/coco300_000000231125.jpg",
+    "num_models": 7,
+    "variance_score": 0.085022,
+    "model_scores": {
+      "dwpose": 0.0,
+      "openpose": 0.7889,
+      "yolo8n": 0.9208,
+      "yolo8s": 0.8712,
+      "yolo8m": 0.8726,
+      "yolo8l": 0.883,
+      "yolo11n": 0.8323
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000009772.jpg",
+    "original_path": "images/coco300_000000009772.jpg",
+    "num_models": 6,
+    "variance_score": 0.084879,
+    "model_scores": {
+      "dwpose": 0.0569,
+      "yolo8n": 0.8271,
+      "yolo8s": 0.8524,
+      "yolo8m": 0.9326,
+      "yolo8l": 0.9523,
+      "yolo11n": 0.7592
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000370486.jpg",
+    "original_path": "images/coco300_000000370486.jpg",
+    "num_models": 8,
+    "variance_score": 0.08471,
+    "model_scores": {
+      "dwpose": 0.0994,
+      "mediapipe": 0.3106,
+      "openpose": 0.7589,
+      "yolo8n": 0.8513,
+      "yolo8s": 0.8927,
+      "yolo8m": 0.9418,
+      "yolo8l": 0.9825,
+      "yolo11n": 0.939
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000489611.jpg",
+    "original_path": "images/cocowb300_000000489611.jpg",
+    "num_models": 8,
+    "variance_score": 0.084709,
+    "model_scores": {
+      "dwpose": 0.0166,
+      "mediapipe": 0.6019,
+      "openpose": 0.6607,
+      "yolo8n": 0.8705,
+      "yolo8s": 0.9251,
+      "yolo8m": 0.9355,
+      "yolo8l": 0.9632,
+      "yolo11n": 0.9078
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000569273.jpg",
+    "original_path": "images/coco300_000000569273.jpg",
+    "num_models": 6,
+    "variance_score": 0.08424,
+    "model_scores": {
+      "dwpose": 0.0,
+      "yolo8n": 0.721,
+      "yolo8s": 0.7965,
+      "yolo8m": 0.911,
+      "yolo8l": 0.822,
+      "yolo11n": 0.7487
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000079969.jpg",
+    "original_path": "images/cocowb300_000000079969.jpg",
+    "num_models": 8,
+    "variance_score": 0.084086,
+    "model_scores": {
+      "dwpose": 0.04,
+      "mediapipe": 0.429,
+      "openpose": 0.5603,
+      "yolo8n": 0.2869,
+      "yolo8s": 0.8895,
+      "yolo8m": 0.9065,
+      "yolo8l": 0.9317,
+      "yolo11n": 0.7557
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000192670.jpg",
+    "original_path": "images/cocowb300_000000192670.jpg",
+    "num_models": 8,
+    "variance_score": 0.084005,
+    "model_scores": {
+      "dwpose": 0.1528,
+      "mediapipe": 0.2822,
+      "openpose": 0.4487,
+      "yolo8n": 0.8184,
+      "yolo8s": 0.9689,
+      "yolo8m": 0.9731,
+      "yolo8l": 0.9661,
+      "yolo11n": 0.9258
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000180011.jpg",
+    "original_path": "images/coco300_000000180011.jpg",
+    "num_models": 6,
+    "variance_score": 0.084004,
+    "model_scores": {
+      "dwpose": 0.0001,
+      "yolo8n": 0.8758,
+      "yolo8s": 0.8068,
+      "yolo8m": 0.7896,
+      "yolo8l": 0.8294,
+      "yolo11n": 0.8386
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000180011.jpg",
+    "original_path": "images/cocowb300_000000180011.jpg",
+    "num_models": 6,
+    "variance_score": 0.084004,
+    "model_scores": {
+      "dwpose": 0.0001,
+      "yolo8n": 0.8758,
+      "yolo8s": 0.8068,
+      "yolo8m": 0.7896,
+      "yolo8l": 0.8294,
+      "yolo11n": 0.8386
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000515579.jpg",
+    "original_path": "images/cocowb300_000000515579.jpg",
+    "num_models": 8,
+    "variance_score": 0.083813,
+    "model_scores": {
+      "dwpose": 0.2031,
+      "mediapipe": 0.2682,
+      "openpose": 0.8443,
+      "yolo8n": 0.397,
+      "yolo8s": 0.9855,
+      "yolo8m": 0.9841,
+      "yolo8l": 0.9882,
+      "yolo11n": 0.9506
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000482275.jpg",
+    "original_path": "images/cocowb300_000000482275.jpg",
+    "num_models": 8,
+    "variance_score": 0.083486,
+    "model_scores": {
+      "dwpose": 0.0282,
+      "mediapipe": 0.4669,
+      "openpose": 0.8424,
+      "yolo8n": 0.8923,
+      "yolo8s": 0.9468,
+      "yolo8m": 0.9096,
+      "yolo8l": 0.8728,
+      "yolo11n": 0.8939
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000284764.jpg",
+    "original_path": "images/cocowb300_000000284764.jpg",
+    "num_models": 8,
+    "variance_score": 0.083109,
+    "model_scores": {
+      "dwpose": 0.0022,
+      "mediapipe": 0.4996,
+      "openpose": 0.7907,
+      "yolo8n": 0.8937,
+      "yolo8s": 0.9163,
+      "yolo8m": 0.9048,
+      "yolo8l": 0.9065,
+      "yolo11n": 0.8647
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000319369.jpg",
+    "original_path": "images/cocowb300_000000319369.jpg",
+    "num_models": 8,
+    "variance_score": 0.083072,
+    "model_scores": {
+      "dwpose": 0.1613,
+      "mediapipe": 0.2196,
+      "openpose": 0.7528,
+      "yolo8n": 0.8543,
+      "yolo8s": 0.9689,
+      "yolo8m": 0.968,
+      "yolo8l": 0.9611,
+      "yolo11n": 0.9664
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000057150.jpg",
+    "original_path": "images/cocowb300_000000057150.jpg",
+    "num_models": 8,
+    "variance_score": 0.082953,
+    "model_scores": {
+      "dwpose": 0.126,
+      "mediapipe": 0.4299,
+      "openpose": 0.5653,
+      "yolo8n": 0.5027,
+      "yolo8s": 0.9818,
+      "yolo8m": 0.9915,
+      "yolo8l": 0.9886,
+      "yolo11n": 0.9452
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000439426.jpg",
+    "original_path": "images/coco300_000000439426.jpg",
+    "num_models": 6,
+    "variance_score": 0.082927,
+    "model_scores": {
+      "dwpose": 0.095,
+      "yolo8n": 0.9401,
+      "yolo8s": 0.8729,
+      "yolo8m": 0.7903,
+      "yolo8l": 0.8528,
+      "yolo11n": 0.9957
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000107339.jpg",
+    "original_path": "images/coco300_000000107339.jpg",
+    "num_models": 8,
+    "variance_score": 0.082636,
+    "model_scores": {
+      "dwpose": 0.1084,
+      "mediapipe": 0.246,
+      "openpose": 0.9475,
+      "yolo8n": 0.8617,
+      "yolo8s": 0.8188,
+      "yolo8m": 0.8049,
+      "yolo8l": 0.8184,
+      "yolo11n": 0.9782
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000095155.jpg",
+    "original_path": "images/cocowb300_000000095155.jpg",
+    "num_models": 7,
+    "variance_score": 0.082332,
+    "model_scores": {
+      "dwpose": 0.085,
+      "openpose": 0.8496,
+      "yolo8n": 0.9134,
+      "yolo8s": 0.9757,
+      "yolo8m": 0.9854,
+      "yolo8l": 0.9833,
+      "yolo11n": 0.9298
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000068409.jpg",
+    "original_path": "images/coco300_000000068409.jpg",
+    "num_models": 7,
+    "variance_score": 0.082285,
+    "model_scores": {
+      "dwpose": 0.0696,
+      "openpose": 0.578,
+      "yolo8n": 0.8045,
+      "yolo8s": 0.8939,
+      "yolo8m": 0.9552,
+      "yolo8l": 0.9838,
+      "yolo11n": 0.8842
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000018150.jpg",
+    "original_path": "images/coco300_000000018150.jpg",
+    "num_models": 7,
+    "variance_score": 0.081743,
+    "model_scores": {
+      "dwpose": 0.0253,
+      "openpose": 0.6648,
+      "yolo8n": 0.7688,
+      "yolo8s": 0.7249,
+      "yolo8m": 0.9714,
+      "yolo8l": 0.9635,
+      "yolo11n": 0.7211
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000325347.jpg",
+    "original_path": "images/cocowb300_000000325347.jpg",
+    "num_models": 8,
+    "variance_score": 0.081396,
+    "model_scores": {
+      "dwpose": 0.0697,
+      "mediapipe": 0.8421,
+      "openpose": 0.5111,
+      "yolo8n": 0.8697,
+      "yolo8s": 0.9662,
+      "yolo8m": 0.9717,
+      "yolo8l": 0.9726,
+      "yolo11n": 0.9388
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000024567.jpg",
+    "original_path": "images/cocowb300_000000024567.jpg",
+    "num_models": 7,
+    "variance_score": 0.081233,
+    "model_scores": {
+      "dwpose": 0.0204,
+      "openpose": 0.4989,
+      "yolo8n": 0.7167,
+      "yolo8s": 0.8646,
+      "yolo8m": 0.916,
+      "yolo8l": 0.9053,
+      "yolo11n": 0.8387
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000289415.jpg",
+    "original_path": "images/cocowb300_000000289415.jpg",
+    "num_models": 7,
+    "variance_score": 0.081062,
+    "model_scores": {
+      "dwpose": 0.0837,
+      "mediapipe": 0.2426,
+      "yolo8n": 0.8569,
+      "yolo8s": 0.8037,
+      "yolo8m": 0.8862,
+      "yolo8l": 0.8582,
+      "yolo11n": 0.8856
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000117492.jpg",
+    "original_path": "images/cocowb300_000000117492.jpg",
+    "num_models": 8,
+    "variance_score": 0.080845,
+    "model_scores": {
+      "dwpose": 0.1187,
+      "mediapipe": 0.31,
+      "openpose": 0.8093,
+      "yolo8n": 0.745,
+      "yolo8s": 0.9608,
+      "yolo8m": 0.964,
+      "yolo8l": 0.9653,
+      "yolo11n": 0.9402
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000012670.jpg",
+    "original_path": "images/coco300_000000012670.jpg",
+    "num_models": 7,
+    "variance_score": 0.080828,
+    "model_scores": {
+      "dwpose": 0.0561,
+      "openpose": 0.3364,
+      "yolo8n": 0.4796,
+      "yolo8s": 0.1592,
+      "yolo8m": 0.8752,
+      "yolo8l": 0.8586,
+      "yolo11n": 0.785
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000463618.jpg",
+    "original_path": "images/coco300_000000463618.jpg",
+    "num_models": 8,
+    "variance_score": 0.080491,
+    "model_scores": {
+      "dwpose": 0.0718,
+      "mediapipe": 0.3179,
+      "openpose": 0.8617,
+      "yolo8n": 0.8817,
+      "yolo8s": 0.9255,
+      "yolo8m": 0.9112,
+      "yolo8l": 0.9115,
+      "yolo11n": 0.8254
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000087144.jpg",
+    "original_path": "images/coco300_000000087144.jpg",
+    "num_models": 8,
+    "variance_score": 0.080474,
+    "model_scores": {
+      "dwpose": 0.0842,
+      "mediapipe": 0.4151,
+      "openpose": 0.7577,
+      "yolo8n": 0.9184,
+      "yolo8s": 0.9308,
+      "yolo8m": 0.9544,
+      "yolo8l": 0.9515,
+      "yolo11n": 0.9524
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000087038.jpg",
+    "original_path": "images/cocowb300_000000087038.jpg",
+    "num_models": 8,
+    "variance_score": 0.080386,
+    "model_scores": {
+      "dwpose": 0.0695,
+      "mediapipe": 0.4344,
+      "openpose": 0.6367,
+      "yolo8n": 0.8718,
+      "yolo8s": 0.9262,
+      "yolo8m": 0.965,
+      "yolo8l": 0.9795,
+      "yolo11n": 0.7779
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000089697.jpg",
+    "original_path": "images/coco300_000000089697.jpg",
+    "num_models": 7,
+    "variance_score": 0.080365,
+    "model_scores": {
+      "dwpose": 0.1605,
+      "openpose": 0.366,
+      "yolo8n": 0.8983,
+      "yolo8s": 0.9392,
+      "yolo8m": 0.9809,
+      "yolo8l": 0.979,
+      "yolo11n": 0.9146
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000143068.jpg",
+    "original_path": "images/coco300_000000143068.jpg",
+    "num_models": 8,
+    "variance_score": 0.08033,
+    "model_scores": {
+      "dwpose": 0.0624,
+      "mediapipe": 0.3823,
+      "openpose": 0.6632,
+      "yolo8n": 0.8171,
+      "yolo8s": 0.918,
+      "yolo8m": 0.9181,
+      "yolo8l": 0.9482,
+      "yolo11n": 0.9151
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000082986.jpg",
+    "original_path": "images/coco300_000000082986.jpg",
+    "num_models": 8,
+    "variance_score": 0.080289,
+    "model_scores": {
+      "dwpose": 0.0864,
+      "mediapipe": 0.2815,
+      "openpose": 0.6746,
+      "yolo8n": 0.842,
+      "yolo8s": 0.8876,
+      "yolo8m": 0.9231,
+      "yolo8l": 0.9301,
+      "yolo11n": 0.9263
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000312192.jpg",
+    "original_path": "images/cocowb300_000000312192.jpg",
+    "num_models": 6,
+    "variance_score": 0.080286,
+    "model_scores": {
+      "dwpose": 0.0012,
+      "yolo8n": 0.3513,
+      "yolo8s": 0.0029,
+      "yolo8m": 0.3977,
+      "yolo8l": 0.8797,
+      "yolo11n": 0.5037
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000273715.jpg",
+    "original_path": "images/coco300_000000273715.jpg",
+    "num_models": 8,
+    "variance_score": 0.080048,
+    "model_scores": {
+      "dwpose": 0.0662,
+      "mediapipe": 0.859,
+      "openpose": 0.6402,
+      "yolo8n": 0.9512,
+      "yolo8s": 0.9809,
+      "yolo8m": 0.9442,
+      "yolo8l": 0.9901,
+      "yolo11n": 0.9165
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000273715.jpg",
+    "original_path": "images/cocowb300_000000273715.jpg",
+    "num_models": 8,
+    "variance_score": 0.080048,
+    "model_scores": {
+      "dwpose": 0.0662,
+      "mediapipe": 0.859,
+      "openpose": 0.6402,
+      "yolo8n": 0.9512,
+      "yolo8s": 0.9809,
+      "yolo8m": 0.9442,
+      "yolo8l": 0.9901,
+      "yolo11n": 0.9165
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000533816.jpg",
+    "original_path": "images/cocowb300_000000533816.jpg",
+    "num_models": 8,
+    "variance_score": 0.080023,
+    "model_scores": {
+      "dwpose": 0.0853,
+      "mediapipe": 0.5758,
+      "openpose": 0.5021,
+      "yolo8n": 0.6995,
+      "yolo8s": 0.9835,
+      "yolo8m": 0.9227,
+      "yolo8l": 0.9748,
+      "yolo11n": 0.9767
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000553788.jpg",
+    "original_path": "images/cocowb300_000000553788.jpg",
+    "num_models": 8,
+    "variance_score": 0.079928,
+    "model_scores": {
+      "dwpose": 0.0705,
+      "mediapipe": 0.2549,
+      "openpose": 0.7091,
+      "yolo8n": 0.842,
+      "yolo8s": 0.9039,
+      "yolo8m": 0.8883,
+      "yolo8l": 0.9248,
+      "yolo11n": 0.8063
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000369541.jpg",
+    "original_path": "images/coco300_000000369541.jpg",
+    "num_models": 7,
+    "variance_score": 0.079903,
+    "model_scores": {
+      "dwpose": 0.0855,
+      "mediapipe": 0.0,
+      "yolo8n": 0.4674,
+      "yolo8s": 0.8394,
+      "yolo8m": 0.7731,
+      "yolo8l": 0.6751,
+      "yolo11n": 0.6518
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000361506.jpg",
+    "original_path": "images/coco300_000000361506.jpg",
+    "num_models": 6,
+    "variance_score": 0.079613,
+    "model_scores": {
+      "dwpose": 0.0119,
+      "yolo8n": 0.7733,
+      "yolo8s": 0.8692,
+      "yolo8m": 0.7706,
+      "yolo8l": 0.8883,
+      "yolo11n": 0.7324
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000529122.jpg",
+    "original_path": "images/coco300_000000529122.jpg",
+    "num_models": 8,
+    "variance_score": 0.07912,
+    "model_scores": {
+      "dwpose": 0.0667,
+      "mediapipe": 0.4855,
+      "openpose": 0.8842,
+      "yolo8n": 0.9106,
+      "yolo8s": 0.946,
+      "yolo8m": 0.9488,
+      "yolo8l": 0.9347,
+      "yolo11n": 0.9108
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000468965.jpg",
+    "original_path": "images/cocowb300_000000468965.jpg",
+    "num_models": 8,
+    "variance_score": 0.078925,
+    "model_scores": {
+      "dwpose": 0.2152,
+      "mediapipe": 0.2006,
+      "openpose": 0.6988,
+      "yolo8n": 0.841,
+      "yolo8s": 0.9797,
+      "yolo8m": 0.9837,
+      "yolo8l": 0.989,
+      "yolo11n": 0.9503
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000153669.jpg",
+    "original_path": "images/cocowb300_000000153669.jpg",
+    "num_models": 8,
+    "variance_score": 0.078687,
+    "model_scores": {
+      "dwpose": 0.1161,
+      "mediapipe": 0.4651,
+      "openpose": 0.5907,
+      "yolo8n": 0.6026,
+      "yolo8s": 0.9811,
+      "yolo8m": 0.9831,
+      "yolo8l": 0.9856,
+      "yolo11n": 0.9581
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000181542.jpg",
+    "original_path": "images/cocowb300_000000181542.jpg",
+    "num_models": 7,
+    "variance_score": 0.078534,
+    "model_scores": {
+      "dwpose": 0.0861,
+      "openpose": 0.8224,
+      "yolo8n": 0.8924,
+      "yolo8s": 0.9434,
+      "yolo8m": 0.9375,
+      "yolo8l": 0.9875,
+      "yolo11n": 0.9285
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000389109.jpg",
+    "original_path": "images/coco300_000000389109.jpg",
+    "num_models": 7,
+    "variance_score": 0.07853,
+    "model_scores": {
+      "dwpose": 0.0575,
+      "openpose": 0.4894,
+      "yolo8n": 0.8217,
+      "yolo8s": 0.8856,
+      "yolo8m": 0.899,
+      "yolo8l": 0.9341,
+      "yolo11n": 0.8633
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000389109.jpg",
+    "original_path": "images/cocowb300_000000389109.jpg",
+    "num_models": 7,
+    "variance_score": 0.07853,
+    "model_scores": {
+      "dwpose": 0.0575,
+      "openpose": 0.4894,
+      "yolo8n": 0.8217,
+      "yolo8s": 0.8856,
+      "yolo8m": 0.899,
+      "yolo8l": 0.9341,
+      "yolo11n": 0.8633
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000098716.jpg",
+    "original_path": "images/cocowb300_000000098716.jpg",
+    "num_models": 7,
+    "variance_score": 0.078402,
+    "model_scores": {
+      "dwpose": 0.0,
+      "openpose": 0.8255,
+      "yolo8n": 0.74,
+      "yolo8s": 0.8734,
+      "yolo8m": 0.9087,
+      "yolo8l": 0.8165,
+      "yolo11n": 0.8
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000412894.jpg",
+    "original_path": "images/cocowb300_000000412894.jpg",
+    "num_models": 6,
+    "variance_score": 0.078367,
+    "model_scores": {
+      "dwpose": 0.0448,
+      "yolo8n": 0.4628,
+      "yolo8s": 0.8137,
+      "yolo8m": 0.8354,
+      "yolo8l": 0.9082,
+      "yolo11n": 0.7766
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000040083.jpg",
+    "original_path": "images/coco300_000000040083.jpg",
+    "num_models": 8,
+    "variance_score": 0.078015,
+    "model_scores": {
+      "dwpose": 0.0494,
+      "mediapipe": 0.7102,
+      "openpose": 0.8766,
+      "yolo8n": 0.9148,
+      "yolo8s": 0.9582,
+      "yolo8m": 0.9581,
+      "yolo8l": 0.969,
+      "yolo11n": 0.9007
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000327601.jpg",
+    "original_path": "images/cocowb300_000000327601.jpg",
+    "num_models": 8,
+    "variance_score": 0.077855,
+    "model_scores": {
+      "dwpose": 0.1304,
+      "mediapipe": 0.3317,
+      "openpose": 0.9165,
+      "yolo8n": 0.8197,
+      "yolo8s": 0.9788,
+      "yolo8m": 0.9814,
+      "yolo8l": 0.8786,
+      "yolo11n": 0.8865
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000405249.jpg",
+    "original_path": "images/coco300_000000405249.jpg",
+    "num_models": 7,
+    "variance_score": 0.077811,
+    "model_scores": {
+      "dwpose": 0.0617,
+      "openpose": 0.701,
+      "yolo8n": 0.7268,
+      "yolo8s": 0.9498,
+      "yolo8m": 0.9217,
+      "yolo8l": 0.9304,
+      "yolo11n": 0.9364
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000405249.jpg",
+    "original_path": "images/cocowb300_000000405249.jpg",
+    "num_models": 7,
+    "variance_score": 0.077811,
+    "model_scores": {
+      "dwpose": 0.0617,
+      "openpose": 0.701,
+      "yolo8n": 0.7268,
+      "yolo8s": 0.9498,
+      "yolo8m": 0.9217,
+      "yolo8l": 0.9304,
+      "yolo11n": 0.9364
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000013774.jpg",
+    "original_path": "images/coco300_000000013774.jpg",
+    "num_models": 6,
+    "variance_score": 0.077664,
+    "model_scores": {
+      "dwpose": 0.1771,
+      "yolo8n": 0.8997,
+      "yolo8s": 0.8967,
+      "yolo8m": 0.9293,
+      "yolo8l": 0.2653,
+      "yolo11n": 0.8733
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000013774.jpg",
+    "original_path": "images/cocowb300_000000013774.jpg",
+    "num_models": 6,
+    "variance_score": 0.077664,
+    "model_scores": {
+      "dwpose": 0.1771,
+      "yolo8n": 0.8997,
+      "yolo8s": 0.8967,
+      "yolo8m": 0.9293,
+      "yolo8l": 0.2653,
+      "yolo11n": 0.8733
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000507015.jpg",
+    "original_path": "images/coco300_000000507015.jpg",
+    "num_models": 8,
+    "variance_score": 0.077506,
+    "model_scores": {
+      "dwpose": 0.0968,
+      "mediapipe": 0.7234,
+      "openpose": 0.5453,
+      "yolo8n": 0.9351,
+      "yolo8s": 0.9708,
+      "yolo8m": 0.9794,
+      "yolo8l": 0.9851,
+      "yolo11n": 0.956
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000080932.jpg",
+    "original_path": "images/cocowb300_000000080932.jpg",
+    "num_models": 7,
+    "variance_score": 0.077389,
+    "model_scores": {
+      "dwpose": 0.0686,
+      "openpose": 0.8708,
+      "yolo8n": 0.9087,
+      "yolo8s": 0.9361,
+      "yolo8m": 0.952,
+      "yolo8l": 0.9487,
+      "yolo11n": 0.7753
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000233771.jpg",
+    "original_path": "images/cocowb300_000000233771.jpg",
+    "num_models": 7,
+    "variance_score": 0.077301,
+    "model_scores": {
+      "dwpose": 0.0369,
+      "openpose": 0.5756,
+      "yolo8n": 0.8518,
+      "yolo8s": 0.8586,
+      "yolo8m": 0.9063,
+      "yolo8l": 0.9099,
+      "yolo11n": 0.8781
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000139099.jpg",
+    "original_path": "images/cocowb300_000000139099.jpg",
+    "num_models": 7,
+    "variance_score": 0.07719,
+    "model_scores": {
+      "dwpose": 0.1038,
+      "openpose": 0.5195,
+      "yolo8n": 0.6678,
+      "yolo8s": 0.9684,
+      "yolo8m": 0.9295,
+      "yolo8l": 0.938,
+      "yolo11n": 0.9423
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000146358.jpg",
+    "original_path": "images/cocowb300_000000146358.jpg",
+    "num_models": 8,
+    "variance_score": 0.07687,
+    "model_scores": {
+      "dwpose": 0.0833,
+      "mediapipe": 0.4554,
+      "openpose": 0.3743,
+      "yolo8n": 0.7736,
+      "yolo8s": 0.8694,
+      "yolo8m": 0.9703,
+      "yolo8l": 0.8728,
+      "yolo11n": 0.8575
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000532855.jpg",
+    "original_path": "images/coco300_000000532855.jpg",
+    "num_models": 6,
+    "variance_score": 0.07674,
+    "model_scores": {
+      "dwpose": 0.0053,
+      "yolo8n": 0.8416,
+      "yolo8s": 0.8677,
+      "yolo8m": 0.657,
+      "yolo8l": 0.7056,
+      "yolo11n": 0.8261
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000532855.jpg",
+    "original_path": "images/cocowb300_000000532855.jpg",
+    "num_models": 6,
+    "variance_score": 0.07674,
+    "model_scores": {
+      "dwpose": 0.0053,
+      "yolo8n": 0.8416,
+      "yolo8s": 0.8677,
+      "yolo8m": 0.657,
+      "yolo8l": 0.7056,
+      "yolo11n": 0.8261
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000562581.jpg",
+    "original_path": "images/coco300_000000562581.jpg",
+    "num_models": 7,
+    "variance_score": 0.076509,
+    "model_scores": {
+      "dwpose": 0.1311,
+      "openpose": 0.4777,
+      "yolo8n": 0.6159,
+      "yolo8s": 0.9721,
+      "yolo8m": 0.9889,
+      "yolo8l": 0.986,
+      "yolo11n": 0.6181
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000562581.jpg",
+    "original_path": "images/cocowb300_000000562581.jpg",
+    "num_models": 7,
+    "variance_score": 0.076509,
+    "model_scores": {
+      "dwpose": 0.1311,
+      "openpose": 0.4777,
+      "yolo8n": 0.6159,
+      "yolo8s": 0.9721,
+      "yolo8m": 0.9889,
+      "yolo8l": 0.986,
+      "yolo11n": 0.6181
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000262587.jpg",
+    "original_path": "images/coco300_000000262587.jpg",
+    "num_models": 6,
+    "variance_score": 0.076382,
+    "model_scores": {
+      "dwpose": 0.1078,
+      "yolo8n": 0.8597,
+      "yolo8s": 0.9368,
+      "yolo8m": 0.9491,
+      "yolo8l": 0.9555,
+      "yolo11n": 0.7734
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000059635.jpg",
+    "original_path": "images/coco300_000000059635.jpg",
+    "num_models": 7,
+    "variance_score": 0.076299,
+    "model_scores": {
+      "dwpose": 0.098,
+      "openpose": 0.5908,
+      "yolo8n": 0.584,
+      "yolo8s": 0.9223,
+      "yolo8m": 0.9661,
+      "yolo8l": 0.9892,
+      "yolo11n": 0.7879
+    }
+  },
+  {
+    "dataset": "cocowb300",
+    "image_name": "000000393056.jpg",
+    "original_path": "images/cocowb300_000000393056.jpg",
+    "num_models": 7,
+    "variance_score": 0.075991,
+    "model_scores": {
+      "dwpose": 0.0983,
+      "mediapipe": 0.8878,
+      "yolo8n": 0.93,
+      "yolo8s": 0.9564,
+      "yolo8m": 0.9783,
+      "yolo8l": 0.9663,
+      "yolo11n": 0.8679
+    }
+  },
+  {
+    "dataset": "coco300",
+    "image_name": "000000481386.jpg",
+    "original_path": "images/coco300_000000481386.jpg",
+    "num_models": 8,
+    "variance_score": 0.075825,
+    "model_scores": {
+      "dwpose": 0.081,
+      "mediapipe": 0.5068,
+      "openpose": 0.9265,
+      "yolo8n": 0.9019,
+      "yolo8s": 0.9244,
+      "yolo8m": 0.9486,
+      "yolo8l": 0.9568,
+      "yolo11n": 0.8973
+    }
+  }
+]
